@@ -1,11 +1,14 @@
-# Ignore folders
+# Ignore folders:
 Exam/*
 INF*/*
 Lectures*/*
 Lesson*/*
 Note*/*
 
+# Ignore files:
 *.sh
+*.tex#
+*.tex~
 *.aux
 *.log
 *.out
