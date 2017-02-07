@@ -1,0 +1,43 @@
+
+%For en person
+
+\newcommand\Signature[2]{\par\bigskip
+  \setlength\tabcolsep{0pt}
+  \begin{tabular}{@{\hspace{.05\textwidth}}>{\centering\arraybackslash}p{.4\textwidth}
+      @{\hspace*{.1\textwidth}}>{\centering\arraybackslash}p{.4\textwidth}@{\hspace{.05\textwidth}}}
+  \multicolumn{2}{c}{#1, \today} \\[10ex]
+  \multicolumn{2}{c}{\rule{.4\textwidth}{0.4pt}} \\
+  \multicolumn{2}{c}{#2} \\
+  \end{tabular} \par}
+  
+
+%For tre personer:
+  
+%\newcommand\Signature[4]{\par\bigskip
+%\setlength\tabcolsep{0pt}
+%\begin{tabular}{@{\hspace{.05\textwidth}}>{\centering\arraybackslash}p{.4\textwidth}
+%  @{\hspace*{.1\textwidth}}>{\centering\arraybackslash}p{.4\textwidth}@{\hspace{.05\textwidth}}}
+%\multicolumn{2}{c}{#1, \today} \\[10ex]
+%\multicolumn{2}{c}{\rule{.4\textwidth}{0.4pt}} \\
+%\multicolumn{2}{c}{#2} \\[10ex]
+%\multicolumn{2}{c}{\rule{.4\textwidth}{0.4pt}} \\
+%\multicolumn{2}{c}{#3} \\[10ex]
+%\multicolumn{2}{c}{\rule{.4\textwidth}{0.4pt}} \\
+%\multicolumn{2}{c}{#4} \\[10ex]
+%\end{tabular} \par}
+
+
+%For flere personer i gruppen (6)
+
+%\newcommand\Signature[7]{\par\bigskip
+%  \setlength\tabcolsep{0pt}
+%  \begin{tabular}{@{\hspace{.05\textwidth}}>{\centering\arraybackslash}p{.4\textwidth}
+%    @{\hspace*{.1\textwidth}}>{\centering\arraybackslash}p{.4\textwidth}@{\hspace{.05\textwidth}}}
+%  \multicolumn{2}{c}{#1, \today} \\[10ex]
+%  \rule{.4\textwidth}{0.4pt} & \rule{.4\textwidth}{0.4pt} 	\\
+%  #2 & #3 \\[10ex]
+%   \rule{.4\textwidth}{0.4pt} & \rule{.4\textwidth}{0.4pt} 	\\
+%  #4 & #5 \\[10ex]
+%  \rule{.4\textwidth}{0.4pt} & \rule{.4\textwidth}{0.4pt} 	\\
+%  #6 & #7 \\[10ex]
+%  \end{tabular} \par}

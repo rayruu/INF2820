@@ -1,0 +1,63 @@
+% ===================== LANGUAGE ==========================
+\usepackage{microtype}               % Subliminal refinements towards typographical perfection
+\usepackage[utf8]{inputenc}          % Encoding of input files UTF-8
+%\usepackage[norsk]{babel}            % Multilingual support for Plain TeX of LaTeX
+\usepackage[T1]{fontenc}             % Standard package for selecting font encodings
+\usepackage[scaled]{beramono}        % Font
+\usepackage{color}                   % color text
+\usepackage{titlesec}                % Select altenative section titles
+\usepackage{fancyvrb}                % Sophisticated verbatim text
+\usepackage{verbatim}                % Comment environment
+\usepackage{listings}                % Formant and render text/code etc.
+\usepackage{lipsum}                  % Easy acces to the Lorem lipsum dummy text
+
+% ===================== Header and footers ================
+\usepackage{fancyhdr}                % Extensive control of page headers and footers in LaTeX
+
+% ===================== Tabell ============================
+\usepackage{enumitem}                % Control layout of itemize, enumerate, description
+\usepackage{tabu}                    % Flexible LaTeX tabulars
+\usepackage{multicol}                % Multiple columns
+
+% ====================== Math ==============================
+\usepackage{mathptmx}                % Use Times as default tect font and provide maths support
+% AMS:
+\usepackage{amsmath}                 % AMS mathematical facilitis for LaTeX
+%\usepackage{amsymb}                  % Math symbols
+\usepackage{amsfonts}                % Math fonts
+\usepackage{siunitx}                 % SI units
+\usepackage{mathtools}               % Different math tools to use with amsmath
+\usepackage{bm}                      % Bold symbols in maths mode
+\usepackage{gensymb}                 % Generic symbols for both text and math mode
+
+% ====================== Pictures ==========================
+\usepackage{placeins}                % Control float placement
+\usepackage{epsfig}                  % Include Encapsulated PostScript in LaTeX
+\usepackage{graphicx}                % Better figures, graphics, units etc.
+\usepackage{subfigure}               % Figures divided into subfigures
+\usepackage{epstopdf}                % Convert EPS to PDF using Ghostscript
+\usepackage{framed}                  % Framed or shaded regions that can break across pages
+\usepackage[font=small]{caption}      % Customising captions in floating environments
+\numberwithin{figure}{section}
+\usepackage{float}                   % Control of floating environment/figure
+
+% ====================== Div ===============================
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\usepackage[pass]{geometry}          % Flexible and complete interface to document dimensions
+\usepackage{parskip}                 % Layout with zero \parindent, non-zero \parskip
+\usepackage{lscape}                  % Place selected parts of a document in landscape
+\usepackage{exsheets}                % Create exercies sheets and exams
+\usepackage{tabto}                   % "Tab" to a measured position in the line
+\newcommand\marginsymbol[1][0pt]{%
+  \tabto*{0cm}\makebox[\dimexpr-1cm-#1\relax][r]{$\mathbb{P}$}\tabto*{\TabPrevPos}}
+
+\renewcommand{\thesubsection}{\thesection.\alph{subsection}}
+
+% ====================== Hyperlink =========================
+\usepackage{hyperref}                % Links in TOC etc.
+\hypersetup{
+  colorlinks = false,
+  pdfborder = {0,0,0},
+}
+\usepackage[all]{hypcap}             % Better links to floating environment
+

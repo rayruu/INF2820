@@ -1,0 +1,8 @@
+import re
+
+def beskriver(regeksp, ord):
+	reg= "^("+regeksp+")$"
+	if re.search(reg, ord):
+		return True
+	else: 
+		return False

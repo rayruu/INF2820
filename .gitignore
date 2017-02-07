@@ -1,0 +1,14 @@
+# Ignore folders
+Exam/*
+INF*/*
+Lectures*/*
+Lesson*/*
+Note*/*
+
+*.sh
+*.aux
+*.log
+*.out
+*.bcf
+*.xml
+
