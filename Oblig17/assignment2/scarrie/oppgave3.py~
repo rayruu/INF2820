@@ -1,0 +1,20 @@
+from read_lexicon_py3 import *
+
+sclex = ScaryLexicon()
+
+print(sclex.words)
+#oppgave 3:
+
+"""
+>>> sclex = ScaryLexicon() 
+>>> wf2 = sclex.words[‘w99263’] 
+>>> wf.form 
+'glupskest' 
+>>> wf2.morf_feat 
+'Adj,indef,sg' 
+>>> wf2.syn_feat 
+'Adj_mfn_sup_indef_sg' 
+>>> wf2.ident 
+‘w99263’
+
+""" 
