@@ -1,0 +1,22374 @@
+1c1
+< scen
+---
+> SCENE
+12,13c12,13
+< king
+< arth
+---
+> KING
+> ARTHUR
+15,16c15,16
+< who
+< ther
+---
+> Whoa
+> there
+23c23
+< soldy
+---
+> SOLDIER
+27c27
+< halt
+---
+> Halt
+29,31c29,31
+< who
+< goe
+< ther
+---
+> Who
+> goes
+> there
+33c33
+< arth
+---
+> ARTHUR
+35c35
+< it
+---
+> It
+37c37
+< i
+---
+> I
+39c39
+< arth
+---
+> Arthur
+43,44c43,44
+< uth
+< pendragon
+---
+> Uther
+> Pendragon
+48c48
+< castl
+---
+> castle
+50c50
+< camelot
+---
+> Camelot
+52c52
+< king
+---
+> King
+55c55
+< briton
+---
+> Britons
+57c57
+< def
+---
+> defeator
+60c60
+< saxon
+---
+> Saxons
+64,65c64,65
+< al
+< england
+---
+> all
+> England
+67c67
+< soldy
+---
+> SOLDIER
+71c71
+< pul
+---
+> Pull
+73,74c73,74
+< oth
+< on
+---
+> other
+> one
+76c76
+< arth
+---
+> ARTHUR
+78c78
+< i
+---
+> I
+83c83
+< thi
+---
+> this
+87,88c87,88
+< serv
+< patsy
+---
+> servant
+> Patsy
+90,92c90,92
+< we
+< hav
+< rid
+---
+> We
+> have
+> ridden
+94c94
+< leng
+---
+> length
+96c96
+< bread
+---
+> breadth
+103c103
+< knight
+---
+> knights
+105c105
+< wil
+---
+> will
+112c112
+< camelot
+---
+> Camelot
+114c114
+< i
+---
+> I
+118c118
+< yo
+---
+> your
+121c121
+< mast
+---
+> master
+123c123
+< soldy
+---
+> SOLDIER
+127c127
+< what
+---
+> What
+129c129
+< rid
+---
+> Ridden
+132c132
+< hors
+---
+> horse
+134c134
+< arth
+---
+> ARTHUR
+136c136
+< ye
+---
+> Yes
+138c138
+< soldy
+---
+> SOLDIER
+142c142
+< you
+---
+> You
+145,146c145,146
+< us
+< coconut
+---
+> using
+> coconuts
+148c148
+< arth
+---
+> ARTHUR
+150c150
+< what
+---
+> What
+152c152
+< soldy
+---
+> SOLDIER
+156c156
+< you
+---
+> You
+162c162
+< halv
+---
+> halves
+173c173
+< togeth
+---
+> together
+175c175
+< arth
+---
+> ARTHUR
+177c177
+< so
+---
+> So
+179,188c179,188
+< we
+< hav
+< rid
+< sint
+< the
+< snow
+< of
+< wint
+< cov
+< thi
+---
+> We
+> have
+> ridden
+> since
+> the
+> snows
+> of
+> winter
+> covered
+> this
+195c195
+< merce
+---
+> Mercea
+199c199
+< soldy
+---
+> SOLDIER
+203c203
+< wher
+---
+> Where
+209c209
+< coconut
+---
+> coconuts
+211c211
+< arth
+---
+> ARTHUR
+213c213
+< we
+---
+> We
+217c217
+< soldy
+---
+> SOLDIER
+221c221
+< found
+---
+> Found
+224,225c224,225
+< in
+< merce
+---
+> In
+> Mercea
+227c227
+< the
+---
+> The
+231c231
+< trop
+---
+> tropical
+233c233
+< arth
+---
+> ARTHUR
+235c235
+< what
+---
+> What
+240c240
+< soldy
+---
+> SOLDIER
+244c244
+< wel
+---
+> Well
+246c246
+< thi
+---
+> this
+249,250c249,250
+< temp
+< zon
+---
+> temperate
+> zone
+252c252
+< arth
+---
+> ARTHUR
+254c254
+< the
+---
+> The
+258c258
+< sou
+---
+> south
+264c264
+< hous
+---
+> house
+268c268
+< plov
+---
+> plover
+271,272c271,272
+< warm
+< clim
+---
+> warmer
+> climes
+274c274
+< wint
+---
+> winter
+277,278c277,278
+< thes
+< ar
+---
+> these
+> are
+285c285
+< soldy
+---
+> SOLDIER
+289c289
+< ar
+---
+> Are
+291,293c291,293
+< suggest
+< coconut
+< migr
+---
+> suggesting
+> coconuts
+> migrate
+295c295
+< arth
+---
+> ARTHUR
+297c297
+< not
+---
+> Not
+299c299
+< al
+---
+> all
+301c301
+< they
+---
+> They
+304c304
+< carry
+---
+> carried
+306c306
+< soldy
+---
+> SOLDIER
+310c310
+< what
+---
+> What
+312c312
+< a
+---
+> A
+314c314
+< carry
+---
+> carrying
+318c318
+< arth
+---
+> ARTHUR
+320c320
+< it
+---
+> It
+328c328
+< soldy
+---
+> SOLDIER
+332c332
+< it
+---
+> It
+337c337
+< quest
+---
+> question
+339c339
+< wher
+---
+> where
+341c341
+< grip
+---
+> grips
+344c344
+< it
+---
+> It
+348,349c348,349
+< simpl
+< quest
+---
+> simple
+> question
+352c352
+< ratio
+---
+> ratios
+354,356c354,356
+< a
+< fiv
+< ount
+---
+> A
+> five
+> ounce
+362c362
+< on
+---
+> one
+366c366
+< arth
+---
+> ARTHUR
+368c368
+< wel
+---
+> Well
+374c374
+< mat
+---
+> matter
+376c376
+< wil
+---
+> Will
+380,382c380,382
+< tel
+< yo
+< mast
+---
+> tell
+> your
+> master
+384c384
+< arth
+---
+> Arthur
+387c387
+< court
+---
+> Court
+389c389
+< camelot
+---
+> Camelot
+391c391
+< her
+---
+> here
+393c393
+< soldy
+---
+> SOLDIER
+397c397
+< list
+---
+> Listen
+399,400c399,400
+< in
+< ord
+---
+> In
+> order
+405,406c405,406
+< spee
+< veloc
+---
+> speed
+> velocity
+410c410
+< nee
+---
+> needs
+413,414c413,414
+< it
+< wing
+---
+> its
+> wings
+418c418
+< tim
+---
+> times
+424c424
+< arth
+---
+> ARTHUR
+426c426
+< pleas
+---
+> Please
+428c428
+< soldy
+---
+> SOLDIER
+432,433c432,433
+< am
+< i
+---
+> Am
+> I
+436c436
+< arth
+---
+> ARTHUR
+438c438
+< i
+---
+> I
+442c442
+< interest
+---
+> interested
+444c444
+< soldy
+---
+> SOLDIER
+448c448
+< it
+---
+> It
+451c451
+< carry
+---
+> carried
+454c454
+< afr
+---
+> African
+457c457
+< soldy
+---
+> SOLDIER
+461c461
+< oh
+---
+> Oh
+466c466
+< afr
+---
+> African
+468c468
+< mayb
+---
+> maybe
+473c473
+< europ
+---
+> European
+476c476
+< that
+---
+> That
+482c482
+< soldy
+---
+> SOLDIER
+486c486
+< oh
+---
+> Oh
+490,491c490,491
+< i
+< agr
+---
+> I
+> agree
+495c495
+< arth
+---
+> ARTHUR
+497c497
+< wil
+---
+> Will
+500,501c500,501
+< yo
+< mast
+---
+> your
+> master
+504c504
+< want
+---
+> wants
+510c510
+< camelot
+---
+> Camelot
+512c512
+< soldy
+---
+> SOLDIER
+516c516
+< but
+---
+> But
+519c519
+< cours
+---
+> course
+522,524c522,524
+< afr
+< swallow
+< ar
+---
+> African
+> swallows
+> are
+527c527
+< migr
+---
+> migratory
+529c529
+< soldy
+---
+> SOLDIER
+533c533
+< oh
+---
+> Oh
+537c537
+< soldy
+---
+> SOLDIER
+541c541
+< so
+---
+> So
+557c557
+< soldy
+---
+> SOLDIER
+561c561
+< wait
+---
+> Wait
+563c563
+< minut
+---
+> minute
+565c565
+< suppos
+---
+> Supposing
+567,568c567,568
+< swallow
+< carry
+---
+> swallows
+> carried
+570c570
+< togeth
+---
+> together
+572c572
+< soldy
+---
+> SOLDIER
+576c576
+< no
+---
+> No
+581c581
+< hav
+---
+> have
+583c583
+< hav
+---
+> have
+587c587
+< lin
+---
+> line
+589c589
+< soldy
+---
+> SOLDIER
+593c593
+< wel
+---
+> Well
+595c595
+< simpl
+---
+> simple
+597c597
+< they
+---
+> They
+601c601
+< us
+---
+> use
+605c605
+< creep
+---
+> creeper
+607c607
+< soldy
+---
+> SOLDIER
+611c611
+< what
+---
+> What
+614c614
+< und
+---
+> under
+616,618c616,618
+< dors
+< guid
+< feath
+---
+> dorsal
+> guiding
+> feathers
+620c620
+< soldy
+---
+> SOLDIER
+624c624
+< wel
+---
+> Well
+629c629
+< scen
+---
+> SCENE
+638c638
+< cart
+---
+> CART
+640c640
+< mast
+---
+> MASTER
+642c642
+< bring
+---
+> Bring
+644c644
+< yo
+---
+> your
+650c650
+< bring
+---
+> Bring
+652c652
+< yo
+---
+> your
+658c658
+< bring
+---
+> Bring
+660c660
+< yo
+---
+> your
+666c666
+< bring
+---
+> Bring
+668c668
+< yo
+---
+> your
+674c674
+< bring
+---
+> Bring
+676c676
+< yo
+---
+> your
+690c690
+< bring
+---
+> Bring
+692c692
+< yo
+---
+> your
+698c698
+< bring
+---
+> Bring
+700c700
+< yo
+---
+> your
+706c706
+< bring
+---
+> Bring
+708c708
+< yo
+---
+> your
+711c711
+< ninep
+---
+> Ninepence
+716c716
+< bring
+---
+> Bring
+718c718
+< yo
+---
+> your
+724c724
+< bring
+---
+> Bring
+726c726
+< yo
+---
+> your
+732c732
+< bring
+---
+> Bring
+739c739
+< yo
+---
+> your
+748c748
+< bring
+---
+> Bring
+750c750
+< yo
+---
+> your
+753c753
+< custom
+---
+> CUSTOMER
+755c755
+< her
+---
+> Here
+758c758
+< on
+---
+> one
+760c760
+< cart
+---
+> CART
+762c762
+< mast
+---
+> MASTER
+764c764
+< ninep
+---
+> Ninepence
+766,767c766,767
+< dead
+< person
+---
+> DEAD
+> PERSON
+769c769
+< i
+---
+> I
+775c775
+< cart
+---
+> CART
+777c777
+< mast
+---
+> MASTER
+779c779
+< what
+---
+> What
+781c781
+< custom
+---
+> CUSTOMER
+783c783
+< noth
+---
+> Nothing
+785c785
+< her
+---
+> Here
+788,789c788,789
+< yo
+< ninep
+---
+> your
+> ninepence
+791,792c791,792
+< dead
+< person
+---
+> DEAD
+> PERSON
+794c794
+< i
+---
+> I
+800c800
+< cart
+---
+> CART
+802c802
+< mast
+---
+> MASTER
+805c805
+< er
+---
+> Ere
+807,808c807,808
+< he
+< say
+---
+> He
+> says
+815c815
+< custom
+---
+> CUSTOMER
+817c817
+< ye
+---
+> Yes
+821,822c821,822
+< dead
+< person
+---
+> DEAD
+> PERSON
+824c824
+< i
+---
+> I
+829c829
+< cart
+---
+> CART
+831c831
+< mast
+---
+> MASTER
+833c833
+< he
+---
+> He
+838c838
+< custom
+---
+> CUSTOMER
+840c840
+< wel
+---
+> Well
+843c843
+< wil
+---
+> will
+847c847
+< he
+---
+> He
+851c851
+< il
+---
+> ill
+853,854c853,854
+< dead
+< person
+---
+> DEAD
+> PERSON
+856c856
+< i
+---
+> I
+859,860c859,860
+< get
+< bet
+---
+> getting
+> better
+862c862
+< custom
+---
+> CUSTOMER
+864c864
+< no
+---
+> No
+870c870
+< you
+---
+> You
+874c874
+< ston
+---
+> stone
+878c878
+< mom
+---
+> moment
+880c880
+< cart
+---
+> CART
+882c882
+< mast
+---
+> MASTER
+884c884
+< oh
+---
+> Oh
+886c886
+< i
+---
+> I
+890c890
+< tak
+---
+> take
+892c892
+< lik
+---
+> like
+895c895
+< it
+---
+> It
+899c899
+< reg
+---
+> regulations
+901,902c901,902
+< dead
+< person
+---
+> DEAD
+> PERSON
+904c904
+< i
+---
+> I
+915c915
+< custom
+---
+> CUSTOMER
+917c917
+< oh
+---
+> Oh
+927c927
+< cart
+---
+> CART
+929c929
+< mast
+---
+> MASTER
+931c931
+< i
+---
+> I
+935c935
+< tak
+---
+> take
+938,939c938,939
+< dead
+< person
+---
+> DEAD
+> PERSON
+941c941
+< i
+---
+> I
+943c943
+< fin
+---
+> fine
+945c945
+< custom
+---
+> CUSTOMER
+947c947
+< wel
+---
+> Well
+952c952
+< fav
+---
+> favor
+954c954
+< cart
+---
+> CART
+956c956
+< mast
+---
+> MASTER
+958c958
+< i
+---
+> I
+963c963
+< custom
+---
+> CUSTOMER
+965c965
+< wel
+---
+> Well
+972c972
+< coupl
+---
+> couple
+974c974
+< minut
+---
+> minutes
+976c976
+< he
+---
+> He
+983c983
+< cart
+---
+> CART
+985c985
+< mast
+---
+> MASTER
+987c987
+< no
+---
+> No
+989c989
+< i
+---
+> I
+997c997
+< robinson
+---
+> Robinson
+1001c1001
+< they
+---
+> They
+1005c1005
+< nin
+---
+> nine
+1008c1008
+< custom
+---
+> CUSTOMER
+1010c1010
+< wel
+---
+> Well
+1015c1015
+< yo
+---
+> your
+1019c1019
+< cart
+---
+> CART
+1021c1021
+< mast
+---
+> MASTER
+1023c1023
+< thursday
+---
+> Thursday
+1025,1026c1025,1026
+< dead
+< person
+---
+> DEAD
+> PERSON
+1028c1028
+< i
+---
+> I
+1030c1030
+< i
+---
+> I
+1038c1038
+< custom
+---
+> CUSTOMER
+1040c1040
+< you
+---
+> You
+1044,1045c1044,1045
+< fool
+< anyon
+---
+> fooling
+> anyone
+1049c1049
+< look
+---
+> Look
+1054,1055c1054,1055
+< ther
+< someth
+---
+> there
+> something
+1060,1061c1060,1061
+< dead
+< person
+---
+> DEAD
+> PERSON
+1064c1064
+< sing
+---
+> singing
+1066c1066
+< i
+---
+> I
+1070c1070
+< i
+---
+> I
+1077c1077
+< custom
+---
+> CUSTOMER
+1079c1079
+< ah
+---
+> Ah
+1081c1081
+< thank
+---
+> thanks
+1085c1085
+< cart
+---
+> CART
+1087c1087
+< mast
+---
+> MASTER
+1089c1089
+< not
+---
+> Not
+1091c1091
+< al
+---
+> all
+1093c1093
+< see
+---
+> See
+1096c1096
+< thursday
+---
+> Thursday
+1098c1098
+< custom
+---
+> CUSTOMER
+1100c1100
+< right
+---
+> Right
+1102c1102
+< al
+---
+> All
+1113c1113
+< who
+---
+> Who
+1119c1119
+< cart
+---
+> CART
+1121c1121
+< mast
+---
+> MASTER
+1123c1123
+< i
+---
+> I
+1126c1126
+< must
+---
+> Must
+1131c1131
+< custom
+---
+> CUSTOMER
+1133c1133
+< why
+---
+> Why
+1135c1135
+< cart
+---
+> CART
+1137c1137
+< mast
+---
+> MASTER
+1139c1139
+< he
+---
+> He
+1145,1146c1145,1146
+< al
+< ov
+---
+> all
+> over
+1149c1149
+< scen
+---
+> SCENE
+1156,1158c1156,1158
+< king
+< arth
+< mus
+---
+> King
+> Arthur
+> music
+1166,1169c1166,1169
+< king
+< arth
+< mus
+< stop
+---
+> King
+> Arthur
+> music
+> stops
+1171c1171
+< arth
+---
+> ARTHUR
+1173,1174c1173,1174
+< old
+< wom
+---
+> Old
+> woman
+1176c1176
+< den
+---
+> DENNIS
+1178c1178
+< man
+---
+> Man
+1180c1180
+< arth
+---
+> ARTHUR
+1182c1182
+< man
+---
+> Man
+1184c1184
+< sorry
+---
+> Sorry
+1186c1186
+< what
+---
+> What
+1188c1188
+< liv
+---
+> live
+1191,1193c1191,1193
+< castl
+< ov
+< ther
+---
+> castle
+> over
+> there
+1195c1195
+< den
+---
+> DENNIS
+1197c1197
+< i
+---
+> I
+1202c1202
+< sev
+---
+> seven
+1204c1204
+< arth
+---
+> ARTHUR
+1206c1206
+< i
+---
+> I
+1210c1210
+< den
+---
+> DENNIS
+1212c1212
+< i
+---
+> I
+1217c1217
+< sev
+---
+> seven
+1219c1219
+< i
+---
+> I
+1225c1225
+< arth
+---
+> ARTHUR
+1227c1227
+< wel
+---
+> Well
+1229c1229
+< i
+---
+> I
+1234c1234
+< cal
+---
+> call
+1237c1237
+< man
+---
+> Man
+1239c1239
+< den
+---
+> DENNIS
+1241c1241
+< wel
+---
+> Well
+1247c1247
+< den
+---
+> Dennis
+1249c1249
+< arth
+---
+> ARTHUR
+1251c1251
+< wel
+---
+> Well
+1253c1253
+< i
+---
+> I
+1259,1260c1259,1260
+< wer
+< cal
+---
+> were
+> called
+1262c1262
+< den
+---
+> Dennis
+1264c1264
+< den
+---
+> DENNIS
+1266c1266
+< wel
+---
+> Well
+1272c1272
+< both
+---
+> bother
+1280c1280
+< arth
+---
+> ARTHUR
+1282c1282
+< i
+---
+> I
+1292c1292
+< wom
+---
+> woman
+1299c1299
+< look
+---
+> looked
+1301c1301
+< den
+---
+> DENNIS
+1303,1304c1303,1304
+< what
+< i
+---
+> What
+> I
+1310,1311c1310,1311
+< autom
+< tre
+---
+> automatically
+> treat
+1313c1313
+< lik
+---
+> like
+1315c1315
+< infery
+---
+> inferior
+1317c1317
+< arth
+---
+> ARTHUR
+1319c1319
+< wel
+---
+> Well
+1321c1321
+< i
+---
+> I
+1325c1325
+< den
+---
+> DENNIS
+1327c1327
+< oh
+---
+> Oh
+1333c1333
+< nic
+---
+> nice
+1335c1335
+< and
+---
+> And
+1345,1346c1345,1346
+< by
+< exploit
+---
+> By
+> exploiting
+1348c1348
+< work
+---
+> workers
+1350c1350
+< by
+---
+> By
+1352c1352
+< ang
+---
+> anging
+1355,1357c1355,1357
+< outd
+< imp
+< dogm
+---
+> outdated
+> imperialist
+> dogma
+1359c1359
+< perpetu
+---
+> perpetuates
+1361c1361
+< econom
+---
+> economic
+1363,1364c1363,1364
+< soc
+< diff
+---
+> social
+> differences
+1367c1367
+< socy
+---
+> society
+1369,1370c1369,1370
+< if
+< ther
+---
+> If
+> there
+1373c1373
+< ev
+---
+> ever
+1382c1382
+< wom
+---
+> WOMAN
+1384c1384
+< den
+---
+> Dennis
+1386c1386
+< ther
+---
+> there
+1389,1391c1389,1391
+< som
+< lov
+< fil
+---
+> some
+> lovely
+> filth
+1393c1393
+< her
+---
+> here
+1395c1395
+< oh
+---
+> Oh
+1397c1397
+< how
+---
+> How
+1403c1403
+< arth
+---
+> ARTHUR
+1405c1405
+< how
+---
+> How
+1413c1413
+< i
+---
+> I
+1415c1415
+< arth
+---
+> Arthur
+1417c1417
+< king
+---
+> King
+1420c1420
+< briton
+---
+> Britons
+1422c1422
+< who
+---
+> Who
+1425c1425
+< castl
+---
+> castle
+1429c1429
+< wom
+---
+> WOMAN
+1431c1431
+< king
+---
+> King
+1436c1436
+< arth
+---
+> ARTHUR
+1438,1439c1438,1439
+< the
+< briton
+---
+> The
+> Britons
+1441c1441
+< wom
+---
+> WOMAN
+1443,1444c1443,1444
+< who
+< ar
+---
+> Who
+> are
+1446c1446
+< briton
+---
+> Britons
+1448c1448
+< arth
+---
+> ARTHUR
+1450c1450
+< wel
+---
+> Well
+1453,1454c1453,1454
+< al
+< ar
+---
+> all
+> are
+1456,1459c1456,1459
+< we
+< ar
+< al
+< briton
+---
+> We
+> are
+> all
+> Britons
+1462c1462
+< i
+---
+> I
+1464c1464
+< yo
+---
+> your
+1467c1467
+< wom
+---
+> WOMAN
+1469c1469
+< i
+---
+> I
+1479c1479
+< i
+---
+> I
+1482c1482
+< wer
+---
+> were
+1484,1485c1484,1485
+< autonom
+< collect
+---
+> autonomous
+> collective
+1487c1487
+< den
+---
+> DENNIS
+1489c1489
+< you
+---
+> You
+1492c1492
+< fool
+---
+> fooling
+1495c1495
+< we
+---
+> We
+1498c1498
+< liv
+---
+> living
+1501c1501
+< dict
+---
+> dictatorship
+1503c1503
+< a
+---
+> A
+1506,1507c1506,1507
+< perpetu
+< autocr
+---
+> perpetuating
+> autocracy
+1511,1512c1511,1512
+< work
+< class
+---
+> working
+> classes
+1514c1514
+< wom
+---
+> WOMAN
+1516c1516
+< oh
+---
+> Oh
+1518c1518
+< ther
+---
+> there
+1522c1522
+< bring
+---
+> bringing
+1528c1528
+< den
+---
+> DENNIS
+1530c1530
+< that
+---
+> That
+1537c1537
+< al
+---
+> all
+1540,1542c1540,1542
+< if
+< on
+< peopl
+---
+> If
+> only
+> people
+1547c1547
+< arth
+---
+> ARTHUR
+1549c1549
+< pleas
+---
+> Please
+1551c1551
+< pleas
+---
+> please
+1553c1553
+< peopl
+---
+> people
+1555c1555
+< i
+---
+> I
+1558c1558
+< hast
+---
+> haste
+1560,1561c1560,1561
+< who
+< liv
+---
+> Who
+> lives
+1564c1564
+< castl
+---
+> castle
+1566c1566
+< wom
+---
+> WOMAN
+1568,1571c1568,1571
+< no
+< on
+< liv
+< ther
+---
+> No
+> one
+> live
+> there
+1573c1573
+< arth
+---
+> ARTHUR
+1575c1575
+< then
+---
+> Then
+1578c1578
+< yo
+---
+> your
+1581c1581
+< wom
+---
+> WOMAN
+1583c1583
+< we
+---
+> We
+1587c1587
+< hav
+---
+> have
+1591c1591
+< arth
+---
+> ARTHUR
+1593c1593
+< what
+---
+> What
+1595c1595
+< den
+---
+> DENNIS
+1597c1597
+< i
+---
+> I
+1601c1601
+< we
+---
+> We
+1607,1608c1607,1608
+< synd
+< commun
+---
+> syndicalist
+> commune
+1610,1611c1610,1611
+< we
+< tak
+---
+> We
+> take
+1614c1614
+< turn
+---
+> turns
+1621,1622c1621,1622
+< execut
+< off
+---
+> executive
+> officer
+1627c1627
+< arth
+---
+> ARTHUR
+1629c1629
+< ye
+---
+> Yes
+1631c1631
+< den
+---
+> DENNIS
+1633,1634c1633,1634
+< but
+< al
+---
+> But
+> all
+1636c1636
+< decid
+---
+> decision
+1639,1640c1639,1640
+< off
+< hav
+---
+> officer
+> have
+1643c1643
+< rat
+---
+> ratified
+1646c1646
+< spec
+---
+> special
+1649,1650c1649,1650
+< week
+< meet
+---
+> weekly
+> meeting
+1652c1652
+< arth
+---
+> ARTHUR
+1654c1654
+< ye
+---
+> Yes
+1656c1656
+< i
+---
+> I
+1659c1659
+< den
+---
+> DENNIS
+1661c1661
+< by
+---
+> By
+1663,1664c1663,1664
+< simpl
+< maj
+---
+> simple
+> majority
+1667c1667
+< cas
+---
+> case
+1669,1671c1669,1671
+< pur
+< intern
+< affair
+---
+> purely
+> internal
+> affairs
+1673c1673
+< arth
+---
+> ARTHUR
+1675c1675
+< be
+---
+> Be
+1678c1678
+< den
+---
+> DENNIS
+1680c1680
+< but
+---
+> But
+1685,1686c1685,1686
+< third
+< maj
+---
+> thirds
+> majority
+1689c1689
+< cas
+---
+> case
+1691,1692c1691,1692
+< mor
+< maj
+---
+> more
+> major
+1694c1694
+< arth
+---
+> ARTHUR
+1696c1696
+< be
+---
+> Be
+1699,1700c1699,1700
+< i
+< ord
+---
+> I
+> order
+1706c1706
+< wom
+---
+> WOMAN
+1708c1708
+< ord
+---
+> Order
+1712,1713c1712,1713
+< who
+< doe
+---
+> Who
+> does
+1719c1719
+< heh
+---
+> Heh
+1721c1721
+< arth
+---
+> ARTHUR
+1723c1723
+< i
+---
+> I
+1725c1725
+< yo
+---
+> your
+1728c1728
+< wom
+---
+> WOMAN
+1730c1730
+< wel
+---
+> Well
+1732c1732
+< i
+---
+> I
+1736c1736
+< vot
+---
+> vote
+1740c1740
+< arth
+---
+> ARTHUR
+1742c1742
+< you
+---
+> You
+1746c1746
+< vot
+---
+> vote
+1748c1748
+< king
+---
+> kings
+1750c1750
+< wom
+---
+> WOMAN
+1752c1752
+< wel
+---
+> Well
+1757c1757
+< becom
+---
+> become
+1761c1761
+< arth
+---
+> ARTHUR
+1763,1764c1763,1764
+< the
+< lady
+---
+> The
+> Lady
+1767c1767
+< lak
+---
+> Lake
+1771c1771
+< angel
+---
+> angels
+1781,1782c1781,1782
+< shim
+< samit
+---
+> shimmering
+> samite
+1786c1786
+< excalib
+---
+> Excalibur
+1792,1793c1792,1793
+< wat
+< sign
+---
+> water
+> signifying
+1795,1796c1795,1796
+< divin
+< provid
+---
+> Divine
+> Providence
+1798c1798
+< i
+---
+> I
+1800c1800
+< arth
+---
+> Arthur
+1805c1805
+< excalib
+---
+> Excalibur
+1808,1809c1808,1809
+< sing
+< stop
+---
+> singing
+> stops
+1811c1811
+< that
+---
+> That
+1814c1814
+< i
+---
+> I
+1816c1816
+< yo
+---
+> your
+1819c1819
+< den
+---
+> DENNIS
+1821c1821
+< list
+---
+> Listen
+1824c1824
+< wom
+---
+> women
+1827,1829c1827,1829
+< pond
+< distribut
+< sword
+---
+> ponds
+> distributing
+> swords
+1832c1832
+< bas
+---
+> basis
+1837c1837
+< govern
+---
+> government
+1839,1842c1839,1842
+< suprem
+< execut
+< pow
+< der
+---
+> Supreme
+> executive
+> power
+> derives
+1845c1845
+< mand
+---
+> mandate
+1848c1848
+< mass
+---
+> masses
+1852,1854c1852,1854
+< som
+< farc
+< aqu
+---
+> some
+> farcical
+> aquatic
+1857c1857
+< arth
+---
+> ARTHUR
+1859c1859
+< be
+---
+> Be
+1862c1862
+< den
+---
+> DENNIS
+1864c1864
+< wel
+---
+> Well
+1874,1876c1874,1876
+< suprem
+< execut
+< pow
+---
+> supreme
+> executive
+> power
+1879,1880c1879,1880
+< caus
+< som
+---
+> cause
+> some
+1889c1889
+< arth
+---
+> ARTHUR
+1891c1891
+< shut
+---
+> Shut
+1894c1894
+< den
+---
+> DENNIS
+1896c1896
+< i
+---
+> I
+1900c1900
+< i
+---
+> I
+1904,1905c1904,1905
+< say
+< i
+---
+> saying
+> I
+1908c1908
+< emp
+---
+> emperor
+1910,1912c1910,1912
+< becaus
+< som
+< moist
+---
+> because
+> some
+> moistened
+1915c1915
+< lob
+---
+> lobbed
+1917c1917
+< scimit
+---
+> scimitar
+1928c1928
+< arth
+---
+> ARTHUR
+1930c1930
+< shut
+---
+> Shut
+1933c1933
+< wil
+---
+> will
+1936c1936
+< shut
+---
+> Shut
+1939c1939
+< den
+---
+> DENNIS
+1941c1941
+< ah
+---
+> Ah
+1947,1948c1947,1948
+< viol
+< inh
+---
+> violence
+> inherent
+1953c1953
+< arth
+---
+> ARTHUR
+1955c1955
+< shut
+---
+> Shut
+1958c1958
+< den
+---
+> DENNIS
+1960c1960
+< oh
+---
+> Oh
+1962c1962
+< com
+---
+> Come
+1966,1967c1966,1967
+< viol
+< inh
+---
+> violence
+> inherent
+1972c1972
+< help
+---
+> Help
+1976c1976
+< i
+---
+> I
+1980c1980
+< repress
+---
+> repressed
+1982c1982
+< arth
+---
+> ARTHUR
+1984,1985c1984,1985
+< bloody
+< peas
+---
+> Bloody
+> peasant
+1987c1987
+< den
+---
+> DENNIS
+1989c1989
+< oh
+---
+> Oh
+1993c1993
+< giv
+---
+> give
+1997c1997
+< did
+---
+> Did
+2002c2002
+< did
+---
+> Did
+2009c2009
+< that
+---
+> That
+2013c2013
+< i
+---
+> I
+2019c2019
+< did
+---
+> Did
+2023c2023
+< repress
+---
+> repressing
+2026c2026
+< you
+---
+> You
+2034c2034
+< scen
+---
+> SCENE
+2038,2040c2038,2040
+< king
+< arth
+< mus
+---
+> King
+> Arthur
+> music
+2043,2044c2043,2044
+< mus
+< stop
+---
+> music
+> stops
+2046,2047c2046,2047
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2049c2049
+< aaagh
+---
+> Aaagh
+2052,2054c2052,2054
+< king
+< arth
+< mus
+---
+> King
+> Arthur
+> music
+2057,2058c2057,2058
+< mus
+< stop
+---
+> music
+> stops
+2060,2061c2060,2061
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2063c2063
+< aaagh
+---
+> Aaagh
+2065,2066c2065,2066
+< green
+< knight
+---
+> GREEN
+> KNIGHT
+2068c2068
+< ooh
+---
+> Ooh
+2071,2073c2071,2073
+< king
+< arth
+< mus
+---
+> King
+> Arthur
+> music
+2076,2077c2076,2077
+< mus
+< stop
+---
+> music
+> stops
+2082,2083c2082,2083
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2085c2085
+< aagh
+---
+> Aagh
+2087,2088c2087,2088
+< green
+< knight
+---
+> GREEN
+> KNIGHT
+2090c2090
+< oh
+---
+> Oh
+2093,2095c2093,2095
+< king
+< arth
+< mus
+---
+> King
+> Arthur
+> music
+2097c2097
+< ooh
+---
+> Ooh
+2100,2101c2100,2101
+< mus
+< stop
+---
+> music
+> stops
+2103,2104c2103,2104
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2106c2106
+< aaagh
+---
+> Aaagh
+2111,2112c2111,2112
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2114,2115c2114,2115
+< green
+< knight
+---
+> GREEN
+> KNIGHT
+2117c2117
+< agh
+---
+> Agh
+2123,2124c2123,2124
+< green
+< knight
+---
+> GREEN
+> KNIGHT
+2126c2126
+< aaaaaah
+---
+> Aaaaaah
+2128c2128
+< aaaaaaaaah
+---
+> Aaaaaaaaah
+2134,2138c2134,2138
+< black
+< knight
+< kil
+< green
+< knight
+---
+> BLACK
+> KNIGHT
+> kills
+> GREEN
+> KNIGHT
+2146,2147c2146,2147
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2149c2149
+< um
+---
+> Umm
+2156c2156
+< arth
+---
+> ARTHUR
+2158c2158
+< you
+---
+> You
+2167,2168c2167,2168
+< sir
+< knight
+---
+> Sir
+> Knight
+2171c2171
+< paus
+---
+> pause
+2173c2173
+< i
+---
+> I
+2175c2175
+< arth
+---
+> Arthur
+2177c2177
+< king
+---
+> King
+2180c2180
+< briton
+---
+> Britons
+2183c2183
+< paus
+---
+> pause
+2185c2185
+< i
+---
+> I
+2192c2192
+< knight
+---
+> knights
+2203c2203
+< camelot
+---
+> Camelot
+2206c2206
+< paus
+---
+> pause
+2208,2210c2208,2210
+< you
+< hav
+< prov
+---
+> You
+> have
+> proved
+2214c2214
+< wil
+---
+> Will
+2220c2220
+< paus
+---
+> pause
+2222,2223c2222,2223
+< you
+< mak
+---
+> You
+> make
+2227c2227
+< so
+---
+> So
+2231c2231
+< com
+---
+> Come
+2233c2233
+< patsy
+---
+> Patsy
+2235,2236c2235,2236
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2238,2239c2238,2239
+< non
+< shal
+---
+> None
+> shall
+2242c2242
+< arth
+---
+> ARTHUR
+2244c2244
+< what
+---
+> What
+2246,2247c2246,2247
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2249,2250c2249,2250
+< non
+< shal
+---
+> None
+> shall
+2253c2253
+< arth
+---
+> ARTHUR
+2255,2256c2255,2256
+< i
+< hav
+---
+> I
+> have
+2263,2264c2263,2264
+< sir
+< knight
+---
+> Sir
+> Knight
+2267c2267
+< i
+---
+> I
+2270,2271c2270,2271
+< thi
+< bridg
+---
+> this
+> bridge
+2273,2274c2273,2274
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2276c2276
+< then
+---
+> Then
+2278c2278
+< shal
+---
+> shall
+2281c2281
+< arth
+---
+> ARTHUR
+2283c2283
+< i
+---
+> I
+2288c2288
+< king
+---
+> King
+2291c2291
+< briton
+---
+> Britons
+2295c2295
+< asid
+---
+> aside
+2297,2298c2297,2298
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2300,2301c2300,2301
+< i
+< mov
+---
+> I
+> move
+2306c2306
+< arth
+---
+> ARTHUR
+2308c2308
+< so
+---
+> So
+2312c2312
+< arth
+---
+> ARTHUR
+2314,2315c2314,2315
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2317c2317
+< aaah
+---
+> Aaah
+2324,2325c2324,2325
+< arth
+< chop
+---
+> ARTHUR
+> chops
+2327,2328c2327,2328
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2335c2335
+< arth
+---
+> ARTHUR
+2337c2337
+< now
+---
+> Now
+2339c2339
+< asid
+---
+> aside
+2342c2342
+< advers
+---
+> adversary
+2344,2345c2344,2345
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2348c2348
+< tis
+---
+> Tis
+2353c2353
+< arth
+---
+> ARTHUR
+2355c2355
+< a
+---
+> A
+2358c2358
+< yo
+---
+> Your
+2364,2365c2364,2365
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2367c2367
+< no
+---
+> No
+2374c2374
+< arth
+---
+> ARTHUR
+2376c2376
+< wel
+---
+> Well
+2384,2385c2384,2385
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2387c2387
+< i
+---
+> I
+2391c2391
+< wors
+---
+> worse
+2393c2393
+< arth
+---
+> ARTHUR
+2395c2395
+< you
+---
+> You
+2398,2399c2398,2399
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2401c2401
+< com
+---
+> Come
+2410c2410
+< huyah
+---
+> Huyah
+2415c2415
+< hiyaah
+---
+> Hiyaah
+2420c2420
+< aaaaaaaah
+---
+> Aaaaaaaah
+2423,2424c2423,2424
+< arth
+< chop
+---
+> ARTHUR
+> chops
+2426,2427c2426,2427
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2434c2434
+< arth
+---
+> ARTHUR
+2436c2436
+< vict
+---
+> Victory
+2438c2438
+< min
+---
+> mine
+2441c2441
+< kneel
+---
+> kneeling
+2443c2443
+< we
+---
+> We
+2445,2446c2445,2446
+< the
+< lord
+---
+> Thee
+> Lord
+2450c2450
+< thy
+---
+> Thy
+2453,2454c2453,2454
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2456c2456
+< hah
+---
+> Hah
+2461c2461
+< com
+---
+> Come
+2465c2465
+< arth
+---
+> ARTHUR
+2467c2467
+< what
+---
+> What
+2469,2470c2469,2470
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2472c2472
+< hav
+---
+> Have
+2479c2479
+< arth
+---
+> ARTHUR
+2481c2481
+< eh
+---
+> Eh
+2483,2486c2483,2486
+< you
+< ar
+< indee
+< brav
+---
+> You
+> are
+> indeed
+> brave
+2488,2489c2488,2489
+< sir
+< knight
+---
+> Sir
+> Knight
+2495c2495
+< min
+---
+> mine
+2497,2498c2497,2498
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2500c2500
+< oh
+---
+> Oh
+2507c2507
+< arth
+---
+> ARTHUR
+2509c2509
+< look
+---
+> Look
+2515c2515
+< you
+---
+> You
+2520c2520
+< arm
+---
+> arms
+2523,2524c2523,2524
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2526,2528c2526,2528
+< ye
+< i
+< hav
+---
+> Yes
+> I
+> have
+2530c2530
+< arth
+---
+> ARTHUR
+2532c2532
+< look
+---
+> Look
+2534,2535c2534,2535
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2537c2537
+< just
+---
+> Just
+2545c2545
+< arth
+---
+> ARTHUR
+2547c2547
+< look
+---
+> Look
+2552,2553c2552,2553
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2555c2555
+< chick
+---
+> Chicken
+2560c2560
+< chickenn
+---
+> Chickennn
+2562c2562
+< arth
+---
+> ARTHUR
+2564c2564
+< look
+---
+> Look
+2566c2566
+< i
+---
+> I
+2569,2570c2569,2570
+< hav
+< yo
+---
+> have
+> your
+2576c2576
+< right
+---
+> Right
+2582,2583c2582,2583
+< arth
+< chop
+---
+> ARTHUR
+> chops
+2585,2586c2585,2586
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2593,2594c2593,2594
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2596c2596
+< right
+---
+> Right
+2598c2598
+< i
+---
+> I
+2606c2606
+< arth
+---
+> ARTHUR
+2608c2608
+< you
+---
+> You
+2613,2614c2613,2614
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2616,2617c2616,2617
+< com
+< her
+---
+> Come
+> here
+2619c2619
+< arth
+---
+> ARTHUR
+2621,2622c2621,2622
+< what
+< ar
+---
+> What
+> are
+2628c2628
+< blee
+---
+> bleed
+2632,2633c2632,2633
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2635c2635
+< i
+---
+> I
+2638c2638
+< invinc
+---
+> invincible
+2640c2640
+< arth
+---
+> ARTHUR
+2642c2642
+< you
+---
+> You
+2648,2649c2648,2649
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2651,2655c2651,2655
+< the
+< black
+< knight
+< alway
+< triumph
+---
+> The
+> Black
+> Knight
+> always
+> triumphs
+2657c2657
+< hav
+---
+> Have
+2661c2661
+< com
+---
+> Come
+2669,2670c2669,2670
+< arth
+< chop
+---
+> ARTHUR
+> chops
+2672,2673c2672,2673
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2680,2681c2680,2681
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2683c2683
+< ooh
+---
+> Ooh
+2685c2685
+< al
+---
+> All
+2691c2691
+< cal
+---
+> call
+2696c2696
+< arth
+---
+> ARTHUR
+2698c2698
+< com
+---
+> Come
+2700c2700
+< patsy
+---
+> Patsy
+2702,2703c2702,2703
+< black
+< knight
+---
+> BLACK
+> KNIGHT
+2705c2705
+< oh
+---
+> Oh
+2707c2707
+< oh
+---
+> Oh
+2709c2709
+< i
+---
+> I
+2712c2712
+< run
+---
+> Running
+2717c2717
+< you
+---
+> You
+2719c2719
+< bastard
+---
+> bastards
+2721c2721
+< com
+---
+> Come
+2723c2723
+< her
+---
+> here
+2725c2725
+< tak
+---
+> take
+2729c2729
+< com
+---
+> coming
+2733c2733
+< i
+---
+> I
+2736,2738c2736,2738
+< bit
+< yo
+< leg
+---
+> bite
+> your
+> legs
+2740c2740
+< scen
+---
+> SCENE
+2743c2743
+< monk
+---
+> MONKS
+2746c2746
+< chant
+---
+> chanting
+2748,2750c2748,2750
+< pie
+< iesu
+< domin
+---
+> Pie
+> Iesu
+> domine
+2752,2753c2752,2753
+< don
+< ei
+---
+> dona
+> eis
+2759,2761c2759,2761
+< pie
+< iesu
+< domin
+---
+> Pie
+> Iesu
+> domine
+2768,2769c2768,2769
+< don
+< ei
+---
+> dona
+> eis
+2775,2777c2775,2777
+< pie
+< iesu
+< domin
+---
+> Pie
+> Iesu
+> domine
+2784,2785c2784,2785
+< don
+< ei
+---
+> dona
+> eis
+2788c2788
+< crowd
+---
+> CROWD
+2790c2790
+< a
+---
+> A
+2793c2793
+< a
+---
+> A
+2799c2799
+< a
+---
+> A
+2802c2802
+< a
+---
+> A
+2805c2805
+< monk
+---
+> MONKS
+2808c2808
+< chant
+---
+> chanting
+2810,2812c2810,2812
+< pie
+< iesu
+< domin
+---
+> Pie
+> Iesu
+> domine
+2814c2814
+< crowd
+---
+> CROWD
+2816c2816
+< a
+---
+> A
+2819c2819
+< a
+---
+> A
+2822c2822
+< a
+---
+> A
+2825c2825
+< a
+---
+> A
+2828c2828
+< we
+---
+> We
+2835c2835
+< a
+---
+> A
+2838c2838
+< a
+---
+> A
+2841c2841
+< a
+---
+> A
+2844c2844
+< a
+---
+> A
+2847c2847
+< we
+---
+> We
+2854c2854
+< a
+---
+> A
+2857c2857
+< a
+---
+> A
+2860c2860
+< burn
+---
+> Burn
+2863c2863
+< burn
+---
+> Burn
+2866c2866
+< burn
+---
+> Burn
+2869c2869
+< we
+---
+> We
+2876c2876
+< we
+---
+> We
+2883c2883
+< a
+---
+> A
+2886c2886
+< a
+---
+> A
+2889c2889
+< a
+---
+> A
+2892c2892
+< vil
+---
+> VILLAGER
+2896,2897c2896,2897
+< we
+< hav
+---
+> We
+> have
+2902c2902
+< may
+---
+> May
+2907c2907
+< crowd
+---
+> CROWD
+2909c2909
+< burn
+---
+> Burn
+2912c2912
+< burn
+---
+> Burn
+2914c2914
+< burn
+---
+> Burn
+2917c2917
+< burn
+---
+> Burn
+2920c2920
+< bedev
+---
+> BEDEVERE
+2922c2922
+< how
+---
+> How
+2931c2931
+< vil
+---
+> VILLAGER
+2935,2938c2935,2938
+< she
+< look
+< lik
+< on
+---
+> She
+> looks
+> like
+> one
+2940c2940
+< crowd
+---
+> CROWD
+2942c2942
+< right
+---
+> Right
+2944c2944
+< yeah
+---
+> Yeah
+2946c2946
+< yeah
+---
+> Yeah
+2948c2948
+< bedev
+---
+> BEDEVERE
+2950c2950
+< bring
+---
+> Bring
+2954c2954
+< witch
+---
+> WITCH
+2956c2956
+< i
+---
+> I
+2963c2963
+< i
+---
+> I
+2970c2970
+< bedev
+---
+> BEDEVERE
+2972c2972
+< uh
+---
+> Uh
+2976,2977c2976,2977
+< ar
+< dress
+---
+> are
+> dressed
+2979c2979
+< on
+---
+> one
+2981c2981
+< witch
+---
+> WITCH
+2983,2984c2983,2984
+< they
+< dress
+---
+> They
+> dressed
+2987,2988c2987,2988
+< lik
+< thi
+---
+> like
+> this
+2990c2990
+< crowd
+---
+> CROWD
+2992c2992
+< augh
+---
+> Augh
+2999c2999
+< we
+---
+> We
+3004c3004
+< witch
+---
+> WITCH
+3006,3007c3006,3007
+< and
+< thi
+---
+> And
+> this
+3012c3012
+< nos
+---
+> nose
+3014c3014
+< it
+---
+> It
+3018,3019c3018,3019
+< fals
+< on
+---
+> false
+> one
+3021c3021
+< bedev
+---
+> BEDEVERE
+3023c3023
+< wel
+---
+> Well
+3025c3025
+< vil
+---
+> VILLAGER
+3029c3029
+< wel
+---
+> Well
+3035c3035
+< nos
+---
+> nose
+3037c3037
+< bedev
+---
+> BEDEVERE
+3039,3040c3039,3040
+< the
+< nos
+---
+> The
+> nose
+3042c3042
+< vil
+---
+> VILLAGER
+3046c3046
+< and
+---
+> And
+3056c3056
+< vil
+---
+> VILLAGER
+3060c3060
+< yeah
+---
+> Yeah
+3062c3062
+< crowd
+---
+> CROWD
+3064c3064
+< we
+---
+> We
+3068c3068
+< right
+---
+> Right
+3070c3070
+< yeaaah
+---
+> Yeaaah
+3072c3072
+< yeaah
+---
+> Yeaah
+3074c3074
+< bedev
+---
+> BEDEVERE
+3076c3076
+< did
+---
+> Did
+3081,3082c3081,3082
+< lik
+< thi
+---
+> like
+> this
+3084c3084
+< vil
+---
+> VILLAGER
+3088c3088
+< no
+---
+> No
+3090c3090
+< vil
+---
+> VILLAGER
+3096c3096
+< no
+---
+> No
+3098c3098
+< no
+---
+> No
+3100c3100
+< vil
+---
+> VILLAGER
+3104c3104
+< no
+---
+> No
+3106c3106
+< vil
+---
+> VILLAGER
+3110c3110
+< no
+---
+> No
+3112c3112
+< vil
+---
+> VILLAGERS
+3119c3119
+< no
+---
+> No
+3121c3121
+< vil
+---
+> VILLAGER
+3125c3125
+< ye
+---
+> Yes
+3127c3127
+< vil
+---
+> VILLAGER
+3131c3131
+< ye
+---
+> Yes
+3133c3133
+< vil
+---
+> VILLAGER
+3137c3137
+< ye
+---
+> Yes
+3139c3139
+< yeah
+---
+> Yeah
+3144c3144
+< vil
+---
+> VILLAGER
+3148c3148
+< a
+---
+> A
+3151c3151
+< vil
+---
+> VILLAGERS
+3158c3158
+< a
+---
+> A
+3161c3161
+< vil
+---
+> VILLAGER
+3165c3165
+< a
+---
+> A
+3168c3168
+< vil
+---
+> VILLAGER
+3172c3172
+< she
+---
+> She
+3178c3178
+< random
+---
+> RANDOM
+3183c3183
+< bedev
+---
+> BEDEVERE
+3185,3186c3185,3186
+< what
+< mak
+---
+> What
+> makes
+3194c3194
+< vil
+---
+> VILLAGER
+3198c3198
+< wel
+---
+> Well
+3201c3201
+< turn
+---
+> turned
+3207c3207
+< bedev
+---
+> BEDEVERE
+3209c3209
+< a
+---
+> A
+3212c3212
+< vil
+---
+> VILLAGER
+3216c3216
+< i
+---
+> I
+3218c3218
+< bet
+---
+> better
+3220c3220
+< vil
+---
+> VILLAGER
+3224c3224
+< burn
+---
+> Burn
+3228c3228
+< vil
+---
+> VILLAGER
+3232c3232
+< burn
+---
+> Burn
+3234c3234
+< crowd
+---
+> CROWD
+3236c3236
+< burn
+---
+> Burn
+3239c3239
+< burn
+---
+> Burn
+3241c3241
+< burn
+---
+> Burn
+3245c3245
+< bedev
+---
+> BEDEVERE
+3247c3247
+< quiet
+---
+> Quiet
+3249c3249
+< quiet
+---
+> Quiet
+3251c3251
+< quiet
+---
+> Quiet
+3253c3253
+< quiet
+---
+> Quiet
+3255,3257c3255,3257
+< ther
+< ar
+< way
+---
+> There
+> are
+> ways
+3259,3260c3259,3260
+< tel
+< wheth
+---
+> telling
+> whether
+3266c3266
+< vil
+---
+> VILLAGER
+3270,3271c3270,3271
+< ar
+< ther
+---
+> Are
+> there
+3273c3273
+< vil
+---
+> VILLAGER
+3277c3277
+< ah
+---
+> Ah
+3279c3279
+< vil
+---
+> VILLAGER
+3283,3284c3283,3284
+< what
+< ar
+---
+> What
+> are
+3287c3287
+< crowd
+---
+> CROWD
+3289c3289
+< tel
+---
+> Tell
+3292c3292
+< tel
+---
+> Tell
+3296c3296
+< bedev
+---
+> BEDEVERE
+3298c3298
+< tel
+---
+> Tell
+3306c3306
+< witch
+---
+> witches
+3308c3308
+< vil
+---
+> VILLAGER
+3312c3312
+< burn
+---
+> Burn
+3314c3314
+< vil
+---
+> VILLAGER
+3318c3318
+< burn
+---
+> Burn
+3320c3320
+< crowd
+---
+> CROWD
+3322c3322
+< burn
+---
+> Burn
+3324c3324
+< burn
+---
+> Burn
+3328c3328
+< burn
+---
+> Burn
+3331c3331
+< bedev
+---
+> BEDEVERE
+3333c3333
+< and
+---
+> And
+3340c3340
+< witch
+---
+> witches
+3342c3342
+< vil
+---
+> VILLAGER
+3346,3347c3346,3347
+< mor
+< witch
+---
+> More
+> witches
+3349c3349
+< vil
+---
+> VILLAGER
+3353c3353
+< shh
+---
+> Shh
+3355c3355
+< vil
+---
+> VILLAGER
+3359c3359
+< wood
+---
+> Wood
+3361c3361
+< bedev
+---
+> BEDEVERE
+3363c3363
+< so
+---
+> So
+3367c3367
+< witch
+---
+> witches
+3371c3371
+< paus
+---
+> pause
+3373c3373
+< vil
+---
+> VILLAGER
+3377c3377
+< b
+---
+> B
+3380c3380
+< caus
+---
+> cause
+3384c3384
+< mad
+---
+> made
+3389c3389
+< bedev
+---
+> BEDEVERE
+3391c3391
+< good
+---
+> Good
+3393c3393
+< heh
+---
+> Heh
+3396c3396
+< crowd
+---
+> CROWD
+3398c3398
+< oh
+---
+> Oh
+3401c3401
+< oh
+---
+> Oh
+3403c3403
+< bedev
+---
+> BEDEVERE
+3405c3405
+< so
+---
+> So
+3410,3411c3410,3411
+< tel
+< wheth
+---
+> tell
+> whether
+3414c3414
+< mad
+---
+> made
+3418c3418
+< vil
+---
+> VILLAGER
+3422c3422
+< build
+---
+> Build
+3424c3424
+< bridg
+---
+> bridge
+3429c3429
+< bedev
+---
+> BEDEVERE
+3431c3431
+< ah
+---
+> Ah
+3438,3439c3438,3439
+< mak
+< bridg
+---
+> make
+> bridges
+3442c3442
+< ston
+---
+> stone
+3444c3444
+< vil
+---
+> VILLAGER
+3448c3448
+< oh
+---
+> Oh
+3452c3452
+< random
+---
+> RANDOM
+3454c3454
+< oh
+---
+> Oh
+3458c3458
+< tru
+---
+> True
+3460c3460
+< uhh
+---
+> Uhh
+3462c3462
+< bedev
+---
+> BEDEVERE
+3464c3464
+< doe
+---
+> Does
+3468c3468
+< wat
+---
+> water
+3470c3470
+< vil
+---
+> VILLAGER
+3474c3474
+< no
+---
+> No
+3476c3476
+< no
+---
+> No
+3478c3478
+< vil
+---
+> VILLAGER
+3482c3482
+< no
+---
+> No
+3485c3485
+< flo
+---
+> floats
+3487,3488c3487,3488
+< it
+< flo
+---
+> It
+> floats
+3490c3490
+< vil
+---
+> VILLAGER
+3494c3494
+< throw
+---
+> Throw
+3500c3500
+< crowd
+---
+> CROWD
+3502c3502
+< the
+---
+> The
+3505c3505
+< throw
+---
+> Throw
+3511c3511
+< bedev
+---
+> BEDEVERE
+3513c3513
+< what
+---
+> What
+3515c3515
+< flo
+---
+> floats
+3517c3517
+< wat
+---
+> water
+3519c3519
+< vil
+---
+> VILLAGER
+3523c3523
+< bread
+---
+> Bread
+3525c3525
+< vil
+---
+> VILLAGER
+3529c3529
+< appl
+---
+> Apples
+3531c3531
+< vil
+---
+> VILLAGER
+3535c3535
+< uh
+---
+> Uh
+3538,3539c3538,3539
+< smal
+< rock
+---
+> small
+> rocks
+3541c3541
+< vil
+---
+> VILLAGER
+3545c3545
+< cid
+---
+> Cider
+3547c3547
+< vil
+---
+> VILLAGER
+3551c3551
+< uh
+---
+> Uh
+3557c3557
+< vil
+---
+> VILLAGER
+3561c3561
+< cherry
+---
+> Cherries
+3563c3563
+< vil
+---
+> VILLAGER
+3567c3567
+< mud
+---
+> Mud
+3569c3569
+< vil
+---
+> VILLAGER
+3573c3573
+< church
+---
+> Churches
+3575c3575
+< church
+---
+> Churches
+3577c3577
+< vil
+---
+> VILLAGER
+3581c3581
+< lead
+---
+> Lead
+3583c3583
+< lead
+---
+> Lead
+3585c3585
+< arth
+---
+> ARTHUR
+3587c3587
+< a
+---
+> A
+3590c3590
+< crowd
+---
+> CROWD
+3592c3592
+< oooh
+---
+> Oooh
+3594c3594
+< bedev
+---
+> BEDEVERE
+3596c3596
+< exact
+---
+> Exactly
+3598c3598
+< so
+---
+> So
+3600c3600
+< log
+---
+> logically
+3602c3602
+< vil
+---
+> VILLAGER
+3606c3606
+< if
+---
+> If
+3610c3610
+< weigh
+---
+> weighs
+3613c3613
+< sam
+---
+> same
+3622c3622
+< mad
+---
+> made
+3626c3626
+< bedev
+---
+> BEDEVERE
+3628,3629c3628,3629
+< and
+< theref
+---
+> And
+> therefore
+3631c3631
+< vil
+---
+> VILLAGER
+3635c3635
+< a
+---
+> A
+3638c3638
+< vil
+---
+> VILLAGER
+3642c3642
+< a
+---
+> A
+3645c3645
+< crowd
+---
+> CROWD
+3647c3647
+< a
+---
+> A
+3650c3650
+< a
+---
+> A
+3654c3654
+< vil
+---
+> VILLAGER
+3658c3658
+< her
+---
+> Here
+3663,3664c3663,3664
+< us
+< thi
+---
+> Use
+> this
+3672c3672
+< bedev
+---
+> BEDEVERE
+3674,3676c3674,3676
+< we
+< shal
+< us
+---
+> We
+> shall
+> use
+3679c3679
+< scal
+---
+> scales
+3681c3681
+< crowd
+---
+> CROWD
+3683c3683
+< ohh
+---
+> Ohh
+3685c3685
+< ohh
+---
+> Ohh
+3687c3687
+< burn
+---
+> Burn
+3691c3691
+< burn
+---
+> Burn
+3695c3695
+< burn
+---
+> Burn
+3698c3698
+< burn
+---
+> Burn
+3701c3701
+< burn
+---
+> Burn
+3704c3704
+< burn
+---
+> Burn
+3707c3707
+< burn
+---
+> Burn
+3710c3710
+< burn
+---
+> Burn
+3713c3713
+< burn
+---
+> Burn
+3716c3716
+< ahh
+---
+> Ahh
+3718c3718
+< ahh
+---
+> Ahh
+3720c3720
+< bedev
+---
+> BEDEVERE
+3722c3722
+< right
+---
+> Right
+3724c3724
+< remov
+---
+> Remove
+3726c3726
+< support
+---
+> supports
+3737c3737
+< crowd
+---
+> CROWD
+3739c3739
+< a
+---
+> A
+3742c3742
+< a
+---
+> A
+3745c3745
+< a
+---
+> A
+3748c3748
+< witch
+---
+> WITCH
+3750c3750
+< it
+---
+> It
+3757c3757
+< vil
+---
+> VILLAGER
+3761c3761
+< burn
+---
+> Burn
+3764c3764
+< crowd
+---
+> CROWD
+3766c3766
+< burn
+---
+> Burn
+3769c3769
+< burn
+---
+> Burn
+3772c3772
+< burn
+---
+> Burn
+3775c3775
+< burn
+---
+> Burn
+3777c3777
+< burn
+---
+> Burn
+3780c3780
+< bedev
+---
+> BEDEVERE
+3782,3783c3782,3783
+< who
+< ar
+---
+> Who
+> are
+3786c3786
+< ar
+---
+> are
+3788c3788
+< wis
+---
+> wise
+3791c3791
+< way
+---
+> ways
+3793c3793
+< sci
+---
+> science
+3795c3795
+< arth
+---
+> ARTHUR
+3797c3797
+< i
+---
+> I
+3799c3799
+< arth
+---
+> Arthur
+3801c3801
+< king
+---
+> King
+3804c3804
+< briton
+---
+> Britons
+3806c3806
+< bedev
+---
+> BEDEVERE
+3808,3809c3808,3809
+< my
+< lieg
+---
+> My
+> liege
+3811c3811
+< arth
+---
+> ARTHUR
+3813,3815c3813,3815
+< good
+< sir
+< knight
+---
+> Good
+> Sir
+> Knight
+3817c3817
+< wil
+---
+> will
+3819c3819
+< com
+---
+> come
+3823c3823
+< camelot
+---
+> Camelot
+3830,3831c3830,3831
+< round
+< tabl
+---
+> Round
+> Table
+3833c3833
+< bedev
+---
+> BEDEVERE
+3835,3836c3835,3836
+< my
+< lieg
+---
+> My
+> liege
+3838c3838
+< i
+---
+> I
+3841c3841
+< hon
+---
+> honored
+3843c3843
+< arth
+---
+> ARTHUR
+3845c3845
+< what
+---
+> What
+3847,3848c3847,3848
+< yo
+< nam
+---
+> your
+> name
+3850c3850
+< bedev
+---
+> BEDEVERE
+3852c3852
+< bedev
+---
+> Bedevere
+3855c3855
+< lieg
+---
+> liege
+3857c3857
+< arth
+---
+> ARTHUR
+3859,3860c3859,3860
+< then
+< i
+---
+> Then
+> I
+3863,3864c3863,3864
+< sir
+< bedev
+---
+> Sir
+> Bedevere
+3866c3866
+< knight
+---
+> Knight
+3869,3871c3869,3871
+< round
+< tabl
+< nar
+---
+> Round
+> Table
+> NARRATOR
+3873,3876c3873,3876
+< the
+< wis
+< sir
+< bedev
+---
+> The
+> wise
+> Sir
+> Bedevere
+3882,3883c3882,3883
+< king
+< arth
+---
+> King
+> Arthur
+3886c3886
+< knight
+---
+> knights
+3889,3892c3889,3892
+< oth
+< illustry
+< nam
+< wer
+---
+> other
+> illustrious
+> names
+> were
+3897,3898c3897,3898
+< sir
+< lancelot
+---
+> Sir
+> Lancelot
+3900c3900
+< brav
+---
+> Brave
+3902,3903c3902,3903
+< sir
+< gallahad
+---
+> Sir
+> Gallahad
+3905c3905
+< pur
+---
+> Pure
+3908,3909c3908,3909
+< sir
+< robin
+---
+> Sir
+> Robin
+3914c3914
+< quit
+---
+> quite
+3918c3918
+< brav
+---
+> brave
+3922c3922
+< sir
+---
+> Sir
+3924c3924
+< lancelot
+---
+> Lancelot
+3928c3928
+< near
+---
+> nearly
+3931c3931
+< dragon
+---
+> Dragon
+3933c3933
+< angn
+---
+> Angnor
+3937c3937
+< near
+---
+> nearly
+3942,3943c3942,3943
+< vicy
+< chick
+---
+> vicious
+> Chicken
+3945c3945
+< bristol
+---
+> Bristol
+3950c3950
+< person
+---
+> personally
+3955c3955
+< battl
+---
+> Battle
+3957,3958c3957,3958
+< badon
+< hil
+---
+> Badon
+> Hill
+3962,3965c3962,3965
+< apt
+< nam
+< sir
+< not
+---
+> aptly
+> named
+> Sir
+> Not
+3967c3967
+< appear
+---
+> appearing
+3971c3971
+< thi
+---
+> this
+3975c3975
+< togeth
+---
+> Together
+3977c3977
+< form
+---
+> formed
+3980,3981c3980,3981
+< whos
+< nam
+---
+> whose
+> names
+3983,3984c3983,3984
+< dee
+< wer
+---
+> deeds
+> were
+3990c3990
+< century
+---
+> centuries
+3993c3993
+< knight
+---
+> Knights
+3996,3998c3996,3998
+< round
+< tabl
+< scen
+---
+> Round
+> Table
+> SCENE
+4006,4007c4006,4007
+< sir
+< bedev
+---
+> SIR
+> BEDEVERE
+4009c4009
+< and
+---
+> And
+4013c4013
+< lieg
+---
+> liege
+4020c4020
+< ear
+---
+> earth
+4023c4023
+< banan
+---
+> banana
+4025c4025
+< shap
+---
+> shaped
+4027c4027
+< arth
+---
+> ARTHUR
+4029c4029
+< thi
+---
+> This
+4031,4032c4031,4032
+< learn
+< amaz
+---
+> learning
+> amazes
+4035,4036c4035,4036
+< sir
+< bedev
+---
+> Sir
+> Bedevere
+4038c4038
+< explain
+---
+> Explain
+4044c4044
+< blad
+---
+> bladders
+4047c4047
+< employ
+---
+> employed
+4049,4050c4049,4050
+< prev
+< earthquak
+---
+> prevent
+> earthquakes
+4052c4052
+< bedev
+---
+> BEDEVERE
+4054c4054
+< oh
+---
+> Oh
+4056c4056
+< certain
+---
+> certainly
+4060,4061c4060,4061
+< sir
+< launcelot
+---
+> SIR
+> LAUNCELOT
+4063c4063
+< look
+---
+> Look
+4066c4066
+< lieg
+---
+> liege
+4069c4069
+< trumpet
+---
+> trumpets
+4071c4071
+< arth
+---
+> ARTHUR
+4073c4073
+< camelot
+---
+> Camelot
+4075,4076c4075,4076
+< sir
+< galahad
+---
+> SIR
+> GALAHAD
+4078c4078
+< camelot
+---
+> Camelot
+4080c4080
+< launcelot
+---
+> LAUNCELOT
+4082c4082
+< camelot
+---
+> Camelot
+4084c4084
+< patsy
+---
+> PATSY
+4086c4086
+< it
+---
+> It
+4089c4089
+< on
+---
+> only
+4093c4093
+< arth
+---
+> ARTHUR
+4095c4095
+< shh
+---
+> Shh
+4097c4097
+< knight
+---
+> Knights
+4099c4099
+< i
+---
+> I
+4102c4102
+< welcom
+---
+> welcome
+4104c4104
+< yo
+---
+> your
+4106c4106
+< hom
+---
+> home
+4108c4108
+< let
+---
+> Let
+4110c4110
+< rid
+---
+> ride
+4114c4114
+< camelot
+---
+> Camelot
+4118,4119c4118,4119
+< mediev
+< hal
+---
+> medieval
+> hall
+4121c4121
+< knight
+---
+> KNIGHTS
+4124c4124
+< sing
+---
+> singing
+4126c4126
+< we
+---
+> We
+4129c4129
+< knight
+---
+> knights
+4133c4133
+< tabl
+---
+> table
+4135,4136c4135,4136
+< we
+< dant
+---
+> We
+> dance
+4144c4144
+< abl
+---
+> able
+4146c4146
+< we
+---
+> We
+4148c4148
+< routin
+---
+> routines
+4150,4152c4150,4152
+< chor
+< scen
+< with
+---
+> chorus
+> scenes
+> With
+4154c4154
+< impecc
+---
+> impeccable
+4156,4159c4156,4159
+< we
+< din
+< wel
+< her
+---
+> We
+> dine
+> well
+> here
+4161c4161
+< camelot
+---
+> Camelot
+4163c4163
+< we
+---
+> We
+4173c4173
+< dant
+---
+> dancing
+4175c4175
+< we
+---
+> We
+4178c4178
+< knight
+---
+> knights
+4181,4182c4181,4182
+< round
+< tabl
+---
+> Round
+> Table
+4184,4187c4184,4187
+< our
+< show
+< ar
+< formid
+---
+> Our
+> shows
+> are
+> formidable
+4189c4189
+< but
+---
+> But
+4191c4191
+< tim
+---
+> times
+4195,4200c4195,4200
+< giv
+< rhym
+< that
+< ar
+< quit
+< uns
+---
+> given
+> rhymes
+> That
+> are
+> quite
+> unsingable
+4202c4202
+< we
+---
+> We
+4205c4205
+< oper
+---
+> opera
+4208c4208
+< camelot
+---
+> Camelot
+4210c4210
+< we
+---
+> We
+4221c4221
+< prison
+---
+> PRISONER
+4231,4232c4231,4232
+< mediev
+< hal
+---
+> medieval
+> hall
+4234c4234
+< knight
+---
+> KNIGHTS
+4239c4239
+< dant
+---
+> dancing
+4241c4241
+< in
+---
+> In
+4248c4248
+< abl
+---
+> able
+4250,4251c4250,4251
+< quit
+< indefatig
+---
+> Quite
+> indefatigable
+4253c4253
+< between
+---
+> Between
+4255c4255
+< quest
+---
+> quests
+4258c4258
+< vest
+---
+> vests
+4260,4262c4260,4262
+< imperson
+< clark
+< gabl
+---
+> impersonate
+> Clark
+> Gable
+4264c4264
+< it
+---
+> It
+4269c4269
+< lif
+---
+> life
+4271c4271
+< camelot
+---
+> Camelot
+4273c4273
+< man
+---
+> MAN
+4275,4276c4275,4276
+< i
+< hav
+---
+> I
+> have
+4284c4284
+< outdo
+---
+> outdoors
+4286c4286
+< arth
+---
+> ARTHUR
+4288c4288
+< wel
+---
+> Well
+4300c4300
+< camelot
+---
+> Camelot
+4302c4302
+< it
+---
+> It
+4305,4306c4305,4306
+< sil
+< plac
+---
+> silly
+> place
+4308c4308
+< knight
+---
+> KNIGHTS
+4310c4310
+< right
+---
+> Right
+4312,4313c4312,4313
+< right
+< scen
+---
+> Right
+> SCENE
+4326c4326
+< angel
+---
+> angels
+4329c4329
+< god
+---
+> GOD
+4331c4331
+< arth
+---
+> Arthur
+4333c4333
+< arth
+---
+> Arthur
+4335c4335
+< king
+---
+> King
+4338c4338
+< briton
+---
+> Britons
+4340c4340
+< oh
+---
+> Oh
+4348,4349c4348,4349
+< sing
+< stop
+---
+> singing
+> stops
+4351c4351
+< on
+---
+> One
+4353c4353
+< i
+---
+> I
+4362,4363c4362,4363
+< peopl
+< grovel
+---
+> people
+> groveling
+4365c4365
+< arth
+---
+> ARTHUR
+4367c4367
+< sorry
+---
+> Sorry
+4372c4372
+< god
+---
+> GOD
+4374c4374
+< and
+---
+> And
+4378c4378
+< apolog
+---
+> apologise
+4380,4382c4380,4382
+< every
+< tim
+< i
+---
+> Every
+> time
+> I
+4387c4387
+< someon
+---
+> someone
+4393c4393
+< thi
+---
+> this
+4397c4397
+< forg
+---
+> forgive
+4403c4403
+< i
+---
+> I
+4412,4413c4412,4413
+< what
+< ar
+---
+> What
+> are
+4418c4418
+< arth
+---
+> ARTHUR
+4420c4420
+< i
+---
+> I
+4423c4423
+< avert
+---
+> averting
+4425c4425
+< ey
+---
+> eyes
+4427,4428c4427,4428
+< o
+< lord
+---
+> O
+> Lord
+4430c4430
+< god
+---
+> GOD
+4432c4432
+< wel
+---
+> Well
+4438c4438
+< it
+---
+> It
+4441,4444c4441,4444
+< lik
+< thos
+< mis
+< psalm
+---
+> like
+> those
+> miserable
+> Psalms
+4450c4450
+< depress
+---
+> depressing
+4452c4452
+< now
+---
+> Now
+4457c4457
+< arth
+---
+> ARTHUR
+4459c4459
+< ye
+---
+> Yes
+4461c4461
+< lord
+---
+> Lord
+4463c4463
+< god
+---
+> GOD
+4465c4465
+< right
+---
+> Right
+4467c4467
+< arth
+---
+> Arthur
+4469c4469
+< king
+---
+> King
+4472c4472
+< briton
+---
+> Britons
+4474,4475c4474,4475
+< yo
+< knight
+---
+> your
+> Knights
+4478,4481c4478,4481
+< round
+< tabl
+< shal
+< hav
+---
+> Round
+> Table
+> shall
+> have
+4485c4485
+< mak
+---
+> make
+4488c4488
+< exampl
+---
+> example
+4490c4490
+< thes
+---
+> these
+4492c4492
+< tim
+---
+> times
+4494c4494
+< arth
+---
+> ARTHUR
+4496,4497c4496,4497
+< good
+< ide
+---
+> Good
+> idea
+4499,4500c4499,4500
+< o
+< lord
+---
+> O
+> Lord
+4502c4502
+< god
+---
+> GOD
+4505c4505
+< cours
+---
+> Course
+4511c4511
+< ide
+---
+> idea
+4513c4513
+< behold
+---
+> Behold
+4516c4516
+< angel
+---
+> angels
+4519c4519
+< arth
+---
+> Arthur
+4521c4521
+< thi
+---
+> this
+4524,4525c4524,4525
+< holy
+< grail
+---
+> Holy
+> Grail
+4527,4528c4527,4528
+< look
+< wel
+---
+> Look
+> well
+4530c4530
+< arth
+---
+> Arthur
+4535,4536c4535,4536
+< yo
+< sacr
+---
+> your
+> sacred
+4540c4540
+< thi
+---
+> this
+4543c4543
+< that
+---
+> That
+4545,4546c4545,4546
+< yo
+< purpos
+---
+> your
+> purpose
+4548c4548
+< arth
+---
+> Arthur
+4554,4555c4554,4555
+< holy
+< grail
+---
+> Holy
+> Grail
+4561,4562c4561,4562
+< sing
+< stop
+---
+> singing
+> stops
+4564c4564
+< launcelot
+---
+> LAUNCELOT
+4566,4567c4566,4567
+< a
+< bless
+---
+> A
+> blessing
+4569,4570c4569,4570
+< a
+< bless
+---
+> A
+> blessing
+4573c4573
+< lord
+---
+> Lord
+4575c4575
+< galahad
+---
+> GALAHAD
+4577c4577
+< god
+---
+> God
+4579,4580c4579,4580
+< pra
+< scen
+---
+> praised
+> SCENE
+4584,4586c4584,4586
+< king
+< arth
+< mus
+---
+> King
+> Arthur
+> music
+4593c4593
+< arth
+---
+> ARTHUR
+4595c4595
+< halt
+---
+> Halt
+4600c4600
+< hallo
+---
+> Hallo
+4603c4603
+< paus
+---
+> pause
+4605c4605
+< hallo
+---
+> Hallo
+4607,4608c4607,4608
+< french
+< guard
+---
+> FRENCH
+> GUARD
+4610c4610
+< allo
+---
+> Allo
+4612c4612
+< who
+---
+> Who
+4616c4616
+< arth
+---
+> ARTHUR
+4618c4618
+< it
+---
+> It
+4620,4621c4620,4621
+< king
+< arth
+---
+> King
+> Arthur
+4624,4625c4624,4625
+< thes
+< ar
+---
+> these
+> are
+4627c4627
+< knight
+---
+> Knights
+4630,4631c4630,4631
+< round
+< tabl
+---
+> Round
+> Table
+4633c4633
+< who
+---
+> Who
+4636c4636
+< castl
+---
+> castle
+4638c4638
+< thi
+---
+> this
+4640,4641c4640,4641
+< french
+< guard
+---
+> FRENCH
+> GUARD
+4643c4643
+< thi
+---
+> This
+4646c4646
+< castl
+---
+> castle
+4649,4650c4649,4650
+< mast
+< guy
+---
+> master
+> Guy
+4652c4652
+< loimbard
+---
+> Loimbard
+4654c4654
+< arth
+---
+> ARTHUR
+4656c4656
+< go
+---
+> Go
+4658,4660c4658,4660
+< tel
+< yo
+< mast
+---
+> tell
+> your
+> master
+4663c4663
+< hav
+---
+> have
+4665c4665
+< charg
+---
+> charged
+4667c4667
+< god
+---
+> God
+4670c4670
+< sacr
+---
+> sacred
+4673c4673
+< if
+---
+> If
+4675,4676c4675,4676
+< wil
+< giv
+---
+> will
+> give
+4680c4680
+< shelt
+---
+> shelter
+4693,4694c4693,4694
+< holy
+< grail
+---
+> Holy
+> Grail
+4696,4697c4696,4697
+< french
+< guard
+---
+> FRENCH
+> GUARD
+4699c4699
+< wel
+---
+> Well
+4701c4701
+< i
+---
+> I
+4708c4708
+< i
+---
+> I
+4720c4720
+< uh
+---
+> Uh
+4727c4727
+< on
+---
+> one
+4732c4732
+< arth
+---
+> ARTHUR
+4734c4734
+< what
+---
+> What
+4736c4736
+< galahad
+---
+> GALAHAD
+4738,4739c4738,4739
+< he
+< say
+---
+> He
+> says
+4745c4745
+< on
+---
+> one
+4747c4747
+< arth
+---
+> ARTHUR
+4749c4749
+< ar
+---
+> Are
+4751c4751
+< sur
+---
+> sure
+4756c4756
+< on
+---
+> one
+4758,4759c4758,4759
+< french
+< guard
+---
+> FRENCH
+> GUARD
+4761c4761
+< oh
+---
+> Oh
+4763c4763
+< ye
+---
+> yes
+4769c4769
+< nic
+---
+> nice
+4774c4774
+< i
+---
+> I
+4780c4780
+< on
+---
+> one
+4782c4782
+< arth
+---
+> ARTHUR
+4784c4784
+< wel
+---
+> Well
+4792c4792
+< com
+---
+> come
+4795c4795
+< hav
+---
+> have
+4799,4800c4799,4800
+< french
+< guard
+---
+> FRENCH
+> GUARD
+4802,4803c4802,4803
+< of
+< cours
+---
+> Of
+> course
+4806,4809c4806,4809
+< you
+< ar
+< engl
+< typ
+---
+> You
+> are
+> English
+> types
+4813c4813
+< arth
+---
+> ARTHUR
+4815c4815
+< wel
+---
+> Well
+4818c4818
+< ar
+---
+> are
+4822,4823c4822,4823
+< french
+< guard
+---
+> FRENCH
+> GUARD
+4825c4825
+< i
+---
+> I
+4828c4828
+< french
+---
+> French
+4830c4830
+< why
+---
+> Why
+4833,4837c4833,4837
+< i
+< hav
+< thi
+< out
+< acc
+---
+> I
+> have
+> this
+> outrageous
+> accent
+4840c4840
+< sil
+---
+> silly
+4845c4845
+< galahad
+---
+> GALAHAD
+4847,4848c4847,4848
+< what
+< ar
+---
+> What
+> are
+4852c4852
+< england
+---
+> England
+4854,4855c4854,4855
+< french
+< guard
+---
+> FRENCH
+> GUARD
+4857,4858c4857,4858
+< mind
+< yo
+---
+> Mind
+> your
+4860c4860
+< busy
+---
+> business
+4862c4862
+< arth
+---
+> ARTHUR
+4864c4864
+< if
+---
+> If
+4866c4866
+< wil
+---
+> will
+4871c4871
+< grail
+---
+> Grail
+4874,4877c4874,4877
+< shal
+< tak
+< yo
+< castl
+---
+> shall
+> take
+> your
+> castle
+4879c4879
+< forc
+---
+> force
+4881,4882c4881,4882
+< french
+< guard
+---
+> FRENCH
+> GUARD
+4884c4884
+< you
+---
+> You
+4888c4888
+< fright
+---
+> frighten
+4891c4891
+< engl
+---
+> English
+4894c4894
+< dog
+---
+> dogs
+4896c4896
+< go
+---
+> Go
+4899c4899
+< yo
+---
+> your
+4902c4902
+< son
+---
+> sons
+4905c4905
+< sil
+---
+> silly
+4908c4908
+< i
+---
+> I
+4911c4911
+< nos
+---
+> nose
+4917,4919c4917,4919
+< cal
+< arth
+< king
+---
+> called
+> Arthur
+> King
+4923,4926c4923,4926
+< al
+< yo
+< sil
+< engl
+---
+> all
+> your
+> silly
+> English
+4931c4931
+< thpppppt
+---
+> Thpppppt
+4933c4933
+< thppt
+---
+> Thppt
+4935c4935
+< thppt
+---
+> Thppt
+4937c4937
+< galahad
+---
+> GALAHAD
+4939c4939
+< what
+---
+> What
+4944c4944
+< arth
+---
+> ARTHUR
+4946c4946
+< now
+---
+> Now
+4948c4948
+< her
+---
+> here
+4954,4955c4954,4955
+< french
+< guard
+---
+> FRENCH
+> GUARD
+4957c4957
+< i
+---
+> I
+4961c4961
+< wann
+---
+> wanna
+4966c4966
+< mor
+---
+> more
+4970,4971c4970,4971
+< head
+< anim
+---
+> headed
+> animal
+4974c4974
+< wip
+---
+> wiper
+4976c4976
+< i
+---
+> I
+4979,4981c4979,4981
+< yo
+< gen
+< direct
+---
+> your
+> general
+> direction
+4983,4984c4983,4984
+< you
+< moth
+---
+> You
+> mother
+4987c4987
+< hamst
+---
+> hamster
+4989,4990c4989,4990
+< yo
+< fath
+---
+> your
+> father
+4993c4993
+< elderberry
+---
+> elderberries
+4995c4995
+< galahad
+---
+> GALAHAD
+4997,5000c4997,5000
+< is
+< ther
+< someon
+< els
+---
+> Is
+> there
+> someone
+> else
+5002c5002
+< ther
+---
+> there
+5008,5009c5008,5009
+< french
+< guard
+---
+> FRENCH
+> GUARD
+5011c5011
+< no
+---
+> No
+5017,5018c5017,5018
+< i
+< shal
+---
+> I
+> shall
+5023c5023
+< tim
+---
+> time
+5030c5030
+< arth
+---
+> ARTHUR
+5032c5032
+< now
+---
+> Now
+5034c5034
+< thi
+---
+> this
+5036c5036
+< yo
+---
+> your
+5038c5038
+< chant
+---
+> chance
+5040c5040
+< i
+---
+> I
+5044c5044
+< mor
+---
+> more
+5046c5046
+< reason
+---
+> reasonable
+5048,5049c5048,5049
+< french
+< guard
+---
+> FRENCH
+> GUARD
+5052c5052
+< fetchez
+---
+> Fetchez
+5054c5054
+< vach
+---
+> vache
+5056,5058c5056,5058
+< oth
+< french
+< guard
+---
+> OTHER
+> FRENCH
+> GUARD
+5060c5060
+< quo
+---
+> Quoi
+5062,5063c5062,5063
+< french
+< guard
+---
+> FRENCH
+> GUARD
+5066c5066
+< fetchez
+---
+> Fetchez
+5068c5068
+< vach
+---
+> vache
+5073c5073
+< arth
+---
+> ARTHUR
+5075c5075
+< if
+---
+> If
+5079c5079
+< agr
+---
+> agree
+5082c5082
+< command
+---
+> commands
+5085,5086c5085,5086
+< i
+< shal
+---
+> I
+> shall
+5094,5095c5094,5095
+< jes
+< christ
+---
+> Jesus
+> Christ
+5097c5097
+< knight
+---
+> KNIGHTS
+5099c5099
+< christ
+---
+> Christ
+5104c5104
+< ah
+---
+> Ah
+5106c5106
+< ohh
+---
+> Ohh
+5108c5108
+< arth
+---
+> ARTHUR
+5110c5110
+< right
+---
+> Right
+5112c5112
+< charg
+---
+> Charge
+5114c5114
+< knight
+---
+> KNIGHTS
+5116c5116
+< charg
+---
+> Charge
+5121,5122c5121,5122
+< french
+< guard
+---
+> FRENCH
+> GUARD
+5124c5124
+< hey
+---
+> Hey
+5126,5127c5126,5127
+< thi
+< on
+---
+> this
+> one
+5130,5131c5130,5131
+< yo
+< moth
+---
+> your
+> mother
+5133c5133
+< ther
+---
+> There
+5140,5141c5140,5141
+< french
+< guard
+---
+> FRENCH
+> GUARD
+5143,5145c5143,5145
+< and
+< thi
+< on
+---
+> And
+> this
+> one
+5149c5149
+< yo
+---
+> your
+5152c5152
+< arth
+---
+> ARTHUR
+5154c5154
+< run
+---
+> Run
+5157c5157
+< knight
+---
+> KNIGHTS
+5159c5159
+< run
+---
+> Run
+5162,5163c5162,5163
+< french
+< guard
+---
+> FRENCH
+> GUARD
+5165c5165
+< thppppt
+---
+> Thppppt
+5167,5168c5167,5168
+< french
+< guard
+---
+> FRENCH
+> GUARDS
+5171c5171
+< taunt
+---
+> taunting
+5173c5173
+< launcelot
+---
+> LAUNCELOT
+5175c5175
+< fiend
+---
+> Fiends
+5177c5177
+< i
+---
+> I
+5184c5184
+< arth
+---
+> ARTHUR
+5186c5186
+< no
+---
+> No
+5190c5190
+< no
+---
+> No
+5194c5194
+< bedev
+---
+> BEDEVERE
+5196c5196
+< sir
+---
+> Sir
+5198,5199c5198,5199
+< i
+< hav
+---
+> I
+> have
+5206c5206
+< lat
+---
+> later
+5256c5256
+< drillll
+---
+> drilllll
+5280,5281c5280,5281
+< french
+< guard
+---
+> FRENCH
+> GUARDS
+5284c5284
+< whisp
+---
+> whispering
+5286c5286
+< c
+---
+> C
+5294c5294
+< boi
+---
+> bois
+5296c5296
+< quo
+---
+> Quoi
+5298c5298
+< un
+---
+> Un
+5301c5301
+< what
+---
+> What
+5303,5304c5303,5304
+< a
+< pres
+---
+> A
+> present
+5306c5306
+< oh
+---
+> Oh
+5311c5311
+< ou
+---
+> Oui
+5313c5313
+< ou
+---
+> oui
+5315c5315
+< hurry
+---
+> Hurry
+5317c5317
+< what
+---
+> What
+5319c5319
+< let
+---
+> Let
+5324c5324
+< oh
+---
+> Oh
+5326c5326
+< on
+---
+> On
+5330,5331c5330,5331
+< bon
+< magn
+---
+> Bon
+> magne
+5333,5334c5333,5334
+< ov
+< her
+---
+> Over
+> here
+5346c5346
+< arth
+---
+> ARTHUR
+5348,5349c5348,5349
+< what
+< hap
+---
+> What
+> happens
+5352c5352
+< bedev
+---
+> BEDEVERE
+5354c5354
+< wel
+---
+> Well
+5360c5360
+< launcelot
+---
+> Launcelot
+5362c5362
+< galahad
+---
+> Galahad
+5365c5365
+< i
+---
+> I
+5371c5371
+< nightfal
+---
+> nightfall
+5381c5381
+< tak
+---
+> taking
+5383c5383
+< french
+---
+> French
+5388c5388
+< surpr
+---
+> surprise
+5390,5391c5390,5391
+< not
+< on
+---
+> Not
+> only
+5393c5393
+< surpr
+---
+> surprise
+5396,5397c5396,5397
+< tot
+< unarm
+---
+> totally
+> unarmed
+5399c5399
+< arth
+---
+> ARTHUR
+5401,5402c5401,5402
+< who
+< leap
+---
+> Who
+> leaps
+5405c5405
+< bedev
+---
+> BEDEVERE
+5407c5407
+< u
+---
+> U
+5413c5413
+< launcelot
+---
+> Launcelot
+5415c5415
+< galahad
+---
+> Galahad
+5418c5418
+< i
+---
+> I
+5420c5420
+< uh
+---
+> Uh
+5433c5433
+< arth
+---
+> ARTHUR
+5435c5435
+< ohh
+---
+> Ohh
+5437c5437
+< bedev
+---
+> BEDEVERE
+5439c5439
+< oh
+---
+> Oh
+5441c5441
+< um
+---
+> Um
+5454,5457c5454,5457
+< thi
+< larg
+< wood
+< badg
+---
+> this
+> large
+> wooden
+> badger
+5465c5465
+< arth
+---
+> ARTHUR
+5467c5467
+< run
+---
+> Run
+5470c5470
+< knight
+---
+> KNIGHTS
+5472c5472
+< run
+---
+> Run
+5475c5475
+< run
+---
+> Run
+5478c5478
+< run
+---
+> Run
+5481c5481
+< run
+---
+> Run
+5484c5484
+< run
+---
+> Run
+5487c5487
+< run
+---
+> Run
+5490c5490
+< run
+---
+> Run
+5494c5494
+< crash
+---
+> CRASH
+5496,5497c5496,5497
+< french
+< guard
+---
+> FRENCH
+> GUARDS
+5499c5499
+< oh
+---
+> Oh
+5506c5506
+< haw
+---
+> Haw
+5508c5508
+< haw
+---
+> Haw
+5512c5512
+< scen
+---
+> SCENE
+5518c5518
+< voic
+---
+> VOICE
+5520c5520
+< pict
+---
+> Picture
+5522c5522
+< schools
+---
+> Schools
+5524c5524
+< tak
+---
+> take
+5527c5527
+< direct
+---
+> DIRECTOR
+5529c5529
+< act
+---
+> Action
+5531c5531
+< hist
+---
+> HISTORIAN
+5533c5533
+< def
+---
+> Defeat
+5536,5537c5536,5537
+< castl
+< seem
+---
+> castle
+> seems
+5539,5543c5539,5543
+< hav
+< ut
+< disheart
+< king
+< arth
+---
+> have
+> utterly
+> disheartened
+> King
+> Arthur
+5545,5546c5545,5546
+< the
+< feroc
+---
+> The
+> ferocity
+5549,5550c5549,5550
+< french
+< taunt
+---
+> French
+> taunting
+5553c5553
+< complet
+---
+> completely
+5555c5555
+< surpr
+---
+> surprise
+5558,5560c5558,5560
+< arth
+< becam
+< convint
+---
+> Arthur
+> became
+> convinced
+5566c5566
+< requir
+---
+> required
+5572,5574c5572,5574
+< holy
+< grail
+< wer
+---
+> Holy
+> Grail
+> were
+5580,5581c5580,5581
+< success
+< conclud
+---
+> successful
+> conclusion
+5583c5583
+< arth
+---
+> Arthur
+5585,5586c5585,5586
+< hav
+< consult
+---
+> having
+> consulted
+5589c5589
+< knight
+---
+> knights
+5591c5591
+< decid
+---
+> decided
+5595c5595
+< sep
+---
+> separate
+5601,5602c5601,5602
+< grail
+< individ
+---
+> Grail
+> individually
+5609c5609
+< now
+---
+> Now
+5611c5611
+< thi
+---
+> this
+5617c5617
+< launcelot
+---
+> Launcelot
+5619c5619
+< knight
+---
+> KNIGHT
+5621c5621
+< aaaah
+---
+> Aaaah
+5627,5629c5627,5629
+< knight
+< kil
+< hist
+---
+> KNIGHT
+> kills
+> HISTORIAN
+5631c5631
+< hist
+---
+> HISTORIAN
+5633,5634c5633,5634
+< s
+< wif
+---
+> S
+> WIFE
+5636,5637c5636,5637
+< frank
+< scen
+---
+> Frank
+> SCENE
+5641c5641
+< trumpet
+---
+> trumpets
+5643c5643
+< nar
+---
+> NARRATOR
+5645,5646c5645,5646
+< the
+< tal
+---
+> The
+> Tale
+5648,5649c5648,5649
+< sir
+< robin
+---
+> Sir
+> Robin
+5651c5651
+< so
+---
+> So
+5655c5655
+< knight
+---
+> knights
+5658,5659c5658,5659
+< sep
+< way
+---
+> separate
+> ways
+5661,5664c5661,5664
+< sir
+< robin
+< rod
+< nor
+---
+> Sir
+> Robin
+> rode
+> north
+5671c5671
+< ew
+---
+> Ewing
+5673c5673
+< accompany
+---
+> accompanied
+5676,5677c5676,5677
+< favorit
+< minstrel
+---
+> favorite
+> minstrels
+5679c5679
+< minstrel
+---
+> MINSTREL
+5682c5682
+< sing
+---
+> singing
+5684c5684
+< brav
+---
+> Bravely
+5686,5687c5686,5687
+< sir
+< robin
+---
+> Sir
+> Robin
+5689,5690c5689,5690
+< rod
+< for
+---
+> rode
+> forth
+5692c5692
+< camelot
+---
+> Camelot
+5694c5694
+< he
+---
+> He
+5701,5704c5701,5704
+< o
+< brav
+< sir
+< robin
+---
+> O
+> brave
+> Sir
+> Robin
+5706c5706
+< he
+---
+> He
+5710c5710
+< al
+---
+> all
+5714c5714
+< kil
+---
+> killed
+5717c5717
+< way
+---
+> ways
+5719c5719
+< brav
+---
+> Brave
+5721c5721
+< brav
+---
+> brave
+5723c5723
+< brav
+---
+> brave
+5725,5727c5725,5727
+< brav
+< sir
+< robin
+---
+> brave
+> Sir
+> Robin
+5729c5729
+< he
+---
+> He
+5736c5736
+< scar
+---
+> scared
+5739c5739
+< mash
+---
+> mashed
+5744c5744
+< or
+---
+> Or
+5746c5746
+< hav
+---
+> have
+5748,5749c5748,5749
+< ey
+< goug
+---
+> eyes
+> gouged
+5754,5755c5754,5755
+< elbow
+< brok
+---
+> elbows
+> broken
+5757,5758c5757,5758
+< to
+< hav
+---
+> To
+> have
+5760c5760
+< kneecap
+---
+> kneecaps
+5766c5766
+< burn
+---
+> burned
+5769c5769
+< and
+---
+> And
+5771,5773c5771,5773
+< limb
+< al
+< hack
+---
+> limbs
+> all
+> hacked
+5775c5775
+< mangl
+---
+> mangled
+5777,5779c5777,5779
+< brav
+< sir
+< robin
+---
+> brave
+> Sir
+> Robin
+5781c5781
+< his
+---
+> His
+5783c5783
+< smash
+---
+> smashed
+5791c5791
+< and
+---
+> And
+5793,5794c5793,5794
+< liv
+< remov
+---
+> liver
+> removed
+5797,5798c5797,5798
+< bowel
+< unplug
+---
+> bowels
+> unplugged
+5800c5800
+< and
+---
+> And
+5802,5803c5802,5803
+< nostril
+< rap
+---
+> nostrils
+> raped
+5807c5807
+< burn
+---
+> burned
+5810c5810
+< and
+---
+> And
+5814,5815c5814,5815
+< sir
+< robin
+---
+> SIR
+> ROBIN
+5817c5817
+< that
+---
+> That
+5831c5831
+< mus
+---
+> music
+5835c5835
+< lad
+---
+> lads
+5837c5837
+< heh
+---
+> Heh
+5839,5841c5839,5841
+< look
+< lik
+< ther
+---
+> Looks
+> like
+> there
+5848c5848
+< den
+---
+> DENNIS
+5850c5850
+< anarcho
+---
+> Anarcho
+5852c5852
+< synd
+---
+> syndicalism
+5857c5857
+< preserv
+---
+> preserving
+5860c5860
+< wom
+---
+> WOMAN
+5862c5862
+< oh
+---
+> Oh
+5864c5864
+< den
+---
+> Dennis
+5870,5871c5870,5871
+< we
+< hav
+---
+> We
+> haven
+5878,5879c5878,5879
+< al
+< head
+---
+> ALL
+> HEADS
+5881c5881
+< halt
+---
+> Halt
+5883c5883
+< who
+---
+> Who
+5887c5887
+< minstrel
+---
+> MINSTREL
+5890c5890
+< sing
+---
+> singing
+5892c5892
+< he
+---
+> He
+5894,5896c5894,5896
+< brav
+< sir
+< robin
+---
+> brave
+> Sir
+> Robin
+5898,5900c5898,5900
+< brav
+< sir
+< robin
+---
+> brave
+> Sir
+> Robin
+5904c5904
+< robin
+---
+> ROBIN
+5906c5906
+< shut
+---
+> Shut
+5909c5909
+< um
+---
+> Um
+5918c5918
+< real
+---
+> really
+5920c5920
+< i
+---
+> I
+5935c5935
+< pass
+---
+> passing
+5938,5939c5938,5939
+< al
+< head
+---
+> ALL
+> HEADS
+5941c5941
+< what
+---
+> What
+5946c5946
+< minstrel
+---
+> MINSTREL
+5949c5949
+< sing
+---
+> singing
+5951c5951
+< to
+---
+> To
+5955c5955
+< robin
+---
+> ROBIN
+5957c5957
+< shut
+---
+> Shut
+5960c5960
+< um
+---
+> Um
+5966c5966
+< noth
+---
+> nothing
+5968,5969c5968,5969
+< noth
+< real
+---
+> nothing
+> really
+5971c5971
+< i
+---
+> I
+5993,5994c5993,5994
+< sir
+< knight
+---
+> Sir
+> Knight
+5996,5997c5996,5997
+< al
+< head
+---
+> ALL
+> HEADS
+5999c5999
+< i
+---
+> I
+6005c6005
+< robin
+---
+> ROBIN
+6007c6007
+< ah
+---
+> Ah
+6009c6009
+< w
+---
+> W
+6011c6011
+< wel
+---
+> well
+6013,6014c6013,6014
+< act
+< i
+---
+> actually
+> I
+6016c6016
+< i
+---
+> I
+6019c6019
+< knight
+---
+> Knight
+6022,6023c6022,6023
+< round
+< tabl
+---
+> Round
+> Table
+6025,6026c6025,6026
+< al
+< head
+---
+> ALL
+> HEADS
+6028c6028
+< you
+---
+> You
+6032c6032
+< knight
+---
+> Knight
+6035,6036c6035,6036
+< round
+< tabl
+---
+> Round
+> Table
+6038c6038
+< robin
+---
+> ROBIN
+6040c6040
+< i
+---
+> I
+6043,6044c6043,6044
+< left
+< head
+---
+> LEFT
+> HEAD
+6046c6046
+< in
+---
+> In
+6048,6051c6048,6051
+< cas
+< i
+< shal
+< hav
+---
+> case
+> I
+> shall
+> have
+6053c6053
+< kil
+---
+> kill
+6056,6057c6056,6057
+< middl
+< head
+---
+> MIDDLE
+> HEAD
+6059,6060c6059,6060
+< shal
+< i
+---
+> Shall
+> I
+6062,6063c6062,6063
+< right
+< head
+---
+> RIGHT
+> HEAD
+6065c6065
+< oh
+---
+> Oh
+6067c6067
+< i
+---
+> I
+6074,6075c6074,6075
+< middl
+< head
+---
+> MIDDLE
+> HEAD
+6077c6077
+< wel
+---
+> Well
+6081c6081
+< i
+---
+> I
+6084,6085c6084,6085
+< left
+< head
+---
+> LEFT
+> HEAD
+6087c6087
+< i
+---
+> I
+6089c6089
+< kil
+---
+> kill
+6092,6093c6092,6093
+< right
+< head
+---
+> RIGHT
+> HEAD
+6095c6095
+< oh
+---
+> Oh
+6101c6101
+< nic
+---
+> nice
+6105,6106c6105,6106
+< left
+< head
+---
+> LEFT
+> HEAD
+6108c6108
+< oh
+---
+> Oh
+6112c6112
+< robin
+---
+> ROBIN
+6114,6115c6114,6115
+< perhap
+< i
+---
+> Perhaps
+> I
+6118,6119c6118,6119
+< left
+< head
+---
+> LEFT
+> HEAD
+6121c6121
+< and
+---
+> And
+6124c6124
+< oh
+---
+> Oh
+6128c6128
+< get
+---
+> Get
+6133c6133
+< i
+---
+> I
+6140,6141c6140,6141
+< right
+< head
+---
+> RIGHT
+> HEAD
+6143c6143
+< oh
+---
+> Oh
+6146c6146
+< yo
+---
+> your
+6151,6152c6151,6152
+< middl
+< head
+---
+> MIDDLE
+> HEAD
+6154c6154
+< ye
+---
+> Yes
+6158c6158
+< al
+---
+> all
+6160c6160
+< fav
+---
+> favor
+6162,6163c6162,6163
+< left
+< head
+---
+> LEFT
+> HEAD
+6165c6165
+< what
+---
+> What
+6167,6168c6167,6168
+< right
+< head
+---
+> RIGHT
+> HEAD
+6170c6170
+< yap
+---
+> Yapping
+6172c6172
+< al
+---
+> all
+6174c6174
+< tim
+---
+> time
+6176,6177c6176,6177
+< middl
+< head
+---
+> MIDDLE
+> HEAD
+6179c6179
+< you
+---
+> You
+6184c6184
+< you
+---
+> You
+6192,6193c6192,6193
+< left
+< head
+---
+> LEFT
+> HEAD
+6195c6195
+< what
+---
+> What
+6200,6201c6200,6201
+< middl
+< head
+---
+> MIDDLE
+> HEAD
+6203,6204c6203,6204
+< you
+< snor
+---
+> You
+> snore
+6206,6207c6206,6207
+< left
+< head
+---
+> LEFT
+> HEAD
+6209c6209
+< oh
+---
+> Oh
+6211c6211
+< i
+---
+> I
+6216c6216
+< anyway
+---
+> Anyway
+6223c6223
+< brea
+---
+> breath
+6225,6226c6225,6226
+< middl
+< head
+---
+> MIDDLE
+> HEAD
+6228c6228
+< wel
+---
+> Well
+6232,6233c6232,6233
+< on
+< becaus
+---
+> only
+> because
+6240c6240
+< tee
+---
+> teeth
+6242,6243c6242,6243
+< right
+< head
+---
+> RIGHT
+> HEAD
+6245c6245
+< oh
+---
+> Oh
+6247c6247
+< bitch
+---
+> bitching
+6253c6253
+< hav
+---
+> have
+6256,6257c6256,6257
+< left
+< head
+---
+> LEFT
+> HEAD
+6259c6259
+< oh
+---
+> Oh
+6261c6261
+< al
+---
+> all
+6264c6264
+< al
+---
+> All
+6267c6267
+< al
+---
+> All
+6270c6270
+< we
+---
+> We
+6273c6273
+< kil
+---
+> kill
+6278c6278
+< hav
+---
+> have
+6281c6281
+< biscuit
+---
+> biscuits
+6283,6284c6283,6284
+< middl
+< head
+---
+> MIDDLE
+> HEAD
+6286c6286
+< ye
+---
+> Yes
+6288,6289c6288,6289
+< right
+< head
+---
+> RIGHT
+> HEAD
+6291c6291
+< oh
+---
+> Oh
+6294c6294
+< biscuit
+---
+> biscuits
+6296,6297c6296,6297
+< left
+< head
+---
+> LEFT
+> HEAD
+6299c6299
+< al
+---
+> All
+6302c6302
+< al
+---
+> All
+6306c6306
+< biscuit
+---
+> biscuits
+6312c6312
+< kil
+---
+> kill
+6316,6317c6316,6317
+< al
+< head
+---
+> ALL
+> HEADS
+6319c6319
+< right
+---
+> Right
+6321,6322c6321,6322
+< middl
+< head
+---
+> MIDDLE
+> HEAD
+6324,6325c6324,6325
+< he
+< bug
+---
+> He
+> buggered
+6328,6329c6328,6329
+< right
+< head
+---
+> RIGHT
+> HEAD
+6331c6331
+< so
+---
+> So
+6335c6335
+< he
+---
+> He
+6338,6339c6338,6339
+< scarp
+< minstrel
+---
+> scarper
+> MINSTREL
+6342c6342
+< sing
+---
+> singing
+6344,6346c6344,6346
+< brav
+< sir
+< robin
+---
+> Brave
+> Sir
+> Robin
+6350c6350
+< robin
+---
+> ROBIN
+6352c6352
+< no
+---
+> No
+6354c6354
+< minstrel
+---
+> MINSTREL
+6357c6357
+< sing
+---
+> singing
+6359c6359
+< brav
+---
+> Bravely
+6364c6364
+< robin
+---
+> ROBIN
+6366c6366
+< i
+---
+> I
+6371c6371
+< minstrel
+---
+> MINSTREL
+6374c6374
+< sing
+---
+> singing
+6376,6380c6376,6380
+< when
+< dang
+< rear
+< it
+< ug
+---
+> When
+> danger
+> reared
+> its
+> ugly
+6384,6385c6384,6385
+< brav
+< turn
+---
+> bravely
+> turned
+6391c6391
+< robin
+---
+> ROBIN
+6393c6393
+< no
+---
+> No
+6395c6395
+< minstrel
+---
+> MINSTREL
+6398c6398
+< sing
+---
+> singing
+6400c6400
+< ye
+---
+> Yes
+6402,6405c6402,6405
+< brav
+< sir
+< robin
+< turn
+---
+> brave
+> Sir
+> Robin
+> turned
+6407c6407
+< robin
+---
+> ROBIN
+6409c6409
+< i
+---
+> I
+6414c6414
+< minstrel
+---
+> MINSTREL
+6417c6417
+< sing
+---
+> singing
+6419,6420c6419,6420
+< and
+< gal
+---
+> And
+> gallantly
+6422c6422
+< chick
+---
+> chickened
+6425,6426c6425,6426
+< brav
+< tak
+---
+> bravely
+> taking
+6431c6431
+< robin
+---
+> ROBIN
+6433,6434c6433,6434
+< i
+< nev
+---
+> I
+> never
+6437c6437
+< minstrel
+---
+> MINSTREL
+6440c6440
+< sing
+---
+> singing
+6442c6442
+< he
+---
+> He
+6446,6447c6446,6447
+< brav
+< ret
+---
+> brave
+> retreat
+6449c6449
+< robin
+---
+> ROBIN
+6451,6452c6451,6452
+< al
+< lie
+---
+> All
+> lies
+6454c6454
+< minstrel
+---
+> MINSTREL
+6457c6457
+< sing
+---
+> singing
+6459c6459
+< bravest
+---
+> Bravest
+6462c6462
+< brav
+---
+> brave
+6464,6465c6464,6465
+< sir
+< robin
+---
+> Sir
+> Robin
+6467c6467
+< robin
+---
+> ROBIN
+6469,6472c6469,6472
+< i
+< nev
+< cartoon
+< monk
+---
+> I
+> never
+> CARTOON
+> MONKS
+6475c6475
+< chant
+---
+> chanting
+6477,6479c6477,6479
+< pie
+< iesu
+< domin
+---
+> Pie
+> Iesu
+> domine
+6481,6482c6481,6482
+< don
+< ei
+---
+> dona
+> eis
+6485,6486c6485,6486
+< cartoon
+< charact
+---
+> CARTOON
+> CHARACTER
+6488c6488
+< heh
+---
+> Heh
+6496,6497c6496,6497
+< cartoon
+< monk
+---
+> CARTOON
+> MONKS
+6500c6500
+< chant
+---
+> chanting
+6502,6504c6502,6504
+< pie
+< iesu
+< domin
+---
+> Pie
+> Iesu
+> domine
+6507,6508c6507,6508
+< cartoon
+< charact
+---
+> CARTOON
+> CHARACTERS
+6510c6510
+< wayy
+---
+> Wayy
+6515c6515
+< ho
+---
+> Ho
+6518c6518
+< woa
+---
+> Woa
+6528c6528
+< heh
+---
+> Heh
+6534c6534
+< heh
+---
+> Heh
+6538,6539c6538,6539
+< cartoon
+< monk
+---
+> CARTOON
+> MONKS
+6542c6542
+< chant
+---
+> chanting
+6545,6546c6545,6546
+< don
+< ei
+---
+> dona
+> eis
+6549,6550c6549,6550
+< cartoon
+< charact
+---
+> CARTOON
+> CHARACTER
+6552c6552
+< wayy
+---
+> Wayy
+6557c6557
+< wayy
+---
+> Wayy
+6562c6562
+< voic
+---
+> VOICE
+6565c6565
+< whisp
+---
+> whispering
+6567c6567
+< forg
+---
+> Forgive
+6570c6570
+< ask
+---
+> asking
+6572,6573c6572,6573
+< cartoon
+< charact
+---
+> CARTOON
+> CHARACTER
+6575c6575
+< oh
+---
+> Oh
+6577,6578c6577,6578
+< oooo
+< scen
+---
+> Oooo
+> SCENE
+6582c6582
+< trumpet
+---
+> trumpets
+6584c6584
+< nar
+---
+> NARRATOR
+6586,6587c6586,6587
+< the
+< tal
+---
+> The
+> Tale
+6589,6590c6589,6590
+< sir
+< galahad
+---
+> Sir
+> Galahad
+6608,6609c6608,6609
+< angel
+< sing
+---
+> angels
+> singing
+6628c6628
+< galahad
+---
+> GALAHAD
+6630c6630
+< op
+---
+> Open
+6634c6634
+< op
+---
+> Open
+6643c6643
+< in
+---
+> In
+6645c6645
+< nam
+---
+> name
+6647,6648c6647,6648
+< king
+< arth
+---
+> King
+> Arthur
+6650c6650
+< op
+---
+> open
+6666c6666
+< girl
+---
+> GIRLS
+6668c6668
+< hello
+---
+> Hello
+6670c6670
+< zoot
+---
+> ZOOT
+6672,6675c6672,6675
+< welcom
+< gentl
+< sir
+< knight
+---
+> Welcome
+> gentle
+> Sir
+> Knight
+6677c6677
+< welcom
+---
+> Welcome
+6680,6681c6680,6681
+< castl
+< anthrax
+---
+> Castle
+> Anthrax
+6683c6683
+< galahad
+---
+> GALAHAD
+6685,6687c6685,6687
+< the
+< castl
+< anthrax
+---
+> The
+> Castle
+> Anthrax
+6689c6689
+< zoot
+---
+> ZOOT
+6691c6691
+< ye
+---
+> Yes
+6693c6693
+< oh
+---
+> Oh
+6702c6702
+< nam
+---
+> name
+6706c6706
+< oh
+---
+> Oh
+6710,6711c6710,6711
+< ar
+< nic
+---
+> are
+> nice
+6714c6714
+< wil
+---
+> will
+6717c6717
+< yo
+---
+> your
+6721c6721
+< nee
+---
+> need
+6723c6723
+< galahad
+---
+> GALAHAD
+6725,6726c6725,6726
+< you
+< ar
+---
+> You
+> are
+6728c6728
+< keep
+---
+> keepers
+6731,6732c6731,6732
+< holy
+< grail
+---
+> Holy
+> Grail
+6734c6734
+< zoot
+---
+> ZOOT
+6736c6736
+< the
+---
+> The
+6739c6739
+< galahad
+---
+> GALAHAD
+6741,6742c6741,6742
+< the
+< grail
+---
+> The
+> Grail
+6744c6744
+< it
+---
+> It
+6746c6746
+< her
+---
+> here
+6748c6748
+< zoot
+---
+> ZOOT
+6750c6750
+< oh
+---
+> Oh
+6754,6755c6754,6755
+< ar
+< tir
+---
+> are
+> tired
+6761c6761
+< awhil
+---
+> awhile
+6763c6763
+< midget
+---
+> Midget
+6765c6765
+< crap
+---
+> Crapper
+6767c6767
+< midget
+---
+> MIDGET
+6769c6769
+< crap
+---
+> CRAPPER
+6771c6771
+< ye
+---
+> Yes
+6773,6774c6773,6774
+< o
+< zoot
+---
+> O
+> Zoot
+6776c6776
+< zoot
+---
+> ZOOT
+6778c6778
+< prep
+---
+> Prepare
+6785c6785
+< midget
+---
+> MIDGET
+6787c6787
+< crap
+---
+> CRAPPER
+6789c6789
+< oh
+---
+> Oh
+6793c6793
+< thank
+---
+> Thank
+6796c6796
+< thank
+---
+> Thank
+6799c6799
+< thank
+---
+> Thank
+6802c6802
+< thank
+---
+> Thank
+6805c6805
+< thank
+---
+> Thank
+6809c6809
+< zoot
+---
+> ZOOT
+6811c6811
+< away
+---
+> Away
+6814c6814
+< varletess
+---
+> varletesses
+6816,6819c6816,6819
+< the
+< bed
+< her
+< ar
+---
+> The
+> beds
+> here
+> are
+6830c6830
+< galahad
+---
+> GALAHAD
+6832c6832
+< wel
+---
+> Well
+6836c6836
+< i
+---
+> I
+6838c6838
+< i
+---
+> I
+6842c6842
+< zoot
+---
+> ZOOT
+6844c6844
+< what
+---
+> What
+6846,6847c6846,6847
+< yo
+< nam
+---
+> your
+> name
+6849c6849
+< handsom
+---
+> handsome
+6852c6852
+< galahad
+---
+> GALAHAD
+6854,6855c6854,6855
+< sir
+< galahad
+---
+> Sir
+> Galahad
+6858c6858
+< chast
+---
+> Chaste
+6860c6860
+< zoot
+---
+> ZOOT
+6862c6862
+< min
+---
+> Mine
+6864c6864
+< zoot
+---
+> Zoot
+6866,6867c6866,6867
+< just
+< zoot
+---
+> Just
+> Zoot
+6869c6869
+< oh
+---
+> Oh
+6872c6872
+< com
+---
+> come
+6874c6874
+< galahad
+---
+> GALAHAD
+6876c6876
+< look
+---
+> Look
+6878c6878
+< pleas
+---
+> please
+6880,6881c6880,6881
+< in
+< god
+---
+> In
+> God
+6884c6884
+< nam
+---
+> name
+6889c6889
+< grail
+---
+> Grail
+6891c6891
+< zoot
+---
+> ZOOT
+6893c6893
+< oh
+---
+> Oh
+6896,6897c6896,6897
+< hav
+< suff
+---
+> have
+> suffered
+6900,6902c6900,6902
+< you
+< ar
+< deliry
+---
+> You
+> are
+> delirious
+6904c6904
+< galahad
+---
+> GALAHAD
+6906c6906
+< no
+---
+> No
+6910,6911c6910,6911
+< i
+< hav
+---
+> I
+> have
+6915c6915
+< it
+---
+> It
+6917c6917
+< her
+---
+> here
+6920c6920
+< thi
+---
+> this
+6922c6922
+< zoot
+---
+> ZOOT
+6924,6925c6924,6925
+< sir
+< galahad
+---
+> Sir
+> Galahad
+6927c6927
+< you
+---
+> You
+6932c6932
+< ungal
+---
+> ungallant
+6935c6935
+< refus
+---
+> refuse
+6937c6937
+< hospit
+---
+> hospitality
+6939c6939
+< galahad
+---
+> GALAHAD
+6941c6941
+< wel
+---
+> Well
+6943c6943
+< i
+---
+> I
+6945c6945
+< i
+---
+> I
+6949c6949
+< zoot
+---
+> ZOOT
+6951c6951
+< oh
+---
+> Oh
+6953c6953
+< i
+---
+> I
+6957c6957
+< lif
+---
+> life
+6961c6961
+< dul
+---
+> dull
+6964c6964
+< comp
+---
+> compared
+6966c6966
+< yo
+---
+> yours
+6968,6969c6968,6969
+< we
+< ar
+---
+> We
+> are
+6972c6972
+< scor
+---
+> score
+6974c6974
+< blond
+---
+> blondes
+6976c6976
+< brunet
+---
+> brunettes
+6978c6978
+< al
+---
+> all
+6993,6994c6993,6994
+< thi
+< castl
+---
+> this
+> castle
+6997c6997
+< on
+---
+> one
+7002c7002
+< oooh
+---
+> Oooh
+7004c7004
+< it
+---
+> It
+7007,7008c7007,7008
+< lon
+< lif
+---
+> lonely
+> life
+7010c7010
+< bath
+---
+> bathing
+7012c7012
+< dress
+---
+> dressing
+7014c7014
+< undress
+---
+> undressing
+7016,7017c7016,7017
+< mak
+< excit
+---
+> making
+> exciting
+7020,7021c7020,7021
+< we
+< ar
+---
+> We
+> are
+7024c7024
+< us
+---
+> used
+7026,7027c7026,7027
+< handsom
+< knight
+---
+> handsome
+> knights
+7029c7029
+< nay
+---
+> Nay
+7031c7031
+< nay
+---
+> Nay
+7033c7033
+< com
+---
+> Come
+7035c7035
+< com
+---
+> Come
+7037c7037
+< you
+---
+> You
+7040c7040
+< her
+---
+> here
+7042c7042
+< oh
+---
+> Oh
+7046,7047c7046,7047
+< ar
+< wound
+---
+> are
+> wounded
+7049c7049
+< galahad
+---
+> GALAHAD
+7051c7051
+< no
+---
+> No
+7062c7062
+< noth
+---
+> nothing
+7064c7064
+< zoot
+---
+> ZOOT
+7066c7066
+< oh
+---
+> Oh
+7072,7073c7072,7073
+< doct
+< immedy
+---
+> doctors
+> immediately
+7075c7075
+< no
+---
+> No
+7079c7079
+< pleas
+---
+> please
+7081c7081
+< lie
+---
+> Lie
+7088c7088
+< piglet
+---
+> PIGLET
+7090c7090
+< wel
+---
+> Well
+7093c7093
+< seem
+---
+> seems
+7097c7097
+< troubl
+---
+> trouble
+7099c7099
+< galahad
+---
+> GALAHAD
+7101c7101
+< they
+---
+> They
+7104c7104
+< doct
+---
+> doctors
+7106c7106
+< zoot
+---
+> ZOOT
+7108c7108
+< uh
+---
+> Uh
+7111c7111
+< hav
+---
+> have
+7113,7115c7113,7115
+< bas
+< med
+< train
+---
+> basic
+> medical
+> training
+7117c7117
+< ye
+---
+> yes
+7119c7119
+< galahad
+---
+> GALAHAD
+7121c7121
+< b
+---
+> B
+7125c7125
+< zoot
+---
+> ZOOT
+7127c7127
+< oh
+---
+> Oh
+7129c7129
+< com
+---
+> come
+7131c7131
+< com
+---
+> come
+7133c7133
+< you
+---
+> You
+7139,7140c7139,7140
+< doct
+< piglet
+---
+> Doctor
+> Piglet
+7142,7143c7142,7143
+< doct
+< winston
+---
+> Doctor
+> Winston
+7145,7146c7145,7146
+< pract
+< yo
+---
+> Practice
+> your
+7149c7149
+< winston
+---
+> WINSTON
+7151c7151
+< try
+---
+> Try
+7155c7155
+< galahad
+---
+> GALAHAD
+7157c7157
+< ar
+---
+> Are
+7159c7159
+< sur
+---
+> sure
+7163,7164c7163,7164
+< absolv
+< necess
+---
+> absolutely
+> necessary
+7166c7166
+< piglet
+---
+> PIGLET
+7168c7168
+< we
+---
+> We
+7170c7170
+< examin
+---
+> examine
+7173c7173
+< galahad
+---
+> GALAHAD
+7175c7175
+< ther
+---
+> There
+7178c7178
+< noth
+---
+> nothing
+7183c7183
+< piglet
+---
+> PIGLET
+7185c7185
+< pleas
+---
+> Please
+7187,7189c7187,7189
+< we
+< ar
+< doct
+---
+> We
+> are
+> doctors
+7191c7191
+< galahad
+---
+> GALAHAD
+7193c7193
+< look
+---
+> Look
+7195c7195
+< thi
+---
+> This
+7199c7199
+< i
+---
+> I
+7203c7203
+< chast
+---
+> chastity
+7205c7205
+< piglet
+---
+> PIGLET
+7207c7207
+< back
+---
+> Back
+7209c7209
+< yo
+---
+> your
+7212,7213c7212,7213
+< at
+< ont
+---
+> At
+> once
+7215c7215
+< galahad
+---
+> GALAHAD
+7217c7217
+< tor
+---
+> Torment
+7220c7220
+< long
+---
+> longer
+7222,7223c7222,7223
+< i
+< hav
+---
+> I
+> have
+7226c7226
+< grail
+---
+> Grail
+7228c7228
+< piglet
+---
+> PIGLET
+7230c7230
+< ther
+---
+> There
+7235c7235
+< her
+---
+> here
+7237c7237
+< galahad
+---
+> GALAHAD
+7239,7240c7239,7240
+< i
+< hav
+---
+> I
+> have
+7244,7245c7244,7245
+< i
+< hav
+---
+> I
+> have
+7252,7253c7252,7253
+< i
+< hav
+---
+> I
+> have
+7256c7256
+< girl
+---
+> GIRLS
+7258c7258
+< hello
+---
+> Hello
+7260c7260
+< galahad
+---
+> GALAHAD
+7262c7262
+< oh
+---
+> Oh
+7264c7264
+< girl
+---
+> GIRLS
+7266c7266
+< hello
+---
+> Hello
+7268c7268
+< hello
+---
+> Hello
+7270c7270
+< hello
+---
+> Hello
+7272c7272
+< hello
+---
+> Hello
+7274c7274
+< hello
+---
+> Hello
+7276c7276
+< hello
+---
+> Hello
+7278c7278
+< hello
+---
+> Hello
+7280c7280
+< hello
+---
+> Hello
+7282c7282
+< hello
+---
+> Hello
+7284c7284
+< hello
+---
+> Hello
+7286c7286
+< hello
+---
+> Hello
+7288c7288
+< hello
+---
+> Hello
+7290c7290
+< hello
+---
+> Hello
+7292c7292
+< hello
+---
+> Hello
+7294c7294
+< hello
+---
+> Hello
+7296c7296
+< hello
+---
+> Hello
+7298c7298
+< hello
+---
+> Hello
+7300c7300
+< hello
+---
+> Hello
+7302c7302
+< hello
+---
+> Hello
+7304c7304
+< hello
+---
+> Hello
+7306c7306
+< hello
+---
+> Hello
+7308c7308
+< hello
+---
+> Hello
+7310c7310
+< hello
+---
+> Hello
+7312c7312
+< galahad
+---
+> GALAHAD
+7314c7314
+< zoot
+---
+> Zoot
+7316c7316
+< dingo
+---
+> DINGO
+7318c7318
+< no
+---
+> No
+7320c7320
+< i
+---
+> I
+7322c7322
+< zoot
+---
+> Zoot
+7325c7325
+< id
+---
+> identical
+7327c7327
+< sist
+---
+> sister
+7329c7329
+< dingo
+---
+> Dingo
+7331c7331
+< galahad
+---
+> GALAHAD
+7333c7333
+< oh
+---
+> Oh
+7335c7335
+< wel
+---
+> well
+7337c7337
+< excus
+---
+> excuse
+7340c7340
+< i
+---
+> I
+7342c7342
+< dingo
+---
+> DINGO
+7344,7345c7344,7345
+< wher
+< ar
+---
+> Where
+> are
+7349c7349
+< galahad
+---
+> GALAHAD
+7351c7351
+< i
+---
+> I
+7354c7354
+< grail
+---
+> Grail
+7356,7357c7356,7357
+< i
+< hav
+---
+> I
+> have
+7361c7361
+< her
+---
+> here
+7363,7364c7363,7364
+< thi
+< castl
+---
+> this
+> castle
+7366c7366
+< dingo
+---
+> DINGO
+7368c7368
+< oh
+---
+> Oh
+7371c7371
+< oh
+---
+> Oh
+7375c7375
+< bad
+---
+> Bad
+7378c7378
+< zoot
+---
+> Zoot
+7380c7380
+< galahad
+---
+> GALAHAD
+7382c7382
+< wel
+---
+> Well
+7388c7388
+< dingo
+---
+> DINGO
+7390c7390
+< oh
+---
+> Oh
+7392c7392
+< wick
+---
+> wicked
+7397c7397
+< zoot
+---
+> Zoot
+7399c7399
+< she
+---
+> She
+7402c7402
+< set
+---
+> setting
+7410,7411c7410,7411
+< i
+< hav
+---
+> I
+> have
+7413c7413
+< rememb
+---
+> remembered
+7418c7418
+< shap
+---
+> shaped
+7420c7420
+< it
+---
+> It
+7426c7426
+< tim
+---
+> time
+7431c7431
+< thi
+---
+> this
+7434c7434
+< galahad
+---
+> GALAHAD
+7436c7436
+< it
+---
+> It
+7442c7442
+< grail
+---
+> Grail
+7444c7444
+< dingo
+---
+> DINGO
+7446c7446
+< oh
+---
+> Oh
+7448c7448
+< wick
+---
+> wicked
+7455c7455
+< zoot
+---
+> Zoot
+7457c7457
+< she
+---
+> She
+7466c7466
+< penal
+---
+> penalty
+7468c7468
+< do
+---
+> Do
+7471,7472c7471,7472
+< thi
+< scen
+---
+> this
+> scene
+7474c7474
+< hav
+---
+> have
+7478,7479c7478,7479
+< we
+< wer
+---
+> We
+> were
+7481c7481
+< worry
+---
+> worried
+7484,7486c7484,7486
+< boy
+< wer
+< writ
+---
+> boys
+> were
+> writing
+7497c7497
+< it
+---
+> It
+7500c7500
+< bet
+---
+> better
+7502c7502
+< som
+---
+> some
+7505,7506c7505,7506
+< prevy
+< scen
+---
+> previous
+> scenes
+7508c7508
+< i
+---
+> I
+7511,7512c7511,7512
+< left
+< head
+---
+> LEFT
+> HEAD
+7514c7514
+< at
+---
+> At
+7516c7516
+< our
+---
+> ours
+7518,7519c7518,7519
+< bet
+< vis
+---
+> better
+> visually
+7521c7521
+< den
+---
+> DENNIS
+7523c7523
+< wel
+---
+> Well
+7527c7527
+< our
+---
+> ours
+7529c7529
+< commit
+---
+> committed
+7531c7531
+< it
+---
+> It
+7540c7540
+< jok
+---
+> jokes
+7542,7543c7542,7543
+< old
+< man
+---
+> OLD
+> MAN
+7545c7545
+< get
+---
+> Get
+7550,7552c7550,7552
+< tim
+< the
+< ench
+---
+> TIM
+> THE
+> ENCHANTER
+7554c7554
+< ye
+---
+> Yes
+7561,7563c7561,7563
+< army
+< of
+< knight
+---
+> ARMY
+> OF
+> KNIGHTS
+7565c7565
+< ye
+---
+> Yes
+7572c7572
+< dingo
+---
+> DINGO
+7574c7574
+< oh
+---
+> Oh
+7576c7576
+< i
+---
+> I
+7578,7580c7578,7580
+< enjoy
+< thi
+< scen
+---
+> enjoying
+> this
+> scene
+7582c7582
+< god
+---
+> GOD
+7584c7584
+< get
+---
+> Get
+7589c7589
+< dingo
+---
+> DINGO
+7594c7594
+< oh
+---
+> Oh
+7596c7596
+< wick
+---
+> wicked
+7598,7599c7598,7599
+< wick
+< zoot
+---
+> wicked
+> Zoot
+7601c7601
+< oh
+---
+> Oh
+7614c7614
+< penal
+---
+> penalty
+7616,7617c7616,7617
+< and
+< her
+---
+> And
+> here
+7619,7620c7619,7620
+< castl
+< anthrax
+---
+> Castle
+> Anthrax
+7623c7623
+< hav
+---
+> have
+7625,7626c7625,7626
+< on
+< pun
+---
+> one
+> punishment
+7628c7628
+< set
+---
+> setting
+7633c7633
+< shap
+---
+> shaped
+7636c7636
+< you
+---
+> You
+7648c7648
+< girl
+---
+> GIRLS
+7650,7651c7650,7651
+< a
+< spank
+---
+> A
+> spanking
+7653,7654c7653,7654
+< a
+< spank
+---
+> A
+> spanking
+7656c7656
+< dingo
+---
+> DINGO
+7658c7658
+< you
+---
+> You
+7662c7662
+< wel
+---
+> well
+7664,7665c7664,7665
+< and
+< aft
+---
+> And
+> after
+7667,7668c7667,7668
+< hav
+< spank
+---
+> have
+> spanked
+7678c7678
+< lik
+---
+> like
+7680c7680
+< and
+---
+> And
+7686c7686
+< amaz
+---
+> AMAZING
+7688c7688
+< and
+---
+> And
+7692c7692
+< stun
+---
+> STUNNER
+7694c7694
+< and
+---
+> And
+7697c7697
+< lov
+---
+> LOVELY
+7699c7699
+< and
+---
+> And
+7702c7702
+< dingo
+---
+> DINGO
+7704c7704
+< ye
+---
+> Yes
+7706c7706
+< ye
+---
+> yes
+7710c7710
+< giv
+---
+> give
+7712c7712
+< al
+---
+> all
+7715c7715
+< spank
+---
+> spanking
+7717c7717
+< girl
+---
+> GIRLS
+7719,7720c7719,7720
+< a
+< spank
+---
+> A
+> spanking
+7722,7723c7722,7723
+< a
+< spank
+---
+> A
+> spanking
+7725c7725
+< ther
+---
+> There
+7731c7731
+< spank
+---
+> spanking
+7734c7734
+< dingo
+---
+> DINGO
+7736,7737c7736,7737
+< and
+< aft
+---
+> And
+> after
+7739c7739
+< spank
+---
+> spanking
+7742c7742
+< or
+---
+> oral
+7745c7745
+< girl
+---
+> GIRLS
+7747,7748c7747,7748
+< the
+< or
+---
+> The
+> oral
+7751,7752c7751,7752
+< the
+< or
+---
+> The
+> oral
+7755c7755
+< galahad
+---
+> GALAHAD
+7757c7757
+< wel
+---
+> Well
+7759c7759
+< i
+---
+> I
+7764c7764
+< long
+---
+> longer
+7766c7766
+< launcelot
+---
+> LAUNCELOT
+7768,7769c7768,7769
+< sir
+< galahad
+---
+> Sir
+> Galahad
+7771c7771
+< galahad
+---
+> GALAHAD
+7773c7773
+< oh
+---
+> Oh
+7777c7777
+< launcelot
+---
+> LAUNCELOT
+7779c7779
+< quick
+---
+> Quick
+7781c7781
+< galahad
+---
+> GALAHAD
+7783c7783
+< what
+---
+> What
+7785c7785
+< launcelot
+---
+> LAUNCELOT
+7787c7787
+< quick
+---
+> Quick
+7789c7789
+< galahad
+---
+> GALAHAD
+7791c7791
+< why
+---
+> Why
+7793c7793
+< launcelot
+---
+> LAUNCELOT
+7795,7796c7795,7796
+< you
+< ar
+---
+> You
+> are
+7798c7798
+< gre
+---
+> great
+7801c7801
+< dingo
+---
+> DINGO
+7803c7803
+< no
+---
+> No
+7809c7809
+< launcelot
+---
+> LAUNCELOT
+7811c7811
+< sil
+---
+> Silence
+7816c7816
+< galahad
+---
+> GALAHAD
+7818c7818
+< you
+---
+> You
+7828c7828
+< launcelot
+---
+> LAUNCELOT
+7830c7830
+< com
+---
+> Come
+7833,7837c7833,7837
+< we
+< wil
+< cov
+< yo
+< escap
+---
+> We
+> will
+> cover
+> your
+> escape
+7839c7839
+< galahad
+---
+> GALAHAD
+7841c7841
+< look
+---
+> Look
+7843c7843
+< i
+---
+> I
+7846c7846
+< fin
+---
+> fine
+7848c7848
+< launcelot
+---
+> LAUNCELOT
+7850c7850
+< com
+---
+> Come
+7853c7853
+< girl
+---
+> GIRLS
+7855,7856c7855,7856
+< sir
+< galahad
+---
+> Sir
+> Galahad
+7858c7858
+< galahad
+---
+> GALAHAD
+7860c7860
+< no
+---
+> No
+7862c7862
+< look
+---
+> Look
+7864c7864
+< i
+---
+> I
+7866,7867c7866,7867
+< tackl
+< thi
+---
+> tackle
+> this
+7869c7869
+< singl
+---
+> single
+7871c7871
+< hand
+---
+> handed
+7873c7873
+< dingo
+---
+> DINGO
+7875c7875
+< ye
+---
+> Yes
+7877c7877
+< let
+---
+> Let
+7879c7879
+< tackl
+---
+> tackle
+7881c7881
+< singl
+---
+> single
+7883c7883
+< hand
+---
+> handed
+7885c7885
+< girl
+---
+> GIRLS
+7887c7887
+< ye
+---
+> Yes
+7889c7889
+< let
+---
+> Let
+7891c7891
+< tackl
+---
+> tackle
+7893c7893
+< singl
+---
+> single
+7895c7895
+< hand
+---
+> handed
+7897c7897
+< launcelot
+---
+> LAUNCELOT
+7899c7899
+< no
+---
+> No
+7901,7902c7901,7902
+< sir
+< galahad
+---
+> Sir
+> Galahad
+7904c7904
+< com
+---
+> Come
+7907c7907
+< galahad
+---
+> GALAHAD
+7909c7909
+< no
+---
+> No
+7911c7911
+< real
+---
+> Really
+7913c7913
+< honest
+---
+> Honestly
+7915c7915
+< i
+---
+> I
+7917c7917
+< cop
+---
+> cope
+7919c7919
+< i
+---
+> I
+7921,7922c7921,7922
+< handl
+< thi
+---
+> handle
+> this
+7924c7924
+< easy
+---
+> easily
+7926c7926
+< dingo
+---
+> DINGO
+7928c7928
+< oh
+---
+> Oh
+7930c7930
+< ye
+---
+> yes
+7932c7932
+< let
+---
+> Let
+7934c7934
+< handl
+---
+> handle
+7936c7936
+< easy
+---
+> easily
+7938c7938
+< girl
+---
+> GIRLS
+7940c7940
+< ye
+---
+> Yes
+7942c7942
+< let
+---
+> Let
+7944c7944
+< handl
+---
+> handle
+7946c7946
+< easy
+---
+> easily
+7948c7948
+< launcelot
+---
+> LAUNCELOT
+7950c7950
+< no
+---
+> No
+7952c7952
+< quick
+---
+> Quick
+7954c7954
+< quick
+---
+> Quick
+7956c7956
+< galahad
+---
+> GALAHAD
+7958c7958
+< pleas
+---
+> Please
+7960c7960
+< i
+---
+> I
+7962c7962
+< def
+---
+> defeat
+7965c7965
+< ther
+---
+> There
+7968c7968
+< on
+---
+> only
+7970c7970
+< hundr
+---
+> hundred
+7978c7978
+< dingo
+---
+> DINGO
+7980c7980
+< ye
+---
+> Yes
+7982c7982
+< ye
+---
+> yes
+7984,7985c7984,7985
+< he
+< wil
+---
+> He
+> will
+7988c7988
+< easy
+---
+> easily
+7990,7991c7990,7991
+< we
+< hav
+---
+> We
+> haven
+7995c7995
+< chant
+---
+> chance
+7997c7997
+< girl
+---
+> GIRLS
+7999,8000c7999,8000
+< we
+< hav
+---
+> We
+> haven
+8004c8004
+< chant
+---
+> chance
+8006,8007c8006,8007
+< he
+< wil
+---
+> He
+> will
+8010c8010
+< easy
+---
+> easily
+8015c8015
+< dingo
+---
+> DINGO
+8017c8017
+< oh
+---
+> Oh
+8021c8021
+< launcelot
+---
+> LAUNCELOT
+8023,8024c8023,8024
+< we
+< wer
+---
+> We
+> were
+8029c8029
+< tim
+---
+> time
+8031,8032c8031,8032
+< you
+< wer
+---
+> You
+> were
+8034c8034
+< gre
+---
+> great
+8037c8037
+< galahad
+---
+> GALAHAD
+8039c8039
+< i
+---
+> I
+8044c8044
+< i
+---
+> I
+8047c8047
+< launcelot
+---
+> LAUNCELOT
+8049c8049
+< ye
+---
+> Yes
+8051c8051
+< wer
+---
+> were
+8053,8054c8053,8054
+< you
+< wer
+---
+> You
+> were
+8056c8056
+< terr
+---
+> terrible
+8059c8059
+< galahad
+---
+> GALAHAD
+8061c8061
+< look
+---
+> Look
+8068c8068
+< ther
+---
+> there
+8070c8070
+< fac
+---
+> face
+8074c8074
+< launcelot
+---
+> LAUNCELOT
+8076c8076
+< no
+---
+> No
+8082c8082
+< peril
+---
+> perilous
+8084c8084
+< galahad
+---
+> GALAHAD
+8086c8086
+< look
+---
+> Look
+8097c8097
+< sampl
+---
+> sample
+8102c8102
+< i
+---
+> I
+8105c8105
+< launcelot
+---
+> LAUNCELOT
+8107c8107
+< no
+---
+> No
+8116,8117c8116,8117
+< holy
+< grail
+---
+> Holy
+> Grail
+8119c8119
+< com
+---
+> Come
+8122c8122
+< galahad
+---
+> GALAHAD
+8124c8124
+< oh
+---
+> Oh
+8128c8128
+< hav
+---
+> have
+8131c8131
+< littl
+---
+> little
+8136c8136
+< launcelot
+---
+> LAUNCELOT
+8138c8138
+< no
+---
+> No
+8140c8140
+< it
+---
+> It
+8145c8145
+< galahad
+---
+> GALAHAD
+8147c8147
+< i
+---
+> I
+8154c8154
+< launcelot
+---
+> LAUNCELOT
+8156,8157c8156,8157
+< no
+< i
+---
+> No
+> I
+8161c8161
+< nar
+---
+> NARRATOR
+8163,8164c8163,8164
+< sir
+< launcelot
+---
+> Sir
+> Launcelot
+8166,8168c8166,8168
+< sav
+< sir
+< galahad
+---
+> saved
+> Sir
+> Galahad
+8172c8172
+< tempt
+---
+> temptation
+8176,8177c8176,8177
+< wer
+< stil
+---
+> were
+> still
+8179c8179
+< near
+---
+> nearer
+8181c8181
+< grail
+---
+> Grail
+8183c8183
+< meanwhil
+---
+> Meanwhile
+8185,8186c8185,8186
+< king
+< arth
+---
+> King
+> Arthur
+8188,8189c8188,8189
+< sir
+< bedev
+---
+> Sir
+> Bedevere
+8192c8192
+< mor
+---
+> more
+8202,8203c8202,8203
+< discov
+< someth
+---
+> discovered
+> something
+8205c8205
+< oh
+---
+> Oh
+8211c8211
+< unlad
+---
+> unladen
+8217c8217
+< obvy
+---
+> obviously
+8219c8219
+< i
+---
+> I
+8223,8224c8223,8224
+< wer
+< mor
+---
+> were
+> more
+8227,8228c8227,8228
+< lad
+< swallow
+---
+> laden
+> swallows
+8230c8230
+< flight
+---
+> flights
+8235c8235
+< real
+---
+> really
+8244c8244
+< lin
+---
+> line
+8248c8248
+< i
+---
+> I
+8253,8255c8253,8255
+< bird
+< wer
+< walk
+---
+> birds
+> were
+> walking
+8257c8257
+< drag
+---
+> dragging
+8259c8259
+< crowd
+---
+> CROWD
+8261c8261
+< get
+---
+> Get
+8266c8266
+< nar
+---
+> NARRATOR
+8268c8268
+< oh
+---
+> Oh
+8272c8272
+< on
+---
+> On
+8274c8274
+< scen
+---
+> scene
+8282,8283c8282,8283
+< smash
+< scen
+---
+> smashing
+> scene
+8285,8287c8285,8287
+< som
+< lov
+< act
+---
+> some
+> lovely
+> acting
+8291,8292c8291,8292
+< arth
+< discov
+---
+> Arthur
+> discovers
+8294,8295c8294,8295
+< vit
+< clu
+---
+> vital
+> clue
+8300,8301c8300,8301
+< ther
+< ar
+---
+> there
+> aren
+8305c8305
+< swallow
+---
+> swallows
+8308c8308
+< i
+---
+> I
+8314c8314
+< starl
+---
+> starling
+8317c8317
+< scen
+---
+> SCENE
+8320,8321c8320,8321
+< old
+< man
+---
+> OLD
+> MAN
+8323c8323
+< heh
+---
+> Heh
+8331c8331
+< hee
+---
+> Hee
+8338c8338
+< arth
+---
+> ARTHUR
+8340,8342c8340,8342
+< and
+< thi
+< ench
+---
+> And
+> this
+> enchanter
+8352c8352
+< grail
+---
+> Grail
+8354,8355c8354,8355
+< old
+< man
+---
+> OLD
+> MAN
+8358c8358
+< ha
+---
+> Ha
+8363c8363
+< heh
+---
+> Heh
+8370c8370
+< ha
+---
+> Ha
+8374c8374
+< ha
+---
+> Ha
+8379c8379
+< arth
+---
+> ARTHUR
+8381,8382c8381,8382
+< wher
+< doe
+---
+> Where
+> does
+8384c8384
+< liv
+---
+> live
+8386,8387c8386,8387
+< old
+< man
+---
+> OLD
+> MAN
+8390c8390
+< heh
+---
+> Heh
+8395c8395
+< arth
+---
+> ARTHUR
+8397c8397
+< old
+---
+> Old
+8400,8401c8400,8401
+< wher
+< doe
+---
+> where
+> does
+8403c8403
+< liv
+---
+> live
+8405,8406c8405,8406
+< old
+< man
+---
+> OLD
+> MAN
+8409c8409
+< hee
+---
+> Hee
+8414,8415c8414,8415
+< he
+< know
+---
+> He
+> knows
+8418c8418
+< cav
+---
+> cave
+8421c8421
+< cav
+---
+> cave
+8426c8426
+< ent
+---
+> entered
+8428c8428
+< arth
+---
+> ARTHUR
+8430c8430
+< and
+---
+> And
+8432c8432
+< grail
+---
+> Grail
+8434,8435c8434,8435
+< the
+< grail
+---
+> The
+> Grail
+8437c8437
+< ther
+---
+> there
+8439,8440c8439,8440
+< old
+< man
+---
+> OLD
+> MAN
+8442c8442
+< ther
+---
+> There
+8445c8445
+< dang
+---
+> danger
+8450,8451c8450,8451
+< cav
+< lie
+---
+> cave
+> lies
+8453c8453
+< gorg
+---
+> Gorge
+8455,8456c8455,8456
+< etern
+< peril
+---
+> Eternal
+> Peril
+8462,8463c8462,8463
+< ev
+< cross
+---
+> ever
+> crossed
+8465c8465
+< arth
+---
+> ARTHUR
+8467c8467
+< but
+---
+> But
+8469c8469
+< grail
+---
+> Grail
+8471c8471
+< wher
+---
+> Where
+8474c8474
+< grail
+---
+> Grail
+8476,8477c8476,8477
+< old
+< man
+---
+> OLD
+> MAN
+8479c8479
+< seek
+---
+> Seek
+8482c8482
+< bridg
+---
+> Bridge
+8484c8484
+< dea
+---
+> Death
+8486c8486
+< arth
+---
+> ARTHUR
+8488,8489c8488,8489
+< the
+< bridg
+---
+> The
+> Bridge
+8491c8491
+< dea
+---
+> Death
+8494c8494
+< lead
+---
+> leads
+8497c8497
+< grail
+---
+> Grail
+8499,8500c8499,8500
+< old
+< man
+---
+> OLD
+> MAN
+8502c8502
+< heh
+---
+> Heh
+8509c8509
+< ha
+---
+> Ha
+8515c8515
+< hee
+---
+> Hee
+8519c8519
+< scen
+---
+> SCENE
+8524c8524
+< mus
+---
+> music
+8527,8528c8527,8528
+< mus
+< stop
+---
+> music
+> stops
+8530,8533c8530,8533
+< head
+< knight
+< of
+< ni
+---
+> HEAD
+> KNIGHT
+> OF
+> NI
+8535c8535
+< ni
+---
+> Ni
+8537,8539c8537,8539
+< knight
+< of
+< ni
+---
+> KNIGHTS
+> OF
+> NI
+8541c8541
+< ni
+---
+> Ni
+8543c8543
+< ni
+---
+> Ni
+8545c8545
+< ni
+---
+> Ni
+8547c8547
+< ni
+---
+> Ni
+8549c8549
+< ni
+---
+> Ni
+8551c8551
+< arth
+---
+> ARTHUR
+8553,8554c8553,8554
+< who
+< ar
+---
+> Who
+> are
+8557,8558c8557,8558
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+8560,8561c8560,8561
+< we
+< ar
+---
+> We
+> are
+8563,8565c8563,8565
+< knight
+< who
+< say
+---
+> Knights
+> Who
+> Say
+8568c8568
+< ni
+---
+> Ni
+8570c8570
+< random
+---
+> RANDOM
+8572c8572
+< ni
+---
+> Ni
+8574c8574
+< arth
+---
+> ARTHUR
+8576c8576
+< no
+---
+> No
+8578c8578
+< not
+---
+> Not
+8580,8582c8580,8582
+< knight
+< who
+< say
+---
+> Knights
+> Who
+> Say
+8584c8584
+< ni
+---
+> Ni
+8586,8587c8586,8587
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+8589,8590c8589,8590
+< the
+< sam
+---
+> The
+> same
+8592c8592
+< bedev
+---
+> BEDEVERE
+8594,8595c8594,8595
+< who
+< ar
+---
+> Who
+> are
+8598,8599c8598,8599
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+8601,8602c8601,8602
+< we
+< ar
+---
+> We
+> are
+8604c8604
+< keep
+---
+> keepers
+8607,8608c8607,8608
+< sacr
+< word
+---
+> sacred
+> words
+8610c8610
+< ni
+---
+> Ni
+8612c8612
+< peng
+---
+> Peng
+8615c8615
+< nee
+---
+> Neee
+8619c8619
+< random
+---
+> RANDOM
+8621c8621
+< nee
+---
+> Neee
+8625c8625
+< arth
+---
+> ARTHUR
+8627c8627
+< thos
+---
+> Those
+8632c8632
+< liv
+---
+> live
+8634c8634
+< tel
+---
+> tell
+8636c8636
+< tal
+---
+> tale
+8638,8639c8638,8639
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+8641,8644c8641,8644
+< the
+< knight
+< who
+< say
+---
+> The
+> Knights
+> Who
+> Say
+8646c8646
+< ni
+---
+> Ni
+8650c8650
+< sacr
+---
+> sacrifice
+8652c8652
+< arth
+---
+> ARTHUR
+8654c8654
+< knight
+---
+> Knights
+8656c8656
+< ni
+---
+> Ni
+8659c8659
+< ar
+---
+> are
+8661,8662c8661,8662
+< simpl
+< travel
+---
+> simple
+> travellers
+8666c8666
+< ench
+---
+> enchanter
+8668c8668
+< liv
+---
+> lives
+8670,8671c8670,8671
+< thes
+< wood
+---
+> these
+> woods
+8673,8674c8673,8674
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+8676c8676
+< ni
+---
+> Ni
+8678,8680c8678,8680
+< knight
+< of
+< ni
+---
+> KNIGHTS
+> OF
+> NI
+8682c8682
+< ni
+---
+> Ni
+8684c8684
+< ni
+---
+> Ni
+8686c8686
+< ni
+---
+> Ni
+8688c8688
+< ni
+---
+> Ni
+8690c8690
+< ni
+---
+> Ni
+8693c8693
+< arth
+---
+> ARTHUR
+8695c8695
+< ow
+---
+> Ow
+8697c8697
+< ow
+---
+> Ow
+8699c8699
+< ow
+---
+> Ow
+8701c8701
+< agh
+---
+> Agh
+8703,8704c8703,8704
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+8706,8707c8706,8707
+< we
+< shal
+---
+> We
+> shall
+8719c8719
+< appeas
+---
+> appease
+8722c8722
+< arth
+---
+> ARTHUR
+8724c8724
+< wel
+---
+> Well
+8732,8733c8732,8733
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+8735c8735
+< we
+---
+> We
+8742c8742
+< dram
+---
+> dramatic
+8745c8745
+< arth
+---
+> ARTHUR
+8747c8747
+< a
+---
+> A
+8750,8752c8750,8752
+< knight
+< of
+< ni
+---
+> KNIGHTS
+> OF
+> NI
+8754c8754
+< ni
+---
+> Ni
+8756c8756
+< ni
+---
+> Ni
+8758c8758
+< ni
+---
+> Ni
+8760c8760
+< ni
+---
+> Ni
+8762c8762
+< arth
+---
+> ARTHUR
+8764c8764
+< party
+---
+> PARTY
+8766c8766
+< ow
+---
+> Ow
+8768c8768
+< oh
+---
+> Oh
+8770c8770
+< arth
+---
+> ARTHUR
+8772c8772
+< pleas
+---
+> Please
+8774c8774
+< pleas
+---
+> please
+8776,8777c8776,8777
+< no
+< mor
+---
+> No
+> more
+8779,8780c8779,8780
+< we
+< wil
+---
+> We
+> will
+8786,8787c8786,8787
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+8789c8789
+< you
+---
+> You
+8792c8792
+< her
+---
+> here
+8797c8797
+< els
+---
+> else
+8799,8800c8799,8800
+< wil
+< nev
+---
+> will
+> never
+8803c8803
+< thi
+---
+> this
+8805c8805
+< al
+---
+> alive
+8807c8807
+< arth
+---
+> ARTHUR
+8809,8810c8809,8810
+< o
+< knight
+---
+> O
+> Knights
+8812c8812
+< ni
+---
+> Ni
+8815c8815
+< ar
+---
+> are
+8822c8822
+< wil
+---
+> will
+8828,8829c8828,8829
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+8831c8831
+< on
+---
+> One
+8833,8834c8833,8834
+< look
+< nic
+---
+> looks
+> nice
+8836c8836
+< arth
+---
+> ARTHUR
+8838,8839c8838,8839
+< of
+< cours
+---
+> Of
+> course
+8841,8842c8841,8842
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+8844c8844
+< and
+---
+> And
+8847c8847
+< expend
+---
+> expensive
+8849c8849
+< arth
+---
+> ARTHUR
+8851c8851
+< ye
+---
+> Yes
+8853,8854c8853,8854
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+8856c8856
+< now
+---
+> Now
+8860c8860
+< trumpet
+---
+> trumpets
+8862,8863c8862,8863
+< cartoon
+< charact
+---
+> CARTOON
+> CHARACTER
+8865c8865
+< hmm
+---
+> Hmm
+8871c8871
+< oh
+---
+> Oh
+8873,8874c8873,8874
+< gre
+< scot
+---
+> Great
+> scott
+8876c8876
+< hm
+---
+> Hm
+8878c8878
+< hmm
+---
+> Hmm
+8883c8883
+< hm
+---
+> Hm
+8885c8885
+< hmm
+---
+> Hmm
+8888,8890c8888,8890
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+8896,8898c8896,8898
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+8904,8906c8904,8906
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+8912,8914c8912,8914
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+8920,8922c8920,8922
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+8928,8930c8928,8930
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+8936,8938c8936,8938
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+8944,8946c8944,8946
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+8951c8951
+< ohh
+---
+> Ohh
+8957,8959c8957,8959
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+8964c8964
+< sun
+---
+> SUN
+8966c8966
+< ay
+---
+> Ay
+8970c8970
+< thsss
+---
+> Thsss
+8975c8975
+< ayy
+---
+> Ayy
+8982c8982
+< thsss
+---
+> Thsss
+8987c8987
+< ayy
+---
+> Ayy
+8991,8992c8991,8992
+< cartoon
+< charact
+---
+> CARTOON
+> CHARACTER
+8994c8994
+< stop
+---
+> Stop
+8997c8997
+< stop
+---
+> Stop
+9003c9003
+< sun
+---
+> SUN
+9005c9005
+< ay
+---
+> Ay
+9009,9010c9009,9010
+< cartoon
+< charact
+---
+> CARTOON
+> CHARACTER
+9012c9012
+< stop
+---
+> Stop
+9018c9018
+< look
+---
+> Look
+9021c9021
+< clear
+---
+> Clear
+9024c9024
+< go
+---
+> Go
+9027c9027
+< go
+---
+> Go
+9030c9030
+< go
+---
+> Go
+9033c9033
+< go
+---
+> Go
+9036c9036
+< and
+---
+> And
+9039c9039
+< clear
+---
+> Clear
+9045c9045
+< sun
+---
+> SUN
+9048,9050c9048,9050
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+9053c9053
+< bel
+---
+> bells
+9055,9056c9055,9056
+< cartoon
+< charact
+---
+> CARTOON
+> CHARACTER
+9058c9058
+< hah
+---
+> Hah
+9060,9062c9060,9062
+< bloody
+< weath
+< scen
+---
+> Bloody
+> weather
+> SCENE
+9065c9065
+< nar
+---
+> NARRATOR
+9067,9068c9067,9068
+< the
+< tal
+---
+> The
+> Tale
+9070,9071c9070,9071
+< sir
+< launcelot
+---
+> Sir
+> Launcelot
+9073c9073
+< fath
+---
+> FATHER
+9075c9075
+< on
+---
+> One
+9080,9082c9080,9082
+< al
+< thi
+< wil
+---
+> all
+> this
+> will
+9084c9084
+< yo
+---
+> yours
+9086,9087c9086,9087
+< print
+< herbert
+---
+> PRINCE
+> HERBERT
+9089c9089
+< what
+---
+> What
+9092c9092
+< curtain
+---
+> curtains
+9094c9094
+< fath
+---
+> FATHER
+9096c9096
+< no
+---
+> No
+9098c9098
+< not
+---
+> Not
+9100c9100
+< curtain
+---
+> curtains
+9104c9104
+< al
+---
+> All
+9112c9112
+< ov
+---
+> over
+9114c9114
+< hil
+---
+> hills
+9116c9116
+< valley
+---
+> valleys
+9118c9118
+< thi
+---
+> this
+9121c9121
+< thi
+---
+> This
+9125c9125
+< yo
+---
+> your
+9130c9130
+< herbert
+---
+> HERBERT
+9132,9133c9132,9133
+< but
+< moth
+---
+> But
+> Mother
+9135c9135
+< fath
+---
+> FATHER
+9137c9137
+< fath
+---
+> Father
+9141c9141
+< fath
+---
+> Father
+9143c9143
+< herbert
+---
+> HERBERT
+9145c9145
+< b
+---
+> B
+9150c9150
+< fath
+---
+> Father
+9152c9152
+< i
+---
+> I
+9161c9161
+< fath
+---
+> FATHER
+9163c9163
+< list
+---
+> Listen
+9167c9167
+< i
+---
+> I
+9169c9169
+< thi
+---
+> this
+9173c9173
+< noth
+---
+> nothing
+9175,9178c9175,9178
+< when
+< i
+< start
+< her
+---
+> When
+> I
+> started
+> here
+9180,9181c9180,9181
+< al
+< ther
+---
+> all
+> there
+9186,9187c9186,9187
+< oth
+< king
+---
+> Other
+> kings
+9189c9189
+< i
+---
+> I
+9195c9195
+< castl
+---
+> castle
+9201c9201
+< i
+---
+> I
+9204c9204
+< al
+---
+> all
+9206c9206
+< sam
+---
+> same
+9214c9214
+< it
+---
+> It
+9220c9220
+< so
+---
+> So
+9222c9222
+< i
+---
+> I
+9226c9226
+< on
+---
+> one
+9228c9228
+< that
+---
+> That
+9234,9235c9234,9235
+< so
+< i
+---
+> So
+> I
+9239c9239
+< on
+---
+> one
+9241,9242c9241,9242
+< that
+< burn
+---
+> That
+> burned
+9245,9246c9245,9246
+< fel
+< ov
+---
+> fell
+> over
+9254c9254
+< but
+---
+> But
+9256,9257c9256,9257
+< four
+< on
+---
+> fourth
+> one
+9259c9259
+< stay
+---
+> stayed
+9262c9262
+< and
+---
+> And
+9270c9270
+< gonn
+---
+> gonna
+9277c9277
+< castl
+---
+> castle
+9279,9280c9279,9280
+< thes
+< island
+---
+> these
+> islands
+9282c9282
+< herbert
+---
+> HERBERT
+9284,9285c9284,9285
+< but
+< i
+---
+> But
+> I
+9294c9294
+< i
+---
+> I
+9297c9297
+< rath
+---
+> rather
+9299c9299
+< fath
+---
+> FATHER
+9301c9301
+< rath
+---
+> Rather
+9304c9304
+< herbert
+---
+> HERBERT
+9306c9306
+< i
+---
+> I
+9309c9309
+< rath
+---
+> rather
+9312c9312
+< mus
+---
+> music
+9319c9319
+< fath
+---
+> FATHER
+9321c9321
+< stop
+---
+> Stop
+9324c9324
+< stop
+---
+> Stop
+9327c9327
+< you
+---
+> You
+9335,9336c9335,9336
+< whil
+< i
+---
+> while
+> I
+9339c9339
+< her
+---
+> here
+9341,9342c9341,9342
+< now
+< list
+---
+> Now
+> listen
+9346c9346
+< in
+---
+> In
+9348c9348
+< minut
+---
+> minutes
+9352,9353c9352,9353
+< get
+< marry
+---
+> getting
+> married
+9357,9359c9357,9359
+< whos
+< fath
+< own
+---
+> whose
+> father
+> owns
+9362c9362
+< tract
+---
+> tracts
+9364c9364
+< op
+---
+> open
+9367c9367
+< britain
+---
+> Britain
+9369c9369
+< herbert
+---
+> HERBERT
+9371c9371
+< b
+---
+> B
+9374c9374
+< i
+---
+> I
+9381c9381
+< fath
+---
+> FATHER
+9383c9383
+< list
+---
+> Listen
+9385c9385
+< al
+---
+> Alice
+9387c9387
+< herbert
+---
+> HERBERT
+9389c9389
+< herbert
+---
+> Herbert
+9391c9391
+< fath
+---
+> FATHER
+9394c9394
+< erbert
+---
+> Erbert
+9396,9397c9396,9397
+< we
+< liv
+---
+> We
+> live
+9403,9405c9403,9405
+< we
+< nee
+< al
+---
+> We
+> need
+> all
+9412c9412
+< herbert
+---
+> HERBERT
+9414c9414
+< but
+---
+> But
+9417c9417
+< i
+---
+> I
+9421c9421
+< lik
+---
+> like
+9424c9424
+< fath
+---
+> FATHER
+9426c9426
+< don
+---
+> Don
+9429c9429
+< lik
+---
+> like
+9432c9432
+< what
+---
+> What
+9439c9439
+< she
+---
+> She
+9442c9442
+< beauty
+---
+> beautiful
+9444c9444
+< she
+---
+> She
+9449c9449
+< she
+---
+> She
+9453c9453
+< hug
+---
+> huge
+9455c9455
+< tract
+---
+> tracts
+9460c9460
+< herbert
+---
+> HERBERT
+9462c9462
+< i
+---
+> I
+9466c9466
+< i
+---
+> I
+9473c9473
+< i
+---
+> I
+9476c9476
+< hav
+---
+> have
+9479c9479
+< mus
+---
+> music
+9485c9485
+< spec
+---
+> special
+9487c9487
+< someth
+---
+> something
+9489c9489
+< fath
+---
+> FATHER
+9491c9491
+< cut
+---
+> Cut
+9495c9495
+< cut
+---
+> Cut
+9499c9499
+< look
+---
+> Look
+9504,9506c9504,9506
+< marry
+< princess
+< lucky
+---
+> marrying
+> Princess
+> Lucky
+9512c9512
+< bet
+---
+> better
+9514c9514
+< us
+---
+> used
+9517c9517
+< ide
+---
+> idea
+9522c9522
+< guard
+---
+> Guards
+9524,9525c9524,9525
+< mak
+< sur
+---
+> Make
+> sure
+9527c9527
+< print
+---
+> Prince
+9531,9532c9531,9532
+< leav
+< thi
+---
+> leave
+> this
+9535,9536c9535,9536
+< i
+< com
+---
+> I
+> come
+9541c9541
+< guard
+---
+> GUARD
+9545c9545
+< not
+---
+> Not
+9547c9547
+< leav
+---
+> leave
+9550c9550
+< ev
+---
+> even
+9553c9553
+< com
+---
+> come
+9558c9558
+< guard
+---
+> GUARD
+9562c9562
+< hic
+---
+> Hic
+9564c9564
+< fath
+---
+> FATHER
+9566c9566
+< no
+---
+> No
+9570,9572c9570,9572
+< until
+< i
+< com
+---
+> Until
+> I
+> come
+9577c9577
+< guard
+---
+> GUARD
+9581c9581
+< until
+---
+> Until
+9583c9583
+< com
+---
+> come
+9593c9593
+< ent
+---
+> enter
+9597c9597
+< fath
+---
+> FATHER
+9599c9599
+< no
+---
+> No
+9603c9603
+< no
+---
+> No
+9605c9605
+< you
+---
+> You
+9611,9612c9611,9612
+< mak
+< sur
+---
+> make
+> sure
+9617c9617
+< leav
+---
+> leave
+9619c9619
+< guard
+---
+> GUARD
+9623c9623
+< and
+---
+> And
+9627c9627
+< com
+---
+> come
+9632c9632
+< guard
+---
+> GUARD
+9636c9636
+< hic
+---
+> Hic
+9638c9638
+< fath
+---
+> FATHER
+9640c9640
+< right
+---
+> Right
+9642c9642
+< guard
+---
+> GUARD
+9646c9646
+< we
+---
+> We
+9650c9650
+< nee
+---
+> need
+9653c9653
+< anyth
+---
+> anything
+9660c9660
+< ent
+---
+> entering
+9664c9664
+< fath
+---
+> FATHER
+9666c9666
+< no
+---
+> No
+9670c9670
+< leav
+---
+> Leaving
+9674c9674
+< guard
+---
+> GUARD
+9678c9678
+< leav
+---
+> Leaving
+9682c9682
+< ye
+---
+> Yes
+9687c9687
+< fath
+---
+> FATHER
+9689c9689
+< al
+---
+> All
+9692c9692
+< guard
+---
+> GUARD
+9696c9696
+< right
+---
+> Right
+9698c9698
+< guard
+---
+> GUARD
+9702c9702
+< hic
+---
+> Hic
+9704c9704
+< fath
+---
+> FATHER
+9706c9706
+< right
+---
+> Right
+9708c9708
+< guard
+---
+> GUARD
+9712c9712
+< oh
+---
+> Oh
+9737c9737
+< fath
+---
+> FATHER
+9739c9739
+< ye
+---
+> Yes
+9741c9741
+< what
+---
+> What
+9745c9745
+< guard
+---
+> GUARD
+9749c9749
+< oh
+---
+> Oh
+9759c9759
+< fath
+---
+> FATHER
+9761c9761
+< look
+---
+> Look
+9766,9767c9766,9767
+< quit
+< simpl
+---
+> quite
+> simple
+9769c9769
+< guard
+---
+> GUARD
+9773c9773
+< uh
+---
+> Uh
+9775c9775
+< fath
+---
+> FATHER
+9777c9777
+< you
+---
+> You
+9780c9780
+< her
+---
+> here
+9783,9784c9783,9784
+< mak
+< sur
+---
+> make
+> sure
+9790c9790
+< leav
+---
+> leave
+9794c9794
+< alright
+---
+> Alright
+9796c9796
+< guard
+---
+> GUARD
+9800c9800
+< hic
+---
+> Hic
+9802c9802
+< fath
+---
+> FATHER
+9804c9804
+< right
+---
+> Right
+9806c9806
+< guard
+---
+> GUARD
+9810c9810
+< oh
+---
+> Oh
+9812,9813c9812,9813
+< i
+< rememb
+---
+> I
+> remember
+9815c9815
+< uhh
+---
+> Uhh
+9819c9819
+< leav
+---
+> leave
+9825c9825
+< fath
+---
+> FATHER
+9827c9827
+< n
+---
+> N
+9832c9832
+< no
+---
+> No
+9834c9834
+< you
+---
+> You
+9839c9839
+< her
+---
+> here
+9842,9843c9842,9843
+< mak
+< sur
+---
+> make
+> sure
+9846c9846
+< guard
+---
+> GUARD
+9850c9850
+< oh
+---
+> Oh
+9852c9852
+< ye
+---
+> yes
+9854c9854
+< we
+---
+> We
+9860c9860
+< her
+---
+> here
+9862c9862
+< obvy
+---
+> obviously
+9864c9864
+< but
+---
+> But
+9869c9869
+< leav
+---
+> leave
+9872c9872
+< wer
+---
+> were
+9876c9876
+< fath
+---
+> FATHER
+9878c9878
+< no
+---
+> No
+9886c9886
+< just
+---
+> Just
+9890c9890
+< her
+---
+> here
+9892c9892
+< guard
+---
+> GUARD
+9896c9896
+< until
+---
+> Until
+9900,9901c9900,9901
+< anyon
+< els
+---
+> anyone
+> else
+9903c9903
+< fath
+---
+> FATHER
+9905c9905
+< no
+---
+> No
+9908,9909c9908,9909
+< anyon
+< els
+---
+> anyone
+> else
+9911c9911
+< just
+---
+> Just
+9914c9914
+< guard
+---
+> GUARD
+9918c9918
+< just
+---
+> Just
+9921c9921
+< guard
+---
+> GUARD
+9925c9925
+< hic
+---
+> Hic
+9927c9927
+< fath
+---
+> FATHER
+9929c9929
+< get
+---
+> Get
+9932c9932
+< guard
+---
+> GUARD
+9936c9936
+< get
+---
+> Get
+9939c9939
+< fath
+---
+> FATHER
+9941c9941
+< al
+---
+> All
+9944c9944
+< guard
+---
+> GUARD
+9948c9948
+< right
+---
+> Right
+9950c9950
+< we
+---
+> We
+9954c9954
+< her
+---
+> here
+9960c9960
+< guard
+---
+> GUARD
+9964c9964
+< hic
+---
+> Hic
+9966c9966
+< fath
+---
+> FATHER
+9968c9968
+< and
+---
+> And
+9972,9973c9972,9973
+< mak
+< sur
+---
+> make
+> sure
+9978c9978
+< leav
+---
+> leave
+9980c9980
+< guard
+---
+> GUARD
+9984c9984
+< what
+---
+> What
+9986c9986
+< fath
+---
+> FATHER
+9988,9989c9988,9989
+< mak
+< sur
+---
+> Make
+> sure
+9995c9995
+< leav
+---
+> leave
+9997c9997
+< guard
+---
+> GUARD
+10001,10002c10001,10002
+< the
+< print
+---
+> The
+> Prince
+10004c10004
+< fath
+---
+> FATHER
+10006c10006
+< ye
+---
+> Yes
+10008,10009c10008,10009
+< mak
+< sur
+---
+> Make
+> sure
+10015c10015
+< leav
+---
+> leave
+10017c10017
+< guard
+---
+> GUARD
+10021c10021
+< oh
+---
+> Oh
+10023c10023
+< ye
+---
+> yes
+10026c10026
+< cours
+---
+> course
+10028c10028
+< guard
+---
+> GUARD
+10032c10032
+< hic
+---
+> Hic
+10034c10034
+< guard
+---
+> GUARD
+10038c10038
+< ah
+---
+> Ah
+10040c10040
+< i
+---
+> I
+10046c10046
+< you
+---
+> You
+10050c10050
+< seem
+---
+> seemed
+10067c10067
+< fath
+---
+> FATHER
+10069c10069
+< is
+---
+> Is
+10073c10073
+< guard
+---
+> GUARD
+10077c10077
+< hic
+---
+> Hic
+10079c10079
+< guard
+---
+> GUARD
+10083c10083
+< oh
+---
+> Oh
+10085c10085
+< quit
+---
+> quite
+10088,10089c10088,10089
+< no
+< problem
+---
+> No
+> problems
+10091c10091
+< fath
+---
+> FATHER
+10093c10093
+< right
+---
+> Right
+10095,10096c10095,10096
+< wher
+< ar
+---
+> Where
+> are
+10100c10100
+< guard
+---
+> GUARD
+10104c10104
+< we
+---
+> We
+10107c10107
+< com
+---
+> coming
+10111c10111
+< fath
+---
+> FATHER
+10113c10113
+< no
+---
+> No
+10117c10117
+< i
+---
+> I
+10122c10122
+< her
+---
+> here
+10124,10125c10124,10125
+< mak
+< sur
+---
+> make
+> sure
+10131c10131
+< leav
+---
+> leave
+10133c10133
+< guard
+---
+> GUARD
+10137c10137
+< oh
+---
+> Oh
+10139c10139
+< i
+---
+> I
+10142c10142
+< right
+---
+> Right
+10144c10144
+< herbert
+---
+> HERBERT
+10146,10147c10146,10147
+< but
+< fath
+---
+> But
+> Father
+10149c10149
+< fath
+---
+> FATHER
+10151,10153c10151,10153
+< shut
+< yo
+< nois
+---
+> Shut
+> your
+> noise
+10157c10157
+< and
+---
+> And
+10164c10164
+< mus
+---
+> music
+10166c10166
+< and
+---
+> And
+10168c10168
+< sing
+---
+> singing
+10170c10170
+< guard
+---
+> GUARD
+10174c10174
+< hic
+---
+> Hic
+10176c10176
+< fath
+---
+> FATHER
+10178c10178
+< oh
+---
+> Oh
+10186c10186
+< wat
+---
+> water
+10201c10201
+< scen
+---
+> SCENE
+10204c10204
+< launcelot
+---
+> LAUNCELOT
+10206,10207c10206,10207
+< wel
+< tak
+---
+> Well
+> taken
+10209c10209
+< concord
+---
+> Concorde
+10211c10211
+< concord
+---
+> CONCORDE
+10213c10213
+< thank
+---
+> Thank
+10218c10218
+< most
+---
+> Most
+10221c10221
+< launcelot
+---
+> LAUNCELOT
+10223c10223
+< and
+---
+> And
+10226c10226
+< ov
+---
+> Over
+10230c10230
+< good
+---
+> Good
+10232c10232
+< steady
+---
+> Steady
+10234c10234
+< and
+---
+> And
+10239c10239
+< on
+---
+> one
+10241c10241
+< uuh
+---
+> Uuh
+10243c10243
+< com
+---
+> Come
+10246c10246
+< concord
+---
+> Concorde
+10251c10251
+< concord
+---
+> CONCORDE
+10253c10253
+< mess
+---
+> Message
+10262c10262
+< launcelot
+---
+> LAUNCELOT
+10264c10264
+< concord
+---
+> Concorde
+10266c10266
+< concord
+---
+> Concorde
+10268c10268
+< speak
+---
+> Speak
+10273,10277c10273,10277
+< to
+< whoev
+< find
+< thi
+< not
+---
+> To
+> whoever
+> finds
+> this
+> note
+10279,10280c10279,10280
+< i
+< hav
+---
+> I
+> have
+10282c10282
+< imprison
+---
+> imprisoned
+10285c10285
+< fath
+---
+> father
+10288c10288
+< wish
+---
+> wishes
+10294c10294
+< wil
+---
+> will
+10296c10296
+< pleas
+---
+> Please
+10298c10298
+< pleas
+---
+> please
+10300,10301c10300,10301
+< pleas
+< com
+---
+> please
+> come
+10303c10303
+< rescu
+---
+> rescue
+10306c10306
+< i
+---
+> I
+10310,10311c10310,10311
+< tal
+< tow
+---
+> Tall
+> Tower
+10313,10314c10313,10314
+< swamp
+< castl
+---
+> Swamp
+> Castle
+10316c10316
+< at
+---
+> At
+10319,10320c10319,10320
+< a
+< cal
+---
+> A
+> call
+10322c10322
+< a
+---
+> A
+10327c10327
+< thi
+---
+> This
+10333c10333
+< lead
+---
+> leads
+10337,10338c10337,10338
+< holy
+< grail
+---
+> Holy
+> Grail
+10340c10340
+< brav
+---
+> Brave
+10342,10343c10342,10343
+< brav
+< concord
+---
+> brave
+> Concorde
+10346c10346
+< shal
+---
+> shall
+10348c10348
+< hav
+---
+> have
+10353c10353
+< concord
+---
+> CONCORDE
+10355c10355
+< uh
+---
+> Uh
+10357c10357
+< i
+---
+> I
+10361c10361
+< i
+---
+> I
+10365c10365
+< quit
+---
+> quite
+10370c10370
+< launcelot
+---
+> LAUNCELOT
+10372c10372
+< wel
+---
+> Well
+10375c10375
+< shal
+---
+> shall
+10377c10377
+< hav
+---
+> have
+10379,10380c10379,10380
+< mort
+< wound
+---
+> mortally
+> wounded
+10384c10384
+< concord
+---
+> CONCORDE
+10386c10386
+< i
+---
+> I
+10388c10388
+< i
+---
+> I
+10390c10390
+< i
+---
+> I
+10392c10392
+< i
+---
+> I
+10395c10395
+< i
+---
+> I
+10397c10397
+< pul
+---
+> pull
+10402c10402
+< launcelot
+---
+> LAUNCELOT
+10404c10404
+< oh
+---
+> Oh
+10406c10406
+< i
+---
+> I
+10409c10409
+< concord
+---
+> CONCORDE
+10411c10411
+< act
+---
+> Actually
+10413c10413
+< i
+---
+> I
+10415c10415
+< i
+---
+> I
+10418c10418
+< al
+---
+> all
+10421c10421
+< com
+---
+> come
+10427c10427
+< launcelot
+---
+> LAUNCELOT
+10429c10429
+< no
+---
+> No
+10434c10434
+< concord
+---
+> Concorde
+10436,10437c10436,10437
+< stay
+< her
+---
+> Stay
+> here
+10439,10440c10439,10440
+< i
+< wil
+---
+> I
+> will
+10446,10448c10446,10448
+< i
+< hav
+< accompl
+---
+> I
+> have
+> accomplished
+10450c10450
+< dar
+---
+> daring
+10452,10453c10452,10453
+< hero
+< rescu
+---
+> heroic
+> rescue
+10457c10457
+< particul
+---
+> particular
+10462c10462
+< concord
+---
+> CONCORDE
+10464c10464
+< idiom
+---
+> Idiom
+10468c10468
+< launcelot
+---
+> LAUNCELOT
+10470c10470
+< idiom
+---
+> Idiom
+10472c10472
+< concord
+---
+> CONCORDE
+10474c10474
+< no
+---
+> No
+10476c10476
+< i
+---
+> I
+10478c10478
+< fin
+---
+> fine
+10480c10480
+< act
+---
+> actually
+10484c10484
+< launcelot
+---
+> LAUNCELOT
+10486c10486
+< farewel
+---
+> Farewell
+10489c10489
+< concord
+---
+> Concorde
+10491c10491
+< concord
+---
+> CONCORDE
+10493c10493
+< i
+---
+> I
+10499c10499
+< i
+---
+> I
+10504c10504
+< her
+---
+> here
+10507,10508c10507,10508
+< shal
+< i
+---
+> Shall
+> I
+10512,10513c10512,10513
+< yeah
+< scen
+---
+> Yeah
+> SCENE
+10517,10518c10517,10518
+< insid
+< castl
+---
+> inside
+> castle
+10520,10521c10520,10521
+< princess
+< lucky
+---
+> PRINCESS
+> LUCKY
+10523c10523
+< girl
+---
+> GIRLS
+10526,10528c10526,10528
+< giggl
+< giggl
+< giggl
+---
+> giggle
+> giggle
+> giggle
+10531,10532c10531,10532
+< outsid
+< castl
+---
+> outside
+> castle
+10534c10534
+< guest
+---
+> GUEST
+10537c10537
+< morn
+---
+> Morning
+10539c10539
+< sentry
+---
+> SENTRY
+10544c10544
+< morn
+---
+> Morning
+10546c10546
+< sentry
+---
+> SENTRY
+10550c10550
+< oooh
+---
+> Oooh
+10552c10552
+< sentry
+---
+> SENTRY
+10559c10559
+< launcelot
+---
+> LAUNCELOT
+10561c10561
+< ha
+---
+> Ha
+10564c10564
+< hiyy
+---
+> Hiyya
+10566c10566
+< sentry
+---
+> SENTRY
+10570c10570
+< hey
+---
+> Hey
+10572c10572
+< launcelot
+---
+> LAUNCELOT
+10574c10574
+< hiyy
+---
+> Hiyya
+10576c10576
+< ha
+---
+> Ha
+10580,10581c10580,10581
+< princess
+< lucky
+---
+> PRINCESS
+> LUCKY
+10583c10583
+< girl
+---
+> GIRLS
+10586,10588c10586,10588
+< giggl
+< giggl
+< giggl
+---
+> giggle
+> giggle
+> giggle
+10590c10590
+< launcelot
+---
+> LAUNCELOT
+10592c10592
+< ha
+---
+> Ha
+10595c10595
+< huy
+---
+> Huy
+10597c10597
+< guest
+---
+> GUESTS
+10599c10599
+< uuh
+---
+> Uuh
+10601c10601
+< aaah
+---
+> Aaah
+10603c10603
+< launcelot
+---
+> LAUNCELOT
+10605c10605
+< ha
+---
+> Ha
+10608,10610c10608,10610
+< and
+< tak
+< thi
+---
+> And
+> take
+> this
+10612c10612
+< aah
+---
+> Aah
+10614c10614
+< hiyah
+---
+> Hiyah
+10616c10616
+< aah
+---
+> Aah
+10618c10618
+< aaah
+---
+> Aaah
+10620c10620
+< hyy
+---
+> Hyy
+10622c10622
+< hya
+---
+> Hya
+10624c10624
+< hiyy
+---
+> Hiyya
+10626c10626
+< ha
+---
+> Ha
+10629c10629
+< guard
+---
+> GUARD
+10633c10633
+< now
+---
+> Now
+10639c10639
+< allow
+---
+> allowed
+10641c10641
+< ent
+---
+> enter
+10647c10647
+< launcelot
+---
+> LAUNCELOT
+10649c10649
+< o
+---
+> O
+10651c10651
+< on
+---
+> one
+10654,10664c10654,10664
+< yo
+< humbl
+< serv
+< sir
+< launcelot
+< of
+< camelot
+< .
+< i
+< hav
+< com
+---
+> your
+> humble
+> servant
+> Sir
+> Launcelot
+> of
+> Camelot
+> .
+> I
+> have
+> come
+10666c10666
+< tak
+---
+> take
+10669c10669
+< oh
+---
+> Oh
+10671c10671
+< i
+---
+> I
+10674c10674
+< terr
+---
+> terribly
+10677c10677
+< herbert
+---
+> HERBERT
+10679c10679
+< you
+---
+> You
+10682c10682
+< not
+---
+> note
+10684c10684
+< launcelot
+---
+> LAUNCELOT
+10686c10686
+< uh
+---
+> Uh
+10688c10688
+< wel
+---
+> well
+10690c10690
+< i
+---
+> I
+10692c10692
+< i
+---
+> I
+10697c10697
+< not
+---
+> note
+10699c10699
+< herbert
+---
+> HERBERT
+10701c10701
+< you
+---
+> You
+10704c10704
+< com
+---
+> come
+10706c10706
+< rescu
+---
+> rescue
+10709c10709
+< launcelot
+---
+> LAUNCELOT
+10711c10711
+< uh
+---
+> Uh
+10713c10713
+< wel
+---
+> well
+10717c10717
+< you
+---
+> You
+10720c10720
+< i
+---
+> I
+10725c10725
+< herbert
+---
+> HERBERT
+10727c10727
+< i
+---
+> I
+10729c10729
+< someon
+---
+> someone
+10732c10732
+< i
+---
+> I
+10735c10735
+< somewh
+---
+> somewhere
+10737c10737
+< ther
+---
+> there
+10740c10740
+< mus
+---
+> music
+10742c10742
+< launcelot
+---
+> LAUNCELOT
+10744c10744
+< wel
+---
+> Well
+10746c10746
+< i
+---
+> I
+10748c10748
+< herbert
+---
+> HERBERT
+10751c10751
+< ther
+---
+> there
+10755c10755
+< someon
+---
+> someone
+10757c10757
+< fath
+---
+> FATHER
+10759c10759
+< stop
+---
+> Stop
+10762c10762
+< stop
+---
+> Stop
+10765c10765
+< stop
+---
+> Stop
+10768c10768
+< stop
+---
+> Stop
+10771,10772c10771,10772
+< who
+< ar
+---
+> Who
+> are
+10775c10775
+< herbert
+---
+> HERBERT
+10777c10777
+< i
+---
+> I
+10780c10780
+< yo
+---
+> your
+10783c10783
+< fath
+---
+> FATHER
+10785c10785
+< no
+---
+> No
+10790c10790
+< launcelot
+---
+> LAUNCELOT
+10792c10792
+< uh
+---
+> Uh
+10794c10794
+< i
+---
+> I
+10796,10797c10796,10797
+< sir
+< launcelot
+---
+> Sir
+> Launcelot
+10801c10801
+< herbert
+---
+> HERBERT
+10803c10803
+< he
+---
+> He
+10806c10806
+< com
+---
+> come
+10808c10808
+< rescu
+---
+> rescue
+10811c10811
+< fath
+---
+> Father
+10813c10813
+< launcelot
+---
+> LAUNCELOT
+10815c10815
+< wel
+---
+> Well
+10823c10823
+< conclud
+---
+> conclusions
+10825c10825
+< fath
+---
+> FATHER
+10827c10827
+< did
+---
+> Did
+10829,10832c10829,10832
+< kil
+< al
+< thos
+< guard
+---
+> kill
+> all
+> those
+> guards
+10834c10834
+< launcelot
+---
+> LAUNCELOT
+10836c10836
+< uh
+---
+> Uh
+10838c10838
+< oh
+---
+> Oh
+10840c10840
+< ye
+---
+> yes
+10842c10842
+< sorry
+---
+> Sorry
+10844c10844
+< fath
+---
+> FATHER
+10846c10846
+< they
+---
+> They
+10849c10849
+< pound
+---
+> pounds
+10852c10852
+< launcelot
+---
+> LAUNCELOT
+10854c10854
+< wel
+---
+> Well
+10856c10856
+< i
+---
+> I
+10859c10859
+< aw
+---
+> awfully
+10862c10862
+< um
+---
+> Um
+10864,10865c10864,10865
+< i
+< real
+---
+> I
+> really
+10868c10868
+< everyth
+---
+> everything
+10870c10870
+< herbert
+---
+> HERBERT
+10872c10872
+< don
+---
+> Don
+10880,10881c10880,10881
+< sir
+< launcelot
+---
+> Sir
+> Launcelot
+10883c10883
+< i
+---
+> I
+10888,10889c10888,10889
+< rop
+< al
+---
+> rope
+> all
+10892c10892
+< fath
+---
+> FATHER
+10894,10895c10894,10895
+< you
+< kil
+---
+> You
+> killed
+10897,10898c10897,10898
+< wed
+< guest
+---
+> wedding
+> guests
+10900c10900
+< al
+---
+> all
+10902c10902
+< launcelot
+---
+> LAUNCELOT
+10904c10904
+< wel
+---
+> Well
+10915c10915
+< i
+---
+> I
+10917c10917
+< yo
+---
+> your
+10923c10923
+< fath
+---
+> FATHER
+10925c10925
+< i
+---
+> I
+10930c10930
+< herbert
+---
+> HERBERT
+10932c10932
+< hurry
+---
+> Hurry
+10934,10935c10934,10935
+< sir
+< launcelot
+---
+> Sir
+> Launcelot
+10937c10937
+< hurry
+---
+> Hurry
+10939c10939
+< fath
+---
+> FATHER
+10941c10941
+< shut
+---
+> Shut
+10944,10946c10944,10946
+< you
+< on
+< kil
+---
+> You
+> only
+> killed
+10948c10948
+< brid
+---
+> bride
+10951c10951
+< fath
+---
+> father
+10956c10956
+< al
+---
+> all
+10958c10958
+< launcelot
+---
+> LAUNCELOT
+10960c10960
+< wel
+---
+> Well
+10962,10963c10962,10963
+< i
+< real
+---
+> I
+> really
+10970c10970
+< fath
+---
+> FATHER
+10972c10972
+< didn
+---
+> Didn
+10978c10978
+< you
+---
+> You
+10980c10980
+< yo
+---
+> your
+10987c10987
+< launcelot
+---
+> LAUNCELOT
+10989c10989
+< oh
+---
+> Oh
+10993c10993
+< is
+---
+> Is
+10995c10995
+< al
+---
+> all
+10998c10998
+< fath
+---
+> FATHER
+11000,11002c11000,11002
+< you
+< ev
+< kick
+---
+> You
+> even
+> kicked
+11004c11004
+< brid
+---
+> bride
+11009c11009
+< thi
+---
+> This
+11016c11016
+< fortun
+---
+> fortune
+11018c11018
+< launcelot
+---
+> LAUNCELOT
+11020c11020
+< wel
+---
+> Well
+11022c11022
+< i
+---
+> I
+11026c11026
+< i
+---
+> I
+11034,11035c11034,11035
+< rid
+< nor
+---
+> riding
+> north
+11037c11037
+< camelot
+---
+> Camelot
+11040c11040
+< i
+---
+> I
+11042,11043c11042,11043
+< thi
+< not
+---
+> this
+> note
+11048c11048
+< fath
+---
+> FATHER
+11050c11050
+< camelot
+---
+> Camelot
+11052c11052
+< ar
+---
+> Are
+11058c11058
+< camelot
+---
+> Camelot
+11060c11060
+< herbert
+---
+> HERBERT
+11062c11062
+< hurry
+---
+> Hurry
+11064,11065c11064,11065
+< sir
+< launcelot
+---
+> Sir
+> Launcelot
+11067c11067
+< launcelot
+---
+> LAUNCELOT
+11069c11069
+< uh
+---
+> Uh
+11071c11071
+< i
+---
+> I
+11074c11074
+< knight
+---
+> Knight
+11076,11077c11076,11077
+< king
+< arth
+---
+> King
+> Arthur
+11081c11081
+< fath
+---
+> FATHER
+11083,11085c11083,11085
+< very
+< nic
+< castl
+---
+> Very
+> nice
+> castle
+11087c11087
+< camelot
+---
+> Camelot
+11089c11089
+< uh
+---
+> Uh
+11096c11096
+< launcelot
+---
+> LAUNCELOT
+11098c11098
+< is
+---
+> Is
+11101c11101
+< herbert
+---
+> HERBERT
+11103c11103
+< hurry
+---
+> Hurry
+11105c11105
+< i
+---
+> I
+11110c11110
+< fath
+---
+> FATHER
+11112c11112
+< would
+---
+> Would
+11117c11117
+< lik
+---
+> like
+11119c11119
+< com
+---
+> come
+11121c11121
+< hav
+---
+> have
+11125c11125
+< launcelot
+---
+> LAUNCELOT
+11127c11127
+< wel
+---
+> Well
+11137,11138c11137,11138
+< aw
+< nic
+---
+> awfully
+> nice
+11143c11143
+< herbert
+---
+> HERBERT
+11145c11145
+< i
+---
+> I
+11149c11149
+< launcelot
+---
+> LAUNCELOT
+11154c11154
+< i
+---
+> I
+11159c11159
+< understand
+---
+> understanding
+11164c11164
+< um
+---
+> Um
+11170c11170
+< herbert
+---
+> HERBERT
+11172c11172
+< oooh
+---
+> Oooh
+11174c11174
+< launcelot
+---
+> LAUNCELOT
+11177c11177
+< i
+---
+> I
+11182c11182
+< i
+---
+> I
+11186c11186
+< thi
+---
+> this
+11189,11190c11189,11190
+< i
+< sometim
+---
+> I
+> sometimes
+11199c11199
+< carry
+---
+> carried
+11202c11202
+< fath
+---
+> FATHER
+11204c11204
+< oh
+---
+> Oh
+11213c11213
+< herbert
+---
+> HERBERT
+11215c11215
+< oooh
+---
+> Oooh
+11220c11220
+< scen
+---
+> SCENE
+11223c11223
+< guest
+---
+> GUESTS
+11226c11226
+< cry
+---
+> crying
+11228c11228
+< fath
+---
+> FATHER
+11230c11230
+< wel
+---
+> Well
+11232c11232
+< thi
+---
+> this
+11236c11236
+< hal
+---
+> hall
+11238c11238
+< we
+---
+> We
+11243,11246c11243,11246
+< hav
+< al
+< thi
+< knock
+---
+> have
+> all
+> this
+> knocked
+11250c11250
+< mad
+---
+> made
+11252c11252
+< on
+---
+> one
+11257c11257
+< liv
+---
+> living
+11260c11260
+< guest
+---
+> GUEST
+11262c11262
+< ther
+---
+> There
+11266c11266
+< fath
+---
+> FATHER
+11268c11268
+< oh
+---
+> Oh
+11271c11271
+< hel
+---
+> hell
+11273c11273
+< launcelot
+---
+> LAUNCELOT
+11275c11275
+< ha
+---
+> Ha
+11279c11279
+< hey
+---
+> Hey
+11281c11281
+< ha
+---
+> Ha
+11284c11284
+< fath
+---
+> FATHER
+11286c11286
+< hold
+---
+> Hold
+11289c11289
+< stop
+---
+> Stop
+11292c11292
+< hold
+---
+> Hold
+11295c11295
+< hold
+---
+> Hold
+11298c11298
+< hold
+---
+> Hold
+11301c11301
+< hold
+---
+> Hold
+11304c11304
+< hold
+---
+> Hold
+11307c11307
+< pleas
+---
+> Please
+11309c11309
+< launcelot
+---
+> LAUNCELOT
+11311c11311
+< sorry
+---
+> Sorry
+11313c11313
+< sorry
+---
+> Sorry
+11315c11315
+< you
+---
+> You
+11318c11318
+< i
+---
+> I
+11321c11321
+< i
+---
+> I
+11324c11324
+< carry
+---
+> carried
+11327c11327
+< i
+---
+> I
+11330c11330
+< real
+---
+> really
+11332c11332
+< aw
+---
+> awfully
+11335c11335
+< sorry
+---
+> Sorry
+11337c11337
+< sorry
+---
+> Sorry
+11339c11339
+< everyon
+---
+> everyone
+11341c11341
+< guest
+---
+> GUEST
+11345c11345
+< he
+---
+> He
+11348c11348
+< kil
+---
+> killed
+11353c11353
+< guest
+---
+> GUESTS
+11356c11356
+< yel
+---
+> yelling
+11358c11358
+< fath
+---
+> FATHER
+11360c11360
+< hold
+---
+> Hold
+11363c11363
+< hold
+---
+> Hold
+11366c11366
+< pleas
+---
+> Please
+11368c11368
+< hold
+---
+> Hold
+11371c11371
+< thi
+---
+> This
+11373,11374c11373,11374
+< sir
+< launcelot
+---
+> Sir
+> Launcelot
+11377c11377
+< court
+---
+> Court
+11379c11379
+< camelot
+---
+> Camelot
+11383c11383
+< brav
+---
+> brave
+11385c11385
+< influ
+---
+> influential
+11390c11390
+< spec
+---
+> special
+11392c11392
+< her
+---
+> here
+11395c11395
+< launcelot
+---
+> LAUNCELOT
+11397c11397
+< hello
+---
+> Hello
+11399c11399
+< guest
+---
+> GUEST
+11401,11402c11401,11402
+< he
+< kil
+---
+> He
+> killed
+11404c11404
+< aunty
+---
+> auntie
+11406c11406
+< guest
+---
+> GUESTS
+11409c11409
+< yel
+---
+> yelling
+11411c11411
+< fath
+---
+> FATHER
+11413c11413
+< pleas
+---
+> Please
+11415c11415
+< pleas
+---
+> Please
+11417c11417
+< thi
+---
+> This
+11419c11419
+< suppos
+---
+> supposed
+11424c11424
+< occas
+---
+> occasion
+11426c11426
+< let
+---
+> Let
+11430c11430
+< bick
+---
+> bicker
+11432c11432
+< argu
+---
+> argue
+11435c11435
+< kil
+---
+> killed
+11438,11440c11438,11440
+< we
+< ar
+< her
+---
+> We
+> are
+> here
+11443c11443
+< wit
+---
+> witness
+11445c11445
+< un
+---
+> union
+11449c11449
+< peopl
+---
+> people
+11452c11452
+< joy
+---
+> joyful
+11459c11459
+< unfortun
+---
+> Unfortunately
+11461c11461
+< on
+---
+> one
+11467c11467
+< herbert
+---
+> Herbert
+11471c11471
+< fal
+---
+> fallen
+11474c11474
+< dea
+---
+> death
+11476c11476
+< guest
+---
+> GUESTS
+11478c11478
+< oh
+---
+> Oh
+11480c11480
+< oh
+---
+> Oh
+11483c11483
+< fath
+---
+> FATHER
+11485,11486c11485,11486
+< but
+< i
+---
+> But
+> I
+11493c11493
+< i
+---
+> I
+11505c11505
+< gain
+---
+> gained
+11507c11507
+< daught
+---
+> daughter
+11514c11514
+< for
+---
+> For
+11516c11516
+< sint
+---
+> since
+11518,11519c11518,11519
+< trag
+< dea
+---
+> tragic
+> death
+11522c11522
+< fath
+---
+> father
+11524c11524
+< guest
+---
+> GUEST
+11528c11528
+< he
+---
+> He
+11532c11532
+< quit
+---
+> quite
+11535c11535
+< fath
+---
+> FATHER
+11537c11537
+< sint
+---
+> Since
+11540,11541c11540,11541
+< fat
+< wound
+---
+> fatal
+> wounding
+11544c11544
+< fath
+---
+> father
+11546c11546
+< guest
+---
+> GUEST
+11550c11550
+< he
+---
+> He
+11553,11554c11553,11554
+< get
+< bet
+---
+> getting
+> better
+11556c11556
+< fath
+---
+> FATHER
+11558c11558
+< for
+---
+> For
+11560c11560
+< sint
+---
+> since
+11563c11563
+< fath
+---
+> father
+11569c11569
+< seem
+---
+> seemed
+11572c11572
+< recov
+---
+> recover
+11574c11574
+< sud
+---
+> suddenly
+11580c11580
+< dea
+---
+> death
+11584c11584
+< brid
+---
+> BRIDE
+11586,11587c11586,11587
+< s
+< fath
+---
+> S
+> FATHER
+11589c11589
+< uugh
+---
+> Uugh
+11591c11591
+< guest
+---
+> GUEST
+11595c11595
+< oh
+---
+> Oh
+11602c11602
+< fath
+---
+> FATHER
+11604,11605c11604,11605
+< and
+< i
+---
+> And
+> I
+11608,11609c11608,11609
+< on
+< daught
+---
+> only
+> daughter
+11625,11627c11625,11627
+< leg
+< bind
+< sens
+---
+> legally
+> binding
+> sense
+11634,11635c11634,11635
+< and
+< i
+---
+> And
+> I
+11637c11637
+< sur
+---
+> sure
+11640c11640
+< merg
+---
+> merger
+11645c11645
+< un
+---
+> union
+11648c11648
+< princess
+---
+> Princess
+11651c11651
+< brav
+---
+> brave
+11654c11654
+< dang
+---
+> dangerous
+11656,11657c11656,11657
+< sir
+< launcelot
+---
+> Sir
+> Launcelot
+11659c11659
+< camelot
+---
+> Camelot
+11661c11661
+< launcelot
+---
+> LAUNCELOT
+11663c11663
+< what
+---
+> What
+11665c11665
+< guest
+---
+> GUEST
+11669c11669
+< look
+---
+> Look
+11671c11671
+< the
+---
+> The
+11673c11673
+< print
+---
+> Prince
+11675c11675
+< guest
+---
+> GUESTS
+11677c11677
+< oooh
+---
+> Oooh
+11679c11679
+< the
+---
+> The
+11681c11681
+< print
+---
+> Prince
+11683c11683
+< concord
+---
+> CONCORDE
+11685c11685
+< he
+---
+> He
+11689c11689
+< quit
+---
+> quite
+11692c11692
+< herbert
+---
+> HERBERT
+11694c11694
+< no
+---
+> No
+11696c11696
+< i
+---
+> I
+11699c11699
+< bet
+---
+> better
+11701c11701
+< fath
+---
+> FATHER
+11703,11704c11703,11704
+< you
+< fel
+---
+> You
+> fell
+11708,11709c11708,11709
+< tal
+< tow
+---
+> Tall
+> Tower
+11714c11714
+< herbert
+---
+> HERBERT
+11716c11716
+< no
+---
+> No
+11718c11718
+< i
+---
+> I
+11720c11720
+< sav
+---
+> saved
+11724c11724
+< minut
+---
+> minute
+11726c11726
+< fath
+---
+> FATHER
+11728c11728
+< how
+---
+> How
+11730c11730
+< herbert
+---
+> HERBERT
+11732c11732
+< wel
+---
+> Well
+11734c11734
+< i
+---
+> I
+11737c11737
+< tel
+---
+> tell
+11741c11741
+< mus
+---
+> music
+11743c11743
+< fath
+---
+> FATHER
+11745,11746c11745,11746
+< not
+< lik
+---
+> Not
+> like
+11749,11750c11749,11750
+< not
+< lik
+---
+> Not
+> like
+11753c11753
+< no
+---
+> No
+11755c11755
+< stop
+---
+> Stop
+11758c11758
+< guest
+---
+> GUESTS
+11761c11761
+< sing
+---
+> singing
+11763c11763
+< he
+---
+> He
+11768c11768
+< tel
+---
+> tell
+11770c11770
+< he
+---
+> He
+11775c11775
+< tel
+---
+> tell
+11778c11778
+< fath
+---
+> FATHER
+11780c11780
+< shut
+---
+> Shut
+11783c11783
+< guest
+---
+> GUESTS
+11786c11786
+< sing
+---
+> singing
+11788c11788
+< he
+---
+> He
+11793c11793
+< tel
+---
+> tell
+11796c11796
+< fath
+---
+> FATHER
+11798c11798
+< shut
+---
+> Shut
+11801c11801
+< guest
+---
+> GUESTS
+11804c11804
+< sing
+---
+> singing
+11806c11806
+< he
+---
+> He
+11811c11811
+< tel
+---
+> tell
+11814c11814
+< fath
+---
+> FATHER
+11816c11816
+< shut
+---
+> Shut
+11819c11819
+< guest
+---
+> GUESTS
+11822c11822
+< sing
+---
+> singing
+11824c11824
+< he
+---
+> He
+11829c11829
+< tel
+---
+> tell
+11832c11832
+< fath
+---
+> FATHER
+11834,11835c11834,11835
+< not
+< lik
+---
+> Not
+> like
+11838c11838
+< guest
+---
+> GUESTS
+11841c11841
+< sing
+---
+> singing
+11843c11843
+< he
+---
+> He
+11848c11848
+< tel
+---
+> tell
+11850c11850
+< he
+---
+> He
+11855c11855
+< tel
+---
+> tell
+11857c11857
+< he
+---
+> He
+11862c11862
+< tel
+---
+> tell
+11864c11864
+< he
+---
+> He
+11869c11869
+< tel
+---
+> tell
+11872c11872
+< concord
+---
+> CONCORDE
+11874c11874
+< quick
+---
+> Quickly
+11878c11878
+< guest
+---
+> GUESTS
+11881c11881
+< sing
+---
+> singing
+11883c11883
+< he
+---
+> He
+11888c11888
+< tel
+---
+> tell
+11891c11891
+< concord
+---
+> CONCORDE
+11893,11894c11893,11894
+< com
+< thi
+---
+> Come
+> this
+11897c11897
+< guest
+---
+> GUESTS
+11900c11900
+< sing
+---
+> singing
+11902c11902
+< he
+---
+> He
+11907c11907
+< tel
+---
+> tell
+11909c11909
+< he
+---
+> He
+11914c11914
+< tel
+---
+> tell
+11917c11917
+< launcelot
+---
+> LAUNCELOT
+11919c11919
+< no
+---
+> No
+11921c11921
+< it
+---
+> It
+11930c11930
+< guest
+---
+> GUESTS
+11933c11933
+< sing
+---
+> singing
+11935c11935
+< he
+---
+> He
+11940c11940
+< tel
+---
+> tell
+11943,11944c11943,11944
+< gre
+< escap
+---
+> great
+> escape
+11946c11946
+< launcelot
+---
+> LAUNCELOT
+11948c11948
+< i
+---
+> I
+11950,11951c11950,11951
+< escap
+< mor
+---
+> escape
+> more
+11956c11956
+< guest
+---
+> GUESTS
+11959c11959
+< sing
+---
+> singing
+11961c11961
+< oh
+---
+> Oh
+11964c11964
+< fel
+---
+> fell
+11971c11971
+< concord
+---
+> CONCORDE
+11973c11973
+< dram
+---
+> Dramatically
+11977c11977
+< launcelot
+---
+> LAUNCELOT
+11979c11979
+< dram
+---
+> Dramatically
+11981c11981
+< guest
+---
+> GUESTS
+11984c11984
+< sing
+---
+> singing
+11986c11986
+< but
+---
+> But
+11990c11990
+< her
+---
+> here
+11995c11995
+< launcelot
+---
+> LAUNCELOT
+11997c11997
+< hee
+---
+> Heee
+11999c11999
+< hoa
+---
+> Hoa
+12004c12004
+< hoo
+---
+> Hoo
+12006c12006
+< guest
+---
+> GUESTS
+12009c12009
+< sing
+---
+> singing
+12011c12011
+< what
+---
+> What
+12013,12014c12013,12014
+< wond
+< escap
+---
+> wonderful
+> escape
+12016c12016
+< launcelot
+---
+> LAUNCELOT
+12018c12018
+< excus
+---
+> Excuse
+12021c12021
+< could
+---
+> Could
+12027c12027
+< giv
+---
+> give
+12032,12033c12032,12033
+< pleas
+< scen
+---
+> please
+> SCENE
+12037,12039c12037,12039
+< king
+< arth
+< mus
+---
+> King
+> Arthur
+> music
+12059c12059
+< arth
+---
+> ARTHUR
+12061,12062c12061,12062
+< old
+< cron
+---
+> Old
+> crone
+12068,12069c12068,12069
+< mus
+< stop
+---
+> music
+> stops
+12071,12073c12071,12073
+< is
+< ther
+< anywh
+---
+> Is
+> there
+> anywhere
+12075c12075
+< thi
+---
+> this
+12077c12077
+< wher
+---
+> where
+12085c12085
+< dram
+---
+> dramatic
+12088,12089c12088,12089
+< old
+< cron
+---
+> OLD
+> CRONE
+12091c12091
+< who
+---
+> Who
+12095c12095
+< arth
+---
+> ARTHUR
+12097,12100c12097,12100
+< the
+< knight
+< who
+< say
+---
+> The
+> Knights
+> Who
+> Say
+12102c12102
+< ni
+---
+> Ni
+12104c12104
+< cron
+---
+> CRONE
+12106c12106
+< aggh
+---
+> Aggh
+12108c12108
+< no
+---
+> No
+12110c12110
+< nev
+---
+> Never
+12112,12113c12112,12113
+< we
+< hav
+---
+> We
+> have
+12116c12116
+< her
+---
+> here
+12118c12118
+< arth
+---
+> ARTHUR
+12120c12120
+< if
+---
+> If
+12124c12124
+< tel
+---
+> tell
+12126c12126
+< wher
+---
+> where
+12136,12137c12136,12137
+< i
+< wil
+---
+> I
+> will
+12141c12141
+< wil
+---
+> will
+12147c12147
+< cron
+---
+> CRONE
+12149c12149
+< agh
+---
+> Agh
+12151,12152c12151,12152
+< do
+< yo
+---
+> Do
+> your
+12155c12155
+< arth
+---
+> ARTHUR
+12157,12158c12157,12158
+< very
+< wel
+---
+> Very
+> well
+12160c12160
+< if
+---
+> If
+12162c12162
+< wil
+---
+> will
+12166c12166
+< volunt
+---
+> voluntarily
+12171c12171
+< cron
+---
+> CRONE
+12173c12173
+< no
+---
+> No
+12175c12175
+< nev
+---
+> Never
+12177c12177
+< no
+---
+> No
+12180c12180
+< arth
+---
+> ARTHUR
+12182c12182
+< ni
+---
+> Ni
+12184c12184
+< cron
+---
+> CRONE
+12189c12189
+< bedev
+---
+> BEDEVERE
+12191c12191
+< nu
+---
+> Nu
+12193c12193
+< arth
+---
+> ARTHUR
+12195c12195
+< no
+---
+> No
+12203c12203
+< bedev
+---
+> BEDEVERE
+12205c12205
+< nu
+---
+> Nu
+12207c12207
+< arth
+---
+> ARTHUR
+12209c12209
+< no
+---
+> No
+12223c12223
+< bedev
+---
+> BEDEVERE
+12225c12225
+< nu
+---
+> Nu
+12227c12227
+< arth
+---
+> ARTHUR
+12229c12229
+< no
+---
+> No
+12236c12236
+< you
+---
+> You
+12242c12242
+< prop
+---
+> properly
+12244c12244
+< no
+---
+> No
+12246c12246
+< bedev
+---
+> BEDEVERE
+12248c12248
+< ni
+---
+> Ni
+12250c12250
+< arth
+---
+> ARTHUR
+12252c12252
+< bedev
+---
+> BEDEVERE
+12254c12254
+< ni
+---
+> Ni
+12256c12256
+< arth
+---
+> ARTHUR
+12258c12258
+< that
+---
+> That
+12263c12263
+< that
+---
+> That
+12268c12268
+< you
+---
+> You
+12274c12274
+< arth
+---
+> ARTHUR
+12276c12276
+< bedev
+---
+> BEDEVERE
+12278c12278
+< ni
+---
+> Ni
+12280c12280
+< cron
+---
+> CRONE
+12282c12282
+< ohh
+---
+> Ohh
+12284c12284
+< bedev
+---
+> BEDEVERE
+12286c12286
+< ni
+---
+> Ni
+12288c12288
+< arth
+---
+> ARTHUR
+12290c12290
+< ni
+---
+> Ni
+12292c12292
+< cron
+---
+> CRONE
+12294c12294
+< agh
+---
+> Agh
+12296c12296
+< bedev
+---
+> BEDEVERE
+12298c12298
+< ni
+---
+> Ni
+12300c12300
+< arth
+---
+> ARTHUR
+12302c12302
+< ni
+---
+> Ni
+12304c12304
+< bedev
+---
+> BEDEVERE
+12306c12306
+< ni
+---
+> Ni
+12308c12308
+< arth
+---
+> ARTHUR
+12310c12310
+< ni
+---
+> Ni
+12312c12312
+< bedev
+---
+> BEDEVERE
+12314c12314
+< ni
+---
+> Ni
+12316,12318c12316,12318
+< rog
+< the
+< shrubber
+---
+> ROGER
+> THE
+> SHRUBBER
+12320c12320
+< ar
+---
+> Are
+12322c12322
+< say
+---
+> saying
+12329c12329
+< wom
+---
+> woman
+12331c12331
+< arth
+---
+> ARTHUR
+12333c12333
+< erm
+---
+> Erm
+12335c12335
+< ye
+---
+> yes
+12337c12337
+< rog
+---
+> ROGER
+12339c12339
+< oh
+---
+> Oh
+12343,12345c12343,12345
+< tim
+< ar
+< thes
+---
+> times
+> are
+> these
+12347,12348c12347,12348
+< pass
+< ruff
+---
+> passing
+> ruffians
+12354c12354
+< wil
+---
+> will
+12357c12357
+< lady
+---
+> ladies
+12359c12359
+< ther
+---
+> There
+12362c12362
+< pestil
+---
+> pestilence
+12364c12364
+< thi
+---
+> this
+12367c12367
+< noth
+---
+> Nothing
+12369c12369
+< sacr
+---
+> sacred
+12371,12372c12371,12372
+< ev
+< thos
+---
+> Even
+> those
+12374c12374
+< arrang
+---
+> arrange
+12378,12381c12378,12381
+< ar
+< und
+< consid
+< econom
+---
+> are
+> under
+> considerable
+> economic
+12384c12384
+< thi
+---
+> this
+12387c12387
+< hist
+---
+> history
+12389c12389
+< arth
+---
+> ARTHUR
+12391c12391
+< did
+---
+> Did
+12397c12397
+< rog
+---
+> ROGER
+12399c12399
+< ye
+---
+> Yes
+12401,12402c12401,12402
+< shrubberies
+< ar
+---
+> Shrubberies
+> are
+12404c12404
+< trad
+---
+> trade
+12406c12406
+< i
+---
+> I
+12411,12412c12411,12412
+< my
+< nam
+---
+> My
+> name
+12414c12414
+< rog
+---
+> Roger
+12416c12416
+< shrubber
+---
+> Shrubber
+12418,12419c12418,12419
+< i
+< arrang
+---
+> I
+> arrange
+12424c12424
+< sel
+---
+> sell
+12427c12427
+< bedev
+---
+> BEDEVERE
+12429c12429
+< ni
+---
+> Ni
+12431c12431
+< arth
+---
+> ARTHUR
+12433c12433
+< no
+---
+> No
+12435c12435
+< no
+---
+> No
+12441,12442c12441,12442
+< no
+< scen
+---
+> No
+> SCENE
+12445c12445
+< arth
+---
+> ARTHUR
+12447,12448c12447,12448
+< o
+< knight
+---
+> O
+> Knights
+12450c12450
+< ni
+---
+> Ni
+12453c12453
+< hav
+---
+> have
+12456c12456
+< yo
+---
+> your
+12459c12459
+< may
+---
+> May
+12464,12465c12464,12465
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+12467c12467
+< it
+---
+> It
+12473,12474c12473,12474
+< i
+< lik
+---
+> I
+> like
+12476,12477c12476,12477
+< laurel
+< particul
+---
+> laurels
+> particularly
+12479,12480c12479,12480
+< but
+< ther
+---
+> But
+> there
+12482,12483c12482,12483
+< on
+< smal
+---
+> one
+> small
+12486c12486
+< arth
+---
+> ARTHUR
+12488c12488
+< what
+---
+> What
+12492,12493c12492,12493
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+12495,12496c12495,12496
+< we
+< ar
+---
+> We
+> are
+12500c12500
+< long
+---
+> longer
+12502,12504c12502,12504
+< knight
+< who
+< say
+---
+> Knights
+> Who
+> Say
+12506c12506
+< ni
+---
+> Ni
+12508,12510c12508,12510
+< knight
+< of
+< ni
+---
+> KNIGHTS
+> OF
+> NI
+12512c12512
+< ni
+---
+> Ni
+12514c12514
+< shh
+---
+> Shh
+12516,12517c12516,12517
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+12519c12519
+< shh
+---
+> Shh
+12521,12522c12521,12522
+< we
+< ar
+---
+> We
+> are
+12525,12527c12525,12527
+< knight
+< who
+< say
+---
+> Knights
+> Who
+> Say
+12529c12529
+< ecky
+---
+> Ecky
+12547c12547
+< owl
+---
+> owli
+12551c12551
+< random
+---
+> RANDOM
+12553c12553
+< ni
+---
+> Ni
+12555,12556c12555,12556
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+12558c12558
+< theref
+---
+> Therefore
+12562c12562
+< giv
+---
+> give
+12567c12567
+< arth
+---
+> ARTHUR
+12569c12569
+< what
+---
+> What
+12571c12571
+< thi
+---
+> this
+12574,12575c12574,12575
+< o
+< knight
+---
+> O
+> Knights
+12578,12579c12578,12579
+< knight
+< who
+---
+> Knights
+> Who
+12581,12583c12581,12583
+< til
+< rec
+< said
+---
+> Til
+> Recently
+> Said
+12585c12585
+< ni
+---
+> Ni
+12587,12588c12587,12588
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+12590c12590
+< first
+---
+> Firstly
+12596c12596
+< anoth
+---
+> another
+12600c12600
+< dram
+---
+> dramatic
+12603c12603
+< arth
+---
+> ARTHUR
+12605,12606c12605,12606
+< not
+< anoth
+---
+> Not
+> another
+12609c12609
+< random
+---
+> RANDOM
+12611c12611
+< ni
+---
+> Ni
+12613,12614c12613,12614
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+12616c12616
+< then
+---
+> Then
+12620c12620
+< hav
+---
+> have
+12627c12627
+< plac
+---
+> place
+12629,12631c12629,12631
+< her
+< besid
+< thi
+---
+> here
+> beside
+> this
+12634,12636c12634,12636
+< on
+< slight
+< high
+---
+> only
+> slightly
+> higher
+12647c12647
+< littl
+---
+> little
+12649c12649
+< run
+---
+> running
+12652c12652
+< middl
+---
+> middle
+12654,12656c12654,12656
+< knight
+< of
+< ni
+---
+> KNIGHTS
+> OF
+> NI
+12658c12658
+< a
+---
+> A
+12661c12661
+< a
+---
+> A
+12664c12664
+< a
+---
+> A
+12667c12667
+< ni
+---
+> Ni
+12669c12669
+< shh
+---
+> Shh
+12671c12671
+< ni
+---
+> Ni
+12673c12673
+< ni
+---
+> Ni
+12675c12675
+< ni
+---
+> Ni
+12677c12677
+< shh
+---
+> Shh
+12679c12679
+< shh
+---
+> Shh
+12682,12683c12682,12683
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+12685c12685
+< then
+---
+> Then
+12689c12689
+< hav
+---
+> have
+12700c12700
+< tre
+---
+> tree
+12708c12708
+< her
+---
+> herring
+12711c12711
+< dram
+---
+> dramatic
+12714c12714
+< arth
+---
+> ARTHUR
+12716,12717c12716,12717
+< we
+< shal
+---
+> We
+> shall
+12723,12724c12723,12724
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+12726c12726
+< oh
+---
+> Oh
+12728c12728
+< pleas
+---
+> please
+12730c12730
+< arth
+---
+> ARTHUR
+12732c12732
+< cut
+---
+> Cut
+12735c12735
+< tre
+---
+> tree
+12738c12738
+< her
+---
+> herring
+12740c12740
+< it
+---
+> It
+12745c12745
+< don
+---
+> done
+12747,12749c12747,12749
+< knight
+< of
+< ni
+---
+> KNIGHTS
+> OF
+> NI
+12751c12751
+< aaaugh
+---
+> Aaaugh
+12753c12753
+< aaaugh
+---
+> Aaaugh
+12755,12756c12755,12756
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+12758c12758
+< augh
+---
+> Augh
+12760c12760
+< ohh
+---
+> Ohh
+12762c12762
+< don
+---
+> Don
+12769c12769
+< arth
+---
+> ARTHUR
+12771c12771
+< what
+---
+> What
+12774,12775c12774,12775
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+12777c12777
+< i
+---
+> I
+12779c12779
+< tel
+---
+> tell
+12781c12781
+< suff
+---
+> suffice
+12785c12785
+< on
+---
+> one
+12788c12788
+< word
+---
+> words
+12790c12790
+< knight
+---
+> Knights
+12792c12792
+< ni
+---
+> Ni
+12796c12796
+< arth
+---
+> ARTHUR
+12798c12798
+< how
+---
+> How
+12810c12810
+< tel
+---
+> tell
+12816,12818c12816,12818
+< knight
+< of
+< ni
+---
+> KNIGHTS
+> OF
+> NI
+12820c12820
+< aaaaugh
+---
+> Aaaaugh
+12822,12823c12822,12823
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+12825c12825
+< you
+---
+> You
+12830c12830
+< arth
+---
+> ARTHUR
+12832c12832
+< what
+---
+> What
+12837,12839c12837,12839
+< knight
+< of
+< ni
+---
+> KNIGHTS
+> OF
+> NI
+12841c12841
+< agh
+---
+> Agh
+12843c12843
+< no
+---
+> No
+12849,12850c12849,12850
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+12852c12852
+< no
+---
+> No
+12858c12858
+< you
+---
+> You
+12866c12866
+< lif
+---
+> life
+12868c12868
+< say
+---
+> saying
+12872,12874c12872,12874
+< knight
+< of
+< ni
+---
+> KNIGHTS
+> OF
+> NI
+12876c12876
+< no
+---
+> No
+12882c12882
+< not
+---
+> Not
+12886c12886
+< bedev
+---
+> BEDEVERE
+12888,12889c12888,12889
+< my
+< lieg
+---
+> My
+> liege
+12894,12895c12894,12895
+< sir
+< robin
+---
+> Sir
+> Robin
+12897c12897
+< minstrel
+---
+> MINSTREL
+12900c12900
+< sing
+---
+> singing
+12902c12902
+< pack
+---
+> Packing
+12906c12906
+< pack
+---
+> packing
+12910,12911c12910,12911
+< and
+< sneak
+---
+> And
+> sneaking
+12914c12914
+< bug
+---
+> buggering
+12917,12918c12917,12918
+< and
+< chick
+---
+> And
+> chickening
+12921c12921
+< piss
+---
+> pissing
+12923c12923
+< hom
+---
+> home
+12925c12925
+< ye
+---
+> Yes
+12927c12927
+< brav
+---
+> bravely
+12933c12933
+< spong
+---
+> sponge
+12935c12935
+< arth
+---
+> ARTHUR
+12937,12938c12937,12938
+< sir
+< robin
+---
+> Sir
+> Robin
+12940c12940
+< robin
+---
+> ROBIN
+12942,12943c12942,12943
+< my
+< lieg
+---
+> My
+> liege
+12945c12945
+< it
+---
+> It
+12953,12954c12953,12954
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+12956c12956
+< now
+---
+> Now
+12964c12964
+< arth
+---
+> ARTHUR
+12966c12966
+< sur
+---
+> Surely
+12971c12971
+< giv
+---
+> given
+12973c12973
+< yo
+---
+> your
+12977,12978c12977,12978
+< holy
+< grail
+---
+> Holy
+> Grail
+12980c12980
+< minstrel
+---
+> MINSTREL
+12983c12983
+< sing
+---
+> singing
+12985c12985
+< he
+---
+> He
+12987c12987
+< sneak
+---
+> sneaking
+12990c12990
+< bug
+---
+> buggering
+12993c12993
+< robin
+---
+> ROBIN
+12995c12995
+< shut
+---
+> Shut
+12998c12998
+< no
+---
+> No
+13002c13002
+< no
+---
+> No
+13004c13004
+< far
+---
+> Far
+13008,13009c13008,13009
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+13011c13011
+< he
+---
+> He
+13017,13019c13017,13019
+< knight
+< of
+< ni
+---
+> KNIGHTS
+> OF
+> NI
+13021c13021
+< aaaaugh
+---
+> Aaaaugh
+13023c13023
+< robin
+---
+> ROBIN
+13025c13025
+< i
+---
+> I
+13027c13027
+< look
+---
+> looking
+13031,13033c13031,13033
+< knight
+< of
+< ni
+---
+> KNIGHTS
+> OF
+> NI
+13035c13035
+< aaaaugh
+---
+> Aaaaugh
+13037c13037
+< robin
+---
+> ROBIN
+13039c13039
+< uh
+---
+> Uh
+13041c13041
+< her
+---
+> here
+13043c13043
+< her
+---
+> here
+13045c13045
+< thi
+---
+> this
+13048c13048
+< arth
+---
+> ARTHUR
+13050c13050
+< no
+---
+> No
+13056,13057c13056,13057
+< thi
+< plac
+---
+> this
+> place
+13059,13061c13059,13061
+< knight
+< of
+< ni
+---
+> KNIGHTS
+> OF
+> NI
+13063c13063
+< aaaaugh
+---
+> Aaaaugh
+13065,13066c13065,13066
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+13068c13068
+< aaaaugh
+---
+> Aaaaugh
+13070,13071c13070,13071
+< stop
+< say
+---
+> Stop
+> saying
+13075c13075
+< the
+---
+> The
+13078c13078
+< arth
+---
+> ARTHUR
+13080c13080
+< oh
+---
+> Oh
+13085,13087c13085,13087
+< knight
+< of
+< ni
+---
+> KNIGHTS
+> OF
+> NI
+13094,13095c13094,13095
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+13097c13097
+< ow
+---
+> Ow
+13099c13099
+< he
+---
+> He
+13104c13104
+< arth
+---
+> ARTHUR
+13106c13106
+< patsy
+---
+> Patsy
+13108,13109c13108,13109
+< head
+< knight
+---
+> HEAD
+> KNIGHT
+13111c13111
+< wait
+---
+> Wait
+13113c13113
+< i
+---
+> I
+13117c13117
+< i
+---
+> I
+13126c13126
+< ooh
+---
+> Ooh
+13128c13128
+< i
+---
+> I
+13133,13134c13133,13134
+< and
+< ther
+---
+> And
+> there
+13137c13137
+< that
+---
+> That
+13146c13146
+< ohh
+---
+> Ohh
+13148,13150c13148,13150
+< knight
+< of
+< ni
+---
+> KNIGHTS
+> OF
+> NI
+13152,13153c13152,13153
+< aaaaugh
+< nar
+---
+> Aaaaugh
+> NARRATOR
+13155c13155
+< and
+---
+> And
+13158c13158
+< arth
+---
+> Arthur
+13160c13160
+< bedev
+---
+> Bedevere
+13162,13163c13162,13163
+< sir
+< robin
+---
+> Sir
+> Robin
+13172c13172
+< ench
+---
+> enchanter
+13179c13179
+< spok
+---
+> spoken
+13181c13181
+< scen
+---
+> scene
+13186c13186
+< beyond
+---
+> Beyond
+13191c13191
+< launcelot
+---
+> Launcelot
+13193c13193
+< galahad
+---
+> Galahad
+13196c13196
+< ther
+---
+> there
+13199c13199
+< rejo
+---
+> rejoicing
+13201c13201
+< knight
+---
+> KNIGHTS
+13203c13203
+< yay
+---
+> Yay
+13205c13205
+< yay
+---
+> Yay
+13210c13210
+< nar
+---
+> NARRATOR
+13212c13212
+< in
+---
+> In
+13214c13214
+< froz
+---
+> frozen
+13217c13217
+< nad
+---
+> Nador
+13220,13221c13220,13221
+< wer
+< forc
+---
+> were
+> forced
+13224c13224
+< robin
+---
+> Robin
+13227c13227
+< minstrel
+---
+> minstrels
+13229c13229
+< minstrel
+---
+> MINSTREL
+13234c13234
+< pitch
+---
+> pitched
+13236c13236
+< get
+---
+> Get
+13239c13239
+< ee
+---
+> Eee
+13241c13241
+< nar
+---
+> NARRATOR
+13243,13244c13243,13244
+< and
+< ther
+---
+> And
+> there
+13247c13247
+< rejo
+---
+> rejoicing
+13249c13249
+< knight
+---
+> KNIGHTS
+13251c13251
+< yay
+---
+> Yay
+13253c13253
+< nar
+---
+> NARRATOR
+13255c13255
+< a
+---
+> A
+13257c13257
+< pass
+---
+> passed
+13259,13260c13259,13260
+< cartoon
+< charact
+---
+> CARTOON
+> CHARACTER
+13263c13263
+< shiv
+---
+> shivering
+13265c13265
+< nar
+---
+> NARRATOR
+13267,13268c13267,13268
+< wint
+< chang
+---
+> Winter
+> changed
+13270c13270
+< spring
+---
+> Spring
+13272,13273c13272,13273
+< cartoon
+< charact
+---
+> CARTOON
+> CHARACTER
+13275c13275
+< mmm
+---
+> Mmm
+13277c13277
+< nic
+---
+> nice
+13279c13279
+< nar
+---
+> NARRATOR
+13281,13282c13281,13282
+< spring
+< chang
+---
+> Spring
+> changed
+13284c13284
+< sum
+---
+> Summer
+13286,13287c13286,13287
+< cartoon
+< charact
+---
+> CARTOON
+> CHARACTER
+13289c13289
+< oh
+---
+> Oh
+13291c13291
+< ahh
+---
+> Ahh
+13293c13293
+< nar
+---
+> NARRATOR
+13295,13296c13295,13296
+< sum
+< chang
+---
+> Summer
+> changed
+13299c13299
+< wint
+---
+> Winter
+13301,13302c13301,13302
+< cartoon
+< charact
+---
+> CARTOON
+> CHARACTER
+13304c13304
+< oh
+---
+> Oh
+13306c13306
+< nar
+---
+> NARRATOR
+13307a13308,13311
+> And
+> Winter
+> gave
+> Spring
+13309,13313c13313
+< wint
+< gav
+< spring
+< and
+< sum
+---
+> Summer
+13321c13321
+< autumn
+---
+> Autumn
+13323,13324c13323,13324
+< cartoon
+< charact
+---
+> CARTOON
+> CHARACTER
+13326c13326
+< aah
+---
+> Aah
+13331c13331
+< oh
+---
+> Oh
+13333c13333
+< waa
+---
+> Waa
+13335c13335
+< nar
+---
+> NARRATOR
+13337,13338c13337,13338
+< until
+< on
+---
+> Until
+> one
+13341c13341
+< scen
+---
+> SCENE
+13345,13347c13345,13347
+< king
+< arth
+< mus
+---
+> King
+> Arthur
+> music
+13355,13356c13355,13356
+< mus
+< stop
+---
+> music
+> stops
+13361c13361
+< knight
+---
+> KNIGHTS
+13363c13363
+< eh
+---
+> Eh
+13365c13365
+< oh
+---
+> Oh
+13367c13367
+< see
+---
+> See
+13370c13370
+< oh
+---
+> Oh
+13372c13372
+< oh
+---
+> Oh
+13374c13374
+< arth
+---
+> ARTHUR
+13376c13376
+< knight
+---
+> Knights
+13378c13378
+< forward
+---
+> Forward
+13396,13397c13396,13397
+< what
+< man
+---
+> What
+> manner
+13400c13400
+< ar
+---
+> are
+13406c13406
+< fir
+---
+> fire
+13410c13410
+< tind
+---
+> tinder
+13412,13414c13412,13414
+< tim
+< the
+< ench
+---
+> TIM
+> THE
+> ENCHANTER
+13416c13416
+< i
+---
+> I
+13420c13420
+< ench
+---
+> enchanter
+13422c13422
+< arth
+---
+> ARTHUR
+13424c13424
+< by
+---
+> By
+13426,13427c13426,13427
+< nam
+< ar
+---
+> name
+> are
+13431c13431
+< tim
+---
+> TIM
+13433,13435c13433,13435
+< ther
+< ar
+< som
+---
+> There
+> are
+> some
+13437c13437
+< cal
+---
+> call
+13440c13440
+< tim
+---
+> Tim
+13442c13442
+< arth
+---
+> ARTHUR
+13444c13444
+< greet
+---
+> Greetings
+13446c13446
+< tim
+---
+> Tim
+13448c13448
+< ench
+---
+> Enchanter
+13450c13450
+< tim
+---
+> TIM
+13452c13452
+< greet
+---
+> Greetings
+13454,13455c13454,13455
+< king
+< arth
+---
+> King
+> Arthur
+13457c13457
+< arth
+---
+> ARTHUR
+13459c13459
+< you
+---
+> You
+13462c13462
+< nam
+---
+> name
+13464c13464
+< tim
+---
+> TIM
+13466c13466
+< i
+---
+> I
+13472c13472
+< you
+---
+> You
+13475,13476c13475,13476
+< holy
+< grail
+---
+> Holy
+> Grail
+13478c13478
+< arth
+---
+> ARTHUR
+13480c13480
+< that
+---
+> That
+13485c13485
+< you
+---
+> You
+13490c13490
+< hid
+---
+> hidden
+13492,13493c13492,13493
+< o
+< tim
+---
+> O
+> Tim
+13495c13495
+< tim
+---
+> TIM
+13497c13497
+< quit
+---
+> Quite
+13508c13508
+< robin
+---
+> ROBIN
+13510c13510
+< oh
+---
+> Oh
+13512c13512
+< arth
+---
+> ARTHUR
+13514c13514
+< ye
+---
+> Yes
+13523c13523
+< look
+---
+> looking
+13526,13527c13526,13527
+< holy
+< grail
+---
+> Holy
+> Grail
+13529c13529
+< our
+---
+> Our
+13535,13536c13535,13536
+< holy
+< grail
+---
+> Holy
+> Grail
+13538c13538
+< knight
+---
+> KNIGHTS
+13540c13540
+< yeah
+---
+> Yeah
+13542c13542
+< ye
+---
+> Yes
+13544c13544
+< it
+---
+> It
+13547c13547
+< it
+---
+> It
+13550c13550
+< yeah
+---
+> Yeah
+13552c13552
+< yup
+---
+> Yup
+13554c13554
+< yup
+---
+> Yup
+13556c13556
+< hm
+---
+> Hm
+13558c13558
+< arth
+---
+> ARTHUR
+13560c13560
+< and
+---
+> And
+13577c13577
+< look
+---
+> looking
+13581c13581
+< bedev
+---
+> BEDEVERE
+13583c13583
+< ye
+---
+> Yes
+13586c13586
+< ar
+---
+> are
+13588c13588
+< galahad
+---
+> GALAHAD
+13590c13590
+< yeah
+---
+> Yeah
+13592c13592
+< robin
+---
+> ROBIN
+13594,13595c13594,13595
+< we
+< ar
+---
+> We
+> are
+13597,13598c13597,13598
+< we
+< ar
+---
+> We
+> are
+13600c13600
+< bedev
+---
+> BEDEVERE
+13602,13603c13602,13603
+< we
+< hav
+---
+> We
+> have
+13606,13607c13606,13607
+< som
+< tim
+---
+> some
+> time
+13609c13609
+< robin
+---
+> ROBIN
+13611c13611
+< ag
+---
+> Ages
+13613c13613
+< bedev
+---
+> BEDEVERE
+13615c13615
+< umhm
+---
+> Umhm
+13617c13617
+< arth
+---
+> ARTHUR
+13619c13619
+< uh
+---
+> Uh
+13627c13627
+< anyth
+---
+> anything
+13644c13644
+< help
+---
+> helpful
+13646c13646
+< galahad
+---
+> GALAHAD
+13648c13648
+< look
+---
+> Look
+13652c13652
+< tel
+---
+> tell
+13654c13654
+< wher
+---
+> where
+13659c13659
+< arth
+---
+> ARTHUR
+13661c13661
+< fin
+---
+> Fine
+13663c13663
+< um
+---
+> Um
+13665c13665
+< i
+---
+> I
+13671c13671
+< wast
+---
+> waste
+13673c13673
+< mor
+---
+> more
+13675,13676c13675,13676
+< yo
+< tim
+---
+> your
+> time
+13682c13682
+< i
+---
+> I
+13686c13686
+< suppos
+---
+> suppose
+13692c13692
+< tel
+---
+> tell
+13694c13694
+< wher
+---
+> where
+13715c13715
+< tim
+---
+> TIM
+13717c13717
+< a
+---
+> A
+13720c13720
+< arth
+---
+> ARTHUR
+13722c13722
+< a
+---
+> A
+13738c13738
+< tim
+---
+> TIM
+13740c13740
+< a
+---
+> A
+13743c13743
+< arth
+---
+> ARTHUR
+13745c13745
+< ye
+---
+> Yes
+13747c13747
+< i
+---
+> I
+13751c13751
+< robin
+---
+> ROBIN
+13753c13753
+< y
+---
+> Y
+13757c13757
+< ye
+---
+> yes
+13759c13759
+< arth
+---
+> ARTHUR
+13761c13761
+< ye
+---
+> Yes
+13763c13763
+< galahad
+---
+> GALAHAD
+13765c13765
+< yup
+---
+> Yup
+13767c13767
+< knight
+---
+> KNIGHTS
+13769c13769
+< that
+---
+> That
+13774c13774
+< tim
+---
+> TIM
+13776c13776
+< ye
+---
+> Yes
+13778c13778
+< robin
+---
+> ROBIN
+13780c13780
+< oh
+---
+> Oh
+13782c13782
+< arth
+---
+> ARTHUR
+13784c13784
+< oh
+---
+> Oh
+13786c13786
+< thank
+---
+> Thank
+13789c13789
+< robin
+---
+> ROBIN
+13791c13791
+< ahh
+---
+> Ahh
+13793c13793
+< galahad
+---
+> GALAHAD
+13795c13795
+< oh
+---
+> Oh
+13797c13797
+< fin
+---
+> Fine
+13799c13799
+< arth
+---
+> ARTHUR
+13801c13801
+< thank
+---
+> Thank
+13804c13804
+< robin
+---
+> ROBIN
+13806c13806
+< splendid
+---
+> Splendid
+13808c13808
+< knight
+---
+> KNIGHTS
+13810c13810
+< aah
+---
+> Aah
+13818c13818
+< arth
+---
+> ARTHUR
+13820c13820
+< look
+---
+> Look
+13833c13833
+< tim
+---
+> TIM
+13835c13835
+< ye
+---
+> Yes
+13837c13837
+< i
+---
+> I
+13843,13844c13843,13844
+< holy
+< grail
+---
+> Holy
+> Grail
+13846c13846
+< knight
+---
+> KNIGHTS
+13848c13848
+< oh
+---
+> Oh
+13853c13853
+< oh
+---
+> Oh
+13855c13855
+< tim
+---
+> TIM
+13857c13857
+< to
+---
+> To
+13859,13861c13859,13861
+< nor
+< ther
+< lie
+---
+> north
+> there
+> lies
+13863c13863
+< cav
+---
+> cave
+13866c13866
+< cav
+---
+> cave
+13868c13868
+< caerbannog
+---
+> Caerbannog
+13872c13872
+< carv
+---
+> carved
+13874,13875c13874,13875
+< myst
+< run
+---
+> mystic
+> runes
+13879c13879
+< liv
+---
+> living
+13884c13884
+< word
+---
+> words
+13886,13887c13886,13887
+< olfin
+< bedw
+---
+> Olfin
+> Bedwere
+13889c13889
+< rheg
+---
+> Rheged
+13895c13895
+< mak
+---
+> make
+13899,13900c13899,13900
+< rest
+< plac
+---
+> resting
+> place
+13904,13905c13904,13905
+< holy
+< grail
+---
+> Holy
+> Grail
+13907c13907
+< arth
+---
+> ARTHUR
+13909c13909
+< wher
+---
+> Where
+13913,13914c13913,13914
+< thi
+< cav
+---
+> this
+> cave
+13916,13917c13916,13917
+< o
+< tim
+---
+> O
+> Tim
+13919c13919
+< tim
+---
+> TIM
+13921c13921
+< follow
+---
+> Follow
+13923c13923
+< but
+---
+> But
+13925,13926c13925,13926
+< follow
+< on
+---
+> Follow
+> only
+13932c13932
+< val
+---
+> valor
+13936c13936
+< ent
+---
+> entrance
+13938,13939c13938,13939
+< thi
+< cav
+---
+> this
+> cave
+13941c13941
+< guard
+---
+> guarded
+13944c13944
+< cre
+---
+> creature
+13959c13959
+< liv
+---
+> lived
+13961c13961
+< bon
+---
+> Bones
+13963c13963
+< ful
+---
+> full
+13969c13969
+< it
+---
+> its
+13972c13972
+< so
+---
+> So
+13974,13975c13974,13975
+< brav
+< knight
+---
+> brave
+> knights
+13981,13982c13981,13982
+< yo
+< cour
+---
+> your
+> courage
+13984c13984
+< yo
+---
+> your
+13987c13987
+< com
+---
+> come
+13989c13989
+< furth
+---
+> further
+13992,13993c13992,13993
+< dea
+< await
+---
+> death
+> awaits
+13995c13995
+< al
+---
+> all
+14002c14002
+< tee
+---
+> teeth
+14004c14004
+< arth
+---
+> ARTHUR
+14006c14006
+< what
+---
+> What
+14008,14010c14008,14010
+< ecc
+< perform
+< scen
+---
+> eccentric
+> performance
+> SCENE
+14022c14022
+< galahad
+---
+> GALAHAD
+14024c14024
+< they
+---
+> They
+14027c14027
+< nerv
+---
+> nervous
+14029c14029
+< sir
+---
+> sire
+14031c14031
+< arth
+---
+> ARTHUR
+14033c14033
+< then
+---
+> Then
+14038c14038
+< leav
+---
+> leave
+14040c14040
+< her
+---
+> here
+14047c14047
+< dis
+---
+> Dis
+14051c14051
+< tim
+---
+> TIM
+14053c14053
+< behold
+---
+> Behold
+14055c14055
+< cav
+---
+> cave
+14057c14057
+< caerbannog
+---
+> Caerbannog
+14059c14059
+< arth
+---
+> ARTHUR
+14061c14061
+< right
+---
+> Right
+14063c14063
+< keep
+---
+> Keep
+14065c14065
+< cov
+---
+> covered
+14067c14067
+< galahad
+---
+> GALAHAD
+14069c14069
+< what
+---
+> What
+14072c14072
+< arth
+---
+> ARTHUR
+14074c14074
+< w
+---
+> W
+14079c14079
+< cov
+---
+> covered
+14081c14081
+< tim
+---
+> TIM
+14083,14084c14083,14084
+< too
+< lat
+---
+> Too
+> late
+14087c14087
+< dram
+---
+> dramatic
+14090c14090
+< arth
+---
+> ARTHUR
+14092c14092
+< what
+---
+> What
+14094c14094
+< tim
+---
+> TIM
+14096c14096
+< ther
+---
+> There
+14100c14100
+< arth
+---
+> ARTHUR
+14102c14102
+< wher
+---
+> Where
+14104c14104
+< tim
+---
+> TIM
+14106c14106
+< ther
+---
+> There
+14108c14108
+< arth
+---
+> ARTHUR
+14110c14110
+< what
+---
+> What
+14116c14116
+< tim
+---
+> TIM
+14118c14118
+< it
+---
+> It
+14123c14123
+< arth
+---
+> ARTHUR
+14125,14126c14125,14126
+< you
+< sil
+---
+> You
+> silly
+14129c14129
+< tim
+---
+> TIM
+14131c14131
+< what
+---
+> What
+14133c14133
+< arth
+---
+> ARTHUR
+14135c14135
+< you
+---
+> You
+14138,14139c14138,14139
+< al
+< work
+---
+> all
+> worked
+14142c14142
+< tim
+---
+> TIM
+14144c14144
+< wel
+---
+> Well
+14150c14150
+< ordin
+---
+> ordinary
+14153c14153
+< arth
+---
+> ARTHUR
+14155c14155
+< ohh
+---
+> Ohh
+14157c14157
+< tim
+---
+> TIM
+14159c14159
+< that
+---
+> That
+14171,14172c14171,14172
+< temp
+< rod
+---
+> tempered
+> rodent
+14174c14174
+< ev
+---
+> ever
+14176c14176
+< ey
+---
+> eyes
+14179c14179
+< robin
+---
+> ROBIN
+14181c14181
+< you
+---
+> You
+14184,14185c14184,14185
+< i
+< soil
+---
+> I
+> soiled
+14187,14188c14187,14188
+< arm
+< i
+---
+> armor
+> I
+14191c14191
+< scar
+---
+> scared
+14193c14193
+< tim
+---
+> TIM
+14195c14195
+< look
+---
+> Look
+14203c14203
+< vicy
+---
+> vicious
+14206,14207c14206,14207
+< mil
+< wid
+---
+> mile
+> wide
+14213c14213
+< kil
+---
+> killer
+14215c14215
+< galahad
+---
+> GALAHAD
+14217,14218c14217,14218
+< get
+< stuff
+---
+> Get
+> stuffed
+14220c14220
+< tim
+---
+> TIM
+14222c14222
+< he
+---
+> He
+14229,14230c14229,14230
+< tre
+< mat
+---
+> treat
+> mate
+14232c14232
+< galahad
+---
+> GALAHAD
+14234c14234
+< oh
+---
+> Oh
+14238c14238
+< robin
+---
+> ROBIN
+14240c14240
+< you
+---
+> You
+14242c14242
+< scot
+---
+> scots
+14245c14245
+< tim
+---
+> TIM
+14247c14247
+< i
+---
+> I
+14250c14250
+< warn
+---
+> warning
+14253c14253
+< robin
+---
+> ROBIN
+14255c14255
+< what
+---
+> What
+14261,14262c14261,14262
+< nibbl
+< yo
+---
+> nibble
+> your
+14265c14265
+< tim
+---
+> TIM
+14267c14267
+< he
+---
+> He
+14271c14271
+< hug
+---
+> huge
+14285c14285
+< bon
+---
+> bones
+14287c14287
+< arth
+---
+> ARTHUR
+14289c14289
+< go
+---
+> Go
+14292c14292
+< bor
+---
+> Bors
+14294c14294
+< chop
+---
+> Chop
+14299c14299
+< bor
+---
+> BORS
+14301c14301
+< right
+---
+> Right
+14303,14305c14303,14305
+< sil
+< littl
+< blee
+---
+> Silly
+> little
+> bleeder
+14307c14307
+< on
+---
+> One
+14315c14315
+< tim
+---
+> TIM
+14317c14317
+< look
+---
+> Look
+14322c14322
+< bor
+---
+> BORS
+14324c14324
+< aaaugh
+---
+> Aaaugh
+14327c14327
+< dram
+---
+> dramatic
+14333c14333
+< arth
+---
+> ARTHUR
+14335,14336c14335,14336
+< jes
+< christ
+---
+> Jesus
+> Christ
+14338c14338
+< tim
+---
+> TIM
+14340,14341c14340,14341
+< i
+< warn
+---
+> I
+> warned
+14344c14344
+< robin
+---
+> ROBIN
+14346,14347c14346,14347
+< i
+< don
+---
+> I
+> done
+14351c14351
+< tim
+---
+> TIM
+14353,14354c14353,14354
+< i
+< warn
+---
+> I
+> warned
+14360c14360
+< list
+---
+> listen
+14364c14364
+< oh
+---
+> Oh
+14371c14371
+< al
+---
+> all
+14378c14378
+< oh
+---
+> Oh
+14386c14386
+< littl
+---
+> little
+14394c14394
+< wel
+---
+> Well
+14399c14399
+< alway
+---
+> always
+14401c14401
+< sam
+---
+> same
+14403,14405c14403,14405
+< i
+< alway
+< tel
+---
+> I
+> always
+> tell
+14408c14408
+< arth
+---
+> ARTHUR
+14410c14410
+< oh
+---
+> Oh
+14415c14415
+< tim
+---
+> TIM
+14417c14417
+< do
+---
+> Do
+14419c14419
+< list
+---
+> listen
+14423c14423
+< arth
+---
+> ARTHUR
+14425c14425
+< right
+---
+> Right
+14427c14427
+< tim
+---
+> TIM
+14429c14429
+< oh
+---
+> Oh
+14433c14433
+< knight
+---
+> KNIGHTS
+14435c14435
+< charg
+---
+> Charge
+14442c14442
+< knight
+---
+> KNIGHTS
+14444c14444
+< aaaaugh
+---
+> Aaaaugh
+14446c14446
+< aaaugh
+---
+> Aaaugh
+14450c14450
+< arth
+---
+> ARTHUR
+14452c14452
+< run
+---
+> Run
+14455c14455
+< run
+---
+> Run
+14458c14458
+< knight
+---
+> KNIGHTS
+14460c14460
+< run
+---
+> Run
+14463c14463
+< run
+---
+> Run
+14467c14467
+< tim
+---
+> TIM
+14469c14469
+< ha
+---
+> Ha
+14474c14474
+< ha
+---
+> Ha
+14478c14478
+< ha
+---
+> Ha
+14480c14480
+< ha
+---
+> Ha
+14483c14483
+< arth
+---
+> ARTHUR
+14485c14485
+< right
+---
+> Right
+14487c14487
+< how
+---
+> How
+14491c14491
+< los
+---
+> lose
+14493c14493
+< launcelot
+---
+> LAUNCELOT
+14495c14495
+< gawain
+---
+> Gawain
+14497c14497
+< galahad
+---
+> GALAHAD
+14499c14499
+< ect
+---
+> Ector
+14501c14501
+< arth
+---
+> ARTHUR
+14503,14504c14503,14504
+< and
+< bor
+---
+> And
+> Bors
+14506c14506
+< that
+---
+> That
+14509c14509
+< fiv
+---
+> five
+14511c14511
+< galahad
+---
+> GALAHAD
+14513c14513
+< three
+---
+> Three
+14517c14517
+< arth
+---
+> ARTHUR
+14519c14519
+< three
+---
+> Three
+14521c14521
+< three
+---
+> Three
+14523c14523
+< and
+---
+> And
+14527c14527
+< bet
+---
+> better
+14530,14531c14530,14531
+< anoth
+< front
+---
+> another
+> frontal
+14534c14534
+< that
+---
+> That
+14538c14538
+< dynamit
+---
+> dynamite
+14540c14540
+< robin
+---
+> ROBIN
+14542c14542
+< would
+---
+> Would
+14546c14546
+< confus
+---
+> confuse
+14552c14552
+< mor
+---
+> more
+14554c14554
+< arth
+---
+> ARTHUR
+14556c14556
+< oh
+---
+> Oh
+14563,14565c14563,14565
+< chang
+< yo
+< arm
+---
+> change
+> your
+> armor
+14567c14567
+< galahad
+---
+> GALAHAD
+14569c14569
+< let
+---
+> Let
+14574c14574
+< it
+---
+> It
+14576c14576
+< becom
+---
+> become
+14581,14582c14581,14582
+< wil
+< mak
+---
+> will
+> make
+14584c14584
+< mistak
+---
+> mistake
+14586c14586
+< arth
+---
+> ARTHUR
+14588c14588
+< lik
+---
+> Like
+14591c14591
+< galahad
+---
+> GALAHAD
+14593c14593
+< wel
+---
+> Well
+14597c14597
+< launcelot
+---
+> LAUNCELOT
+14599c14599
+< hav
+---
+> Have
+14602c14602
+< bow
+---
+> bows
+14604c14604
+< arth
+---
+> ARTHUR
+14606c14606
+< no
+---
+> No
+14608c14608
+< launcelot
+---
+> LAUNCELOT
+14610,14611c14610,14611
+< we
+< hav
+---
+> We
+> have
+14613,14615c14613,14615
+< holy
+< hand
+< grenad
+---
+> Holy
+> Hand
+> Grenade
+14617c14617
+< arth
+---
+> ARTHUR
+14619c14619
+< ye
+---
+> Yes
+14622c14622
+< cours
+---
+> course
+14624,14627c14624,14627
+< the
+< holy
+< hand
+< grenad
+---
+> The
+> Holy
+> Hand
+> Grenade
+14629c14629
+< antioch
+---
+> Antioch
+14632,14633c14632,14633
+< tis
+< on
+---
+> Tis
+> one
+14636,14640c14636,14640
+< sacr
+< rel
+< broth
+< maynard
+< carry
+---
+> sacred
+> relics
+> Brother
+> Maynard
+> carries
+14644,14645c14644,14645
+< broth
+< maynard
+---
+> Brother
+> Maynard
+14647c14647
+< bring
+---
+> Bring
+14650,14652c14650,14652
+< holy
+< hand
+< grenad
+---
+> Holy
+> Hand
+> Grenade
+14654c14654
+< monk
+---
+> MONKS
+14657c14657
+< chant
+---
+> chanting
+14659,14661c14659,14661
+< pie
+< iesu
+< domin
+---
+> Pie
+> Iesu
+> domine
+14663,14664c14663,14664
+< don
+< ei
+---
+> dona
+> eis
+14667,14669c14667,14669
+< pie
+< iesu
+< domin
+---
+> Pie
+> Iesu
+> domine
+14671c14671
+< dona
+---
+> donaeis
+14674,14676c14674,14676
+< pie
+< iesu
+< domin
+---
+> Pie
+> Iesu
+> domine
+14678,14679c14678,14679
+< don
+< ei
+---
+> dona
+> eis
+14682,14684c14682,14684
+< pie
+< iesu
+< domin
+---
+> Pie
+> Iesu
+> domine
+14686c14686
+< don
+---
+> dona
+14689c14689
+< arth
+---
+> ARTHUR
+14691,14692c14691,14692
+< how
+< doe
+---
+> How
+> does
+14698c14698
+< doe
+---
+> does
+14702c14702
+< launcelot
+---
+> LAUNCELOT
+14704c14704
+< i
+---
+> I
+14709c14709
+< lieg
+---
+> liege
+14711c14711
+< arth
+---
+> ARTHUR
+14713c14713
+< consult
+---
+> Consult
+14715c14715
+< book
+---
+> Book
+14717c14717
+< arma
+---
+> Armaments
+14719,14720c14719,14720
+< broth
+< maynard
+---
+> BROTHER
+> MAYNARD
+14722c14722
+< arma
+---
+> Armaments
+14724,14725c14724,14725
+< chapt
+< two
+---
+> Chapter
+> Two
+14727,14728c14727,14728
+< vers
+< nin
+---
+> verses
+> Nine
+14730c14730
+< twenty
+---
+> Twenty
+14732c14732
+< on
+---
+> one
+14734,14735c14734,14735
+< second
+< broth
+---
+> SECOND
+> BROTHER
+14737,14740c14737,14740
+< and
+< saint
+< attil
+< rais
+---
+> And
+> Saint
+> Attila
+> raised
+14743c14743
+< grenad
+---
+> grenade
+14748c14748
+< say
+---
+> saying
+14750,14751c14750,14751
+< o
+< lord
+---
+> O
+> Lord
+14754c14754
+< thi
+---
+> this
+14757c14757
+< grenad
+---
+> grenade
+14764,14765c14764,14765
+< thin
+< enemy
+---
+> thine
+> enemies
+14768c14768
+< bit
+---
+> bits
+14774c14774
+< and
+---
+> And
+14776c14776
+< lord
+---
+> Lord
+14782c14782
+< peopl
+---
+> people
+14787c14787
+< lamb
+---
+> lambs
+14789c14789
+< sloth
+---
+> sloths
+14793c14793
+< anchovy
+---
+> anchovies
+14795c14795
+< orangut
+---
+> orangutans
+14798c14798
+< cer
+---
+> cereals
+14801c14801
+< bat
+---
+> bats
+14803c14803
+< larg
+---
+> large
+14806c14806
+< maynard
+---
+> MAYNARD
+14808c14808
+< skip
+---
+> Skip
+14812c14812
+< broth
+---
+> Brother
+14814,14815c14814,14815
+< second
+< broth
+---
+> SECOND
+> BROTHER
+14817c14817
+< and
+---
+> And
+14819,14820c14819,14820
+< lord
+< spak
+---
+> Lord
+> spake
+14822c14822
+< say
+---
+> saying
+14825c14825
+< first
+---
+> First
+14828c14828
+< tak
+---
+> take
+14831,14832c14831,14832
+< holy
+< pin
+---
+> Holy
+> Pin
+14834c14834
+< then
+---
+> Then
+14843c14843
+< mor
+---
+> more
+14848c14848
+< three
+---
+> Three
+14852c14852
+< numb
+---
+> number
+14859c14859
+< numb
+---
+> number
+14862,14863c14862,14863
+< count
+< shal
+---
+> counting
+> shall
+14867c14867
+< four
+---
+> Four
+14874c14874
+< eith
+---
+> either
+14879c14879
+< exceiv
+---
+> excepting
+14883c14883
+< process
+---
+> proceed
+14887c14887
+< fiv
+---
+> Five
+14892c14892
+< ont
+---
+> Once
+14894c14894
+< numb
+---
+> number
+14900c14900
+< numb
+---
+> number
+14903c14903
+< reach
+---
+> reached
+14909,14911c14909,14911
+< holy
+< hand
+< grenad
+---
+> Holy
+> Hand
+> Grenade
+14913,14914c14913,14914
+< antioch
+< toward
+---
+> Antioch
+> towards
+14926c14926
+< shal
+---
+> shall
+14930c14930
+< maynard
+---
+> MAYNARD
+14932c14932
+< am
+---
+> Amen
+14934c14934
+< knight
+---
+> KNIGHTS
+14936c14936
+< am
+---
+> Amen
+14938c14938
+< arth
+---
+> ARTHUR
+14940c14940
+< right
+---
+> Right
+14942c14942
+< on
+---
+> One
+14946c14946
+< fiv
+---
+> five
+14948c14948
+< galahad
+---
+> GALAHAD
+14950c14950
+< three
+---
+> Three
+14954c14954
+< arth
+---
+> ARTHUR
+14956c14956
+< three
+---
+> Three
+14959c14959
+< angel
+---
+> angels
+14965c14965
+< scen
+---
+> SCENE
+14968c14968
+< arth
+---
+> ARTHUR
+14970c14970
+< ther
+---
+> There
+14972c14972
+< look
+---
+> Look
+14974c14974
+< launcelot
+---
+> LAUNCELOT
+14976,14977c14976,14977
+< what
+< doe
+---
+> What
+> does
+14981c14981
+< galahad
+---
+> GALAHAD
+14983,14984c14983,14984
+< what
+< langu
+---
+> What
+> language
+14988c14988
+< arth
+---
+> ARTHUR
+14990,14991c14990,14991
+< broth
+< maynard
+---
+> Brother
+> Maynard
+14993,14994c14993,14994
+< you
+< ar
+---
+> You
+> are
+14998c14998
+< maynard
+---
+> MAYNARD
+15000c15000
+< it
+---
+> It
+15003c15003
+< arama
+---
+> Aramaic
+15005c15005
+< galahad
+---
+> GALAHAD
+15007,15008c15007,15008
+< of
+< cours
+---
+> Of
+> course
+15010c15010
+< joseph
+---
+> Joseph
+15012c15012
+< arimathe
+---
+> Arimathea
+15014c15014
+< launcelot
+---
+> LAUNCELOT
+15017c15017
+< cours
+---
+> Course
+15019c15019
+< arth
+---
+> ARTHUR
+15021,15022c15021,15022
+< what
+< doe
+---
+> What
+> does
+15026c15026
+< maynard
+---
+> MAYNARD
+15028,15029c15028,15029
+< it
+< read
+---
+> It
+> reads
+15032c15032
+< her
+---
+> Here
+15038c15038
+< word
+---
+> words
+15040c15040
+< joseph
+---
+> Joseph
+15042c15042
+< arimathe
+---
+> Arimathea
+15044c15044
+< he
+---
+> He
+15047c15047
+< valy
+---
+> valiant
+15049c15049
+< pur
+---
+> pure
+15055,15056c15055,15056
+< holy
+< grail
+---
+> Holy
+> Grail
+15059c15059
+< castl
+---
+> Castle
+15063c15063
+< arth
+---
+> ARTHUR
+15065c15065
+< what
+---
+> What
+15067c15067
+< maynard
+---
+> MAYNARD
+15071c15071
+< castl
+---
+> Castle
+15075c15075
+< bedev
+---
+> BEDEVERE
+15077c15077
+< what
+---
+> What
+15081c15081
+< maynard
+---
+> MAYNARD
+15083c15083
+< he
+---
+> He
+15085c15085
+< hav
+---
+> have
+15087,15088c15087,15088
+< whil
+< carv
+---
+> while
+> carving
+15091c15091
+< launcelot
+---
+> LAUNCELOT
+15093c15093
+< oh
+---
+> Oh
+15095c15095
+< com
+---
+> come
+15098c15098
+< maynard
+---
+> MAYNARD
+15100c15100
+< wel
+---
+> Well
+15107c15107
+< say
+---
+> says
+15109c15109
+< arth
+---
+> ARTHUR
+15111c15111
+< look
+---
+> Look
+15122c15122
+< both
+---
+> bother
+15124c15124
+< carv
+---
+> carve
+15128c15128
+< he
+---
+> He
+15135c15135
+< maynard
+---
+> MAYNARD
+15137c15137
+< wel
+---
+> Well
+15145c15145
+< carv
+---
+> carved
+15150c15150
+< galahad
+---
+> GALAHAD
+15152c15152
+< perhap
+---
+> Perhaps
+15155c15155
+< dict
+---
+> dictating
+15157c15157
+< arth
+---
+> ARTHUR
+15159c15159
+< oh
+---
+> Oh
+15164c15164
+< wel
+---
+> Well
+15166c15166
+< doe
+---
+> does
+15169,15170c15169,15170
+< anyth
+< els
+---
+> anything
+> else
+15172c15172
+< maynard
+---
+> MAYNARD
+15174c15174
+< no
+---
+> No
+15176c15176
+< just
+---
+> Just
+15181c15181
+< launcelot
+---
+> LAUNCELOT
+15183c15183
+< aauuggghhh
+---
+> Aauuggghhh
+15185c15185
+< arth
+---
+> ARTHUR
+15187c15187
+< aaauggh
+---
+> Aaauggh
+15189c15189
+< bedev
+---
+> BEDEVERE
+15191c15191
+< do
+---
+> Do
+15193c15193
+< suppos
+---
+> suppose
+15197c15197
+< camaaaaaargu
+---
+> Camaaaaaargue
+15199c15199
+< galahad
+---
+> GALAHAD
+15201c15201
+< wher
+---
+> Where
+15206c15206
+< bedev
+---
+> BEDEVERE
+15208c15208
+< frant
+---
+> France
+15210c15210
+< i
+---
+> I
+15213c15213
+< launcelot
+---
+> LAUNCELOT
+15215c15215
+< isn
+---
+> Isn
+15218c15218
+< ther
+---
+> there
+15220,15221c15220,15221
+< saint
+< aauuuv
+---
+> Saint
+> Aauuuves
+15223c15223
+< cornwal
+---
+> Cornwall
+15225c15225
+< arth
+---
+> ARTHUR
+15227c15227
+< no
+---
+> No
+15232,15233c15232,15233
+< saint
+< iv
+---
+> Saint
+> Ives
+15235c15235
+< launcelot
+---
+> LAUNCELOT
+15237c15237
+< oh
+---
+> Oh
+15239c15239
+< ye
+---
+> yes
+15241,15242c15241,15242
+< saint
+< iiy
+---
+> Saint
+> Iiiives
+15244c15244
+< knight
+---
+> KNIGHTS
+15246c15246
+< iiiy
+---
+> Iiiiives
+15248c15248
+< bedev
+---
+> BEDEVERE
+15250c15250
+< oooohoohohooo
+---
+> Oooohoohohooo
+15252c15252
+< launcelot
+---
+> LAUNCELOT
+15254c15254
+< no
+---
+> No
+15259c15259
+< aauuuuugh
+---
+> Aauuuuugh
+15268c15268
+< aauuugh
+---
+> Aauuugh
+15270c15270
+< bedev
+---
+> BEDEVERE
+15272c15272
+< n
+---
+> N
+15276c15276
+< no
+---
+> No
+15285c15285
+< oooooooh
+---
+> Oooooooh
+15288c15288
+< surpr
+---
+> surprise
+15292c15292
+< launcelot
+---
+> LAUNCELOT
+15294c15294
+< oh
+---
+> Oh
+15304c15304
+< bedev
+---
+> BEDEVERE
+15306c15306
+< ye
+---
+> Yes
+15309c15309
+< i
+---
+> I
+15313c15313
+< arth
+---
+> ARTHUR
+15315c15315
+< oooh
+---
+> Oooh
+15317c15317
+< galahad
+---
+> GALAHAD
+15319,15320c15319,15320
+< my
+< god
+---
+> My
+> God
+15323c15323
+< dram
+---
+> dramatic
+15329c15329
+< maynard
+---
+> MAYNARD
+15331c15331
+< it
+---
+> It
+15335,15337c15335,15337
+< legend
+< black
+< beast
+---
+> legendary
+> Black
+> Beast
+15339c15339
+< aaauugh
+---
+> Aaauugh
+15342,15343c15342,15343
+< black
+< beast
+---
+> Black
+> Beast
+15345,15348c15345,15348
+< aaauugh
+< eat
+< broth
+< maynard
+---
+> Aaauugh
+> eats
+> BROTHER
+> MAYNARD
+15350c15350
+< bedev
+---
+> BEDEVERE
+15352c15352
+< that
+---
+> That
+15357c15357
+< that
+---
+> That
+15362c15362
+< arth
+---
+> ARTHUR
+15364c15364
+< run
+---
+> Run
+15367c15367
+< knight
+---
+> KNIGHTS
+15369c15369
+< run
+---
+> Run
+15375c15375
+< run
+---
+> Run
+15378c15378
+< run
+---
+> Run
+15381c15381
+< run
+---
+> Run
+15387,15388c15387,15388
+< keep
+< run
+---
+> Keep
+> running
+15396c15396
+< shh
+---
+> Shh
+15398c15398
+< shh
+---
+> Shh
+15400c15400
+< shh
+---
+> Shh
+15402c15402
+< shh
+---
+> Shh
+15404c15404
+< shh
+---
+> Shh
+15406c15406
+< shh
+---
+> Shh
+15408c15408
+< shh
+---
+> Shh
+15410c15410
+< shh
+---
+> Shh
+15413c15413
+< bedev
+---
+> BEDEVERE
+15415c15415
+< we
+---
+> We
+15424c15424
+< knight
+---
+> KNIGHTS
+15426c15426
+< aagh
+---
+> Aagh
+15428c15428
+< nar
+---
+> NARRATOR
+15430c15430
+< as
+---
+> As
+15432,15435c15432,15435
+< horrend
+< black
+< beast
+< lung
+---
+> horrendous
+> Black
+> Beast
+> lunged
+15438c15438
+< escap
+---
+> escape
+15440c15440
+< arth
+---
+> Arthur
+15443,15444c15443,15444
+< knight
+< seem
+---
+> knights
+> seemed
+15448c15448
+< sud
+---
+> suddenly
+15451,15452c15451,15452
+< anim
+< suff
+---
+> animator
+> suffered
+15454c15454
+< fat
+---
+> fatal
+15458c15458
+< anim
+---
+> ANIMATOR
+15460c15460
+< ulk
+---
+> Ulk
+15465c15465
+< nar
+---
+> NARRATOR
+15467c15467
+< the
+---
+> The
+15472c15472
+< mor
+---
+> more
+15474c15474
+< the
+---
+> The
+15477,15478c15477,15478
+< holy
+< grail
+---
+> Holy
+> Grail
+15480c15480
+< continu
+---
+> continue
+15482c15482
+< scen
+---
+> SCENE
+15486c15486
+< gurgl
+---
+> gurgle
+15488c15488
+< galahad
+---
+> GALAHAD
+15490c15490
+< ther
+---
+> There
+15494c15494
+< arth
+---
+> ARTHUR
+15496,15497c15496,15497
+< the
+< bridg
+---
+> The
+> Bridge
+15499c15499
+< dea
+---
+> Death
+15501c15501
+< robin
+---
+> ROBIN
+15503c15503
+< oh
+---
+> Oh
+15505c15505
+< gre
+---
+> great
+15507c15507
+< arth
+---
+> ARTHUR
+15509c15509
+< look
+---
+> Look
+15511c15511
+< ther
+---
+> There
+15518c15518
+< scen
+---
+> scene
+15523c15523
+< bedev
+---
+> BEDEVERE
+15525c15525
+< what
+---
+> What
+15529c15529
+< her
+---
+> here
+15531c15531
+< arth
+---
+> ARTHUR
+15533c15533
+< he
+---
+> He
+15536c15536
+< keep
+---
+> keeper
+15539c15539
+< bridg
+---
+> Bridge
+15541c15541
+< dea
+---
+> Death
+15543,15544c15543,15544
+< he
+< ask
+---
+> He
+> asks
+15546,15548c15546,15548
+< travel
+< fiv
+< quest
+---
+> traveller
+> five
+> questions
+15550c15550
+< galahad
+---
+> GALAHAD
+15552,15553c15552,15553
+< three
+< quest
+---
+> Three
+> questions
+15555c15555
+< arth
+---
+> ARTHUR
+15557,15558c15557,15558
+< three
+< quest
+---
+> Three
+> questions
+15560c15560
+< he
+---
+> He
+15562c15562
+< answ
+---
+> answers
+15564,15565c15564,15565
+< fiv
+< quest
+---
+> five
+> questions
+15567c15567
+< galahad
+---
+> GALAHAD
+15569,15570c15569,15570
+< three
+< quest
+---
+> Three
+> questions
+15572c15572
+< arth
+---
+> ARTHUR
+15574,15575c15574,15575
+< three
+< quest
+---
+> Three
+> questions
+15579c15579
+< saf
+---
+> safety
+15581c15581
+< robin
+---
+> ROBIN
+15583c15583
+< what
+---
+> What
+15588c15588
+< quest
+---
+> question
+15591c15591
+< arth
+---
+> ARTHUR
+15593c15593
+< then
+---
+> Then
+15595c15595
+< ar
+---
+> are
+15599c15599
+< gorg
+---
+> Gorge
+15601,15602c15601,15602
+< etern
+< peril
+---
+> Eternal
+> Peril
+15604c15604
+< robin
+---
+> ROBIN
+15606c15606
+< oh
+---
+> Oh
+15608c15608
+< i
+---
+> I
+15614c15614
+< galahad
+---
+> GALAHAD
+15616c15616
+< who
+---
+> Who
+15621c15621
+< answ
+---
+> answer
+15623c15623
+< quest
+---
+> questions
+15625c15625
+< arth
+---
+> ARTHUR
+15627,15628c15627,15628
+< sir
+< robin
+---
+> Sir
+> Robin
+15630c15630
+< robin
+---
+> ROBIN
+15632c15632
+< ye
+---
+> Yes
+15634c15634
+< arth
+---
+> ARTHUR
+15636,15638c15636,15638
+< brav
+< sir
+< robin
+---
+> Brave
+> Sir
+> Robin
+15643c15643
+< robin
+---
+> ROBIN
+15645c15645
+< hey
+---
+> Hey
+15647c15647
+< i
+---
+> I
+15652,15653c15652,15653
+< gre
+< ide
+---
+> great
+> idea
+15655c15655
+< why
+---
+> Why
+15659c15659
+< launcelot
+---
+> Launcelot
+15662c15662
+< launcelot
+---
+> LAUNCELOT
+15664c15664
+< ye
+---
+> Yes
+15666c15666
+< let
+---
+> Let
+15671c15671
+< lieg
+---
+> liege
+15673,15675c15673,15675
+< i
+< wil
+< tak
+---
+> I
+> will
+> take
+15677c15677
+< singl
+---
+> single
+15679c15679
+< hand
+---
+> handed
+15681,15683c15681,15683
+< i
+< shal
+< mak
+---
+> I
+> shall
+> make
+15688c15688
+< nor
+---
+> north
+15694c15694
+< arth
+---
+> ARTHUR
+15696c15696
+< no
+---
+> No
+15700c15700
+< no
+---
+> No
+15702c15702
+< hang
+---
+> Hang
+15705c15705
+< hang
+---
+> Hang
+15708c15708
+< hang
+---
+> Hang
+15711,15712c15711,15712
+< just
+< answ
+---
+> Just
+> answer
+15714,15715c15714,15715
+< fiv
+< quest
+---
+> five
+> questions
+15717c15717
+< galahad
+---
+> GALAHAD
+15719,15720c15719,15720
+< three
+< quest
+---
+> Three
+> questions
+15722c15722
+< arth
+---
+> ARTHUR
+15724,15725c15724,15725
+< three
+< quest
+---
+> Three
+> questions
+15731c15731
+< and
+---
+> And
+15733c15733
+< shal
+---
+> shall
+15739c15739
+< launcelot
+---
+> LAUNCELOT
+15741c15741
+< i
+---
+> I
+15745c15745
+< lieg
+---
+> liege
+15747c15747
+< arth
+---
+> ARTHUR
+15749c15749
+< good
+---
+> Good
+15752,15754c15752,15754
+< brav
+< sir
+< launcelot
+---
+> brave
+> Sir
+> Launcelot
+15756c15756
+< god
+---
+> God
+15761c15761
+< bridgekeep
+---
+> BRIDGEKEEPER
+15763c15763
+< stop
+---
+> Stop
+15765c15765
+< who
+---
+> Who
+15769c15769
+< bridg
+---
+> Bridge
+15771c15771
+< dea
+---
+> Death
+15773c15773
+< answ
+---
+> answer
+15775,15776c15775,15776
+< thes
+< quest
+---
+> these
+> questions
+15779c15779
+< er
+---
+> ere
+15781,15782c15781,15782
+< oth
+< sid
+---
+> other
+> side
+15786c15786
+< launcelot
+---
+> LAUNCELOT
+15788c15788
+< ask
+---
+> Ask
+15791c15791
+< quest
+---
+> questions
+15793c15793
+< bridgekeep
+---
+> bridgekeeper
+15795c15795
+< i
+---
+> I
+15800c15800
+< bridgekeep
+---
+> BRIDGEKEEPER
+15802c15802
+< what
+---
+> What
+15804,15805c15804,15805
+< yo
+< nam
+---
+> your
+> name
+15807c15807
+< launcelot
+---
+> LAUNCELOT
+15809,15810c15809,15810
+< my
+< nam
+---
+> My
+> name
+15812,15813c15812,15813
+< sir
+< launcelot
+---
+> Sir
+> Launcelot
+15815c15815
+< camelot
+---
+> Camelot
+15817c15817
+< bridgekeep
+---
+> BRIDGEKEEPER
+15819c15819
+< what
+---
+> What
+15821c15821
+< yo
+---
+> your
+15824c15824
+< launcelot
+---
+> LAUNCELOT
+15826c15826
+< to
+---
+> To
+15829,15830c15829,15830
+< holy
+< grail
+---
+> Holy
+> Grail
+15832c15832
+< bridgekeep
+---
+> BRIDGEKEEPER
+15834c15834
+< what
+---
+> What
+15836,15838c15836,15838
+< yo
+< favorit
+< col
+---
+> your
+> favorite
+> color
+15840c15840
+< launcelot
+---
+> LAUNCELOT
+15842c15842
+< blu
+---
+> Blue
+15844c15844
+< bridgekeep
+---
+> BRIDGEKEEPER
+15846c15846
+< right
+---
+> Right
+15848c15848
+< off
+---
+> Off
+15852c15852
+< launcelot
+---
+> LAUNCELOT
+15854c15854
+< oh
+---
+> Oh
+15859c15859
+< thank
+---
+> Thank
+15864c15864
+< robin
+---
+> ROBIN
+15866c15866
+< that
+---
+> That
+15871c15871
+< bridgekeep
+---
+> BRIDGEKEEPER
+15873c15873
+< stop
+---
+> Stop
+15875,15876c15875,15876
+< who
+< approache
+---
+> Who
+> approacheth
+15878c15878
+< bridg
+---
+> Bridge
+15880c15880
+< dea
+---
+> Death
+15882c15882
+< answ
+---
+> answer
+15884,15885c15884,15885
+< thes
+< quest
+---
+> these
+> questions
+15888c15888
+< er
+---
+> ere
+15890,15891c15890,15891
+< oth
+< sid
+---
+> other
+> side
+15895c15895
+< robin
+---
+> ROBIN
+15897c15897
+< ask
+---
+> Ask
+15900c15900
+< quest
+---
+> questions
+15902c15902
+< bridgekeep
+---
+> bridgekeeper
+15904c15904
+< i
+---
+> I
+15910c15910
+< bridgekeep
+---
+> BRIDGEKEEPER
+15912c15912
+< what
+---
+> What
+15914,15915c15914,15915
+< yo
+< nam
+---
+> your
+> name
+15917c15917
+< robin
+---
+> ROBIN
+15919,15920c15919,15920
+< sir
+< robin
+---
+> Sir
+> Robin
+15922c15922
+< camelot
+---
+> Camelot
+15924c15924
+< bridgekeep
+---
+> BRIDGEKEEPER
+15926c15926
+< what
+---
+> What
+15928c15928
+< yo
+---
+> your
+15931c15931
+< robin
+---
+> ROBIN
+15933c15933
+< to
+---
+> To
+15936,15937c15936,15937
+< holy
+< grail
+---
+> Holy
+> Grail
+15939c15939
+< bridgekeep
+---
+> BRIDGEKEEPER
+15941c15941
+< what
+---
+> What
+15944c15944
+< capit
+---
+> capital
+15946c15946
+< assyr
+---
+> Assyria
+15948c15948
+< robin
+---
+> ROBIN
+15950c15950
+< i
+---
+> I
+15957c15957
+< auuuuuuuugh
+---
+> Auuuuuuuugh
+15959c15959
+< bridgekeep
+---
+> BRIDGEKEEPER
+15961c15961
+< stop
+---
+> Stop
+15963c15963
+< what
+---
+> What
+15965,15966c15965,15966
+< yo
+< nam
+---
+> your
+> name
+15968c15968
+< galahad
+---
+> GALAHAD
+15970,15971c15970,15971
+< sir
+< galahad
+---
+> Sir
+> Galahad
+15973c15973
+< camelot
+---
+> Camelot
+15975c15975
+< bridgekeep
+---
+> BRIDGEKEEPER
+15977c15977
+< what
+---
+> What
+15979c15979
+< yo
+---
+> your
+15982c15982
+< galahad
+---
+> GALAHAD
+15984c15984
+< i
+---
+> I
+15987c15987
+< grail
+---
+> Grail
+15989c15989
+< bridgekeep
+---
+> BRIDGEKEEPER
+15991c15991
+< what
+---
+> What
+15993,15995c15993,15995
+< yo
+< favorit
+< col
+---
+> your
+> favorite
+> color
+15997c15997
+< galahad
+---
+> GALAHAD
+15999c15999
+< blu
+---
+> Blue
+16001c16001
+< no
+---
+> No
+16006c16006
+< bridgekeep
+---
+> BRIDGEKEEPER
+16008c16008
+< hee
+---
+> Hee
+16012c16012
+< stop
+---
+> Stop
+16014c16014
+< what
+---
+> What
+16016,16017c16016,16017
+< yo
+< nam
+---
+> your
+> name
+16019c16019
+< arth
+---
+> ARTHUR
+16021c16021
+< it
+---
+> It
+16023c16023
+< arth
+---
+> Arthur
+16025c16025
+< king
+---
+> King
+16028c16028
+< briton
+---
+> Britons
+16030c16030
+< bridgekeep
+---
+> BRIDGEKEEPER
+16032c16032
+< what
+---
+> What
+16034c16034
+< yo
+---
+> your
+16037c16037
+< arth
+---
+> ARTHUR
+16039c16039
+< to
+---
+> To
+16042,16043c16042,16043
+< holy
+< grail
+---
+> Holy
+> Grail
+16045c16045
+< bridgekeep
+---
+> BRIDGEKEEPER
+16047c16047
+< what
+---
+> What
+16052,16053c16052,16053
+< spee
+< veloc
+---
+> speed
+> velocity
+16056c16056
+< unlad
+---
+> unladen
+16059c16059
+< arth
+---
+> ARTHUR
+16061c16061
+< what
+---
+> What
+16066,16067c16066,16067
+< an
+< afr
+---
+> An
+> African
+16069c16069
+< europ
+---
+> European
+16072c16072
+< bridgekeep
+---
+> BRIDGEKEEPER
+16074c16074
+< huh
+---
+> Huh
+16076c16076
+< i
+---
+> I
+16078c16078
+< i
+---
+> I
+16085c16085
+< auuuuuuuugh
+---
+> Auuuuuuuugh
+16087c16087
+< bedev
+---
+> BEDEVERE
+16089c16089
+< how
+---
+> How
+16095c16095
+< swallow
+---
+> swallows
+16097c16097
+< arth
+---
+> ARTHUR
+16099c16099
+< wel
+---
+> Well
+16102c16102
+< hav
+---
+> have
+16105,16106c16105,16106
+< thes
+< thing
+---
+> these
+> things
+16118,16119c16118,16119
+< suspens
+< mus
+---
+> suspenseful
+> music
+16122,16124c16122,16124
+< mus
+< sud
+< stop
+---
+> music
+> suddenly
+> stops
+16127c16127
+< intermit
+---
+> intermission
+16130,16132c16130,16132
+< suspens
+< mus
+< resum
+---
+> suspenseful
+> music
+> resumes
+16134c16134
+< scen
+---
+> SCENE
+16137c16137
+< arth
+---
+> ARTHUR
+16139c16139
+< launcelot
+---
+> Launcelot
+16141c16141
+< launcelot
+---
+> Launcelot
+16143c16143
+< launcelot
+---
+> Launcelot
+16145c16145
+< bedev
+---
+> BEDEVERE
+16147c16147
+< launcelot
+---
+> Launcelot
+16149c16149
+< launcelot
+---
+> Launcelot
+16151c16151
+< arth
+---
+> ARTHUR
+16153c16153
+< launcelot
+---
+> Launcelot
+16156c16156
+< pol
+---
+> police
+16159c16159
+< launcelot
+---
+> Launcelot
+16161c16161
+< bedev
+---
+> BEDEVERE
+16163c16163
+< launcelot
+---
+> Launcelot
+16165c16165
+< launcelot
+---
+> Launcelot
+16168c16168
+< angel
+---
+> angels
+16172,16173c16172,16173
+< sing
+< stop
+---
+> singing
+> stops
+16176,16177c16176,16177
+< eth
+< mus
+---
+> ethereal
+> music
+16179c16179
+< arth
+---
+> ARTHUR
+16181,16183c16181,16183
+< the
+< castl
+< aaagh
+---
+> The
+> Castle
+> Aaagh
+16185c16185
+< our
+---
+> Our
+16192c16192
+< god
+---
+> God
+16194c16194
+< pra
+---
+> praised
+16196,16197c16196,16197
+< almighty
+< god
+---
+> Almighty
+> God
+16201c16201
+< the
+---
+> Thee
+16203c16203
+< thou
+---
+> Thou
+16205c16205
+< vouchsaf
+---
+> vouchsafed
+16216c16216
+< baaa
+---
+> baaaa
+16218,16219c16218,16219
+< jes
+< christ
+---
+> Jesus
+> Christ
+16224,16225c16224,16225
+< french
+< guard
+---
+> FRENCH
+> GUARD
+16227c16227
+< allo
+---
+> Allo
+16230c16230
+< engl
+---
+> English
+16233c16233
+< nigget
+---
+> niggets
+16235,16237c16235,16237
+< monsy
+< arth
+< king
+---
+> Monsieur
+> Arthur
+> King
+16250c16250
+< so
+---
+> So
+16253,16254c16253,16254
+< french
+< fellow
+---
+> French
+> fellows
+16259c16259
+< tim
+---
+> time
+16261c16261
+< arth
+---
+> ARTHUR
+16263,16264c16263,16264
+< how
+< dar
+---
+> How
+> dare
+16266,16268c16266,16268
+< prof
+< thi
+< plac
+---
+> profane
+> this
+> place
+16270,16271c16270,16271
+< yo
+< pres
+---
+> your
+> presence
+16273c16273
+< i
+---
+> I
+16279c16279
+< nam
+---
+> name
+16282c16282
+< knight
+---
+> Knights
+16284c16284
+< camelot
+---
+> Camelot
+16287c16287
+< op
+---
+> open
+16289c16289
+< door
+---
+> doors
+16291,16293c16291,16293
+< thi
+< sacr
+< castl
+---
+> this
+> sacred
+> castle
+16297,16298c16297,16298
+< god
+< himself
+---
+> God
+> Himself
+16300c16300
+< guid
+---
+> guided
+16303,16304c16303,16304
+< french
+< guard
+---
+> FRENCH
+> GUARD
+16306c16306
+< how
+---
+> How
+16308c16308
+< engl
+---
+> English
+16312,16315c16312,16315
+< i
+< on
+< mor
+< tim
+---
+> I
+> one
+> more
+> time
+16321c16321
+< nos
+---
+> nose
+16323,16324c16323,16324
+< yo
+< direct
+---
+> your
+> direction
+16326c16326
+< son
+---
+> sons
+16331c16331
+< dress
+---
+> dresser
+16333c16333
+< so
+---
+> So
+16341c16341
+< clev
+---
+> clever
+16343c16343
+< french
+---
+> French
+16346,16348c16346,16348
+< yo
+< sil
+< kne
+---
+> your
+> silly
+> knees
+16351c16351
+< run
+---
+> running
+16353,16354c16353,16354
+< adv
+< behavio
+---
+> advancing
+> behaviour
+16356,16357c16356,16357
+< i
+< wav
+---
+> I
+> wave
+16359,16360c16359,16360
+< priv
+< part
+---
+> private
+> parts
+16362,16363c16362,16363
+< yo
+< aunty
+---
+> your
+> aunties
+16371c16371
+< elect
+---
+> electric
+16375c16375
+< bit
+---
+> biters
+16377c16377
+< arth
+---
+> ARTHUR
+16379c16379
+< in
+---
+> In
+16381c16381
+< nam
+---
+> name
+16384c16384
+< lord
+---
+> Lord
+16388c16388
+< ent
+---
+> entrance
+16390,16392c16390,16392
+< thi
+< sacr
+< castl
+---
+> this
+> sacred
+> castle
+16394,16395c16394,16395
+< french
+< guard
+---
+> FRENCH
+> GUARD
+16397,16398c16397,16398
+< no
+< chant
+---
+> No
+> chance
+16400c16400
+< engl
+---
+> English
+16403,16404c16403,16404
+< wet
+< typ
+---
+> wetting
+> types
+16406c16406
+< i
+---
+> I
+16409c16409
+< pimpl
+---
+> pimples
+16413,16414c16413,16414
+< cal
+< yo
+---
+> call
+> your
+16417c16417
+< op
+---
+> opening
+16420c16420
+< sil
+---
+> silly
+16426,16427c16426,16427
+< brain
+< wip
+---
+> brained
+> wipers
+16429,16430c16429,16430
+< oth
+< peopl
+---
+> other
+> people
+16433c16433
+< bottom
+---
+> bottoms
+16435c16435
+< arth
+---
+> ARTHUR
+16437c16437
+< if
+---
+> If
+16441,16442c16441,16442
+< op
+< thi
+---
+> open
+> this
+16446,16449c16446,16449
+< shal
+< tak
+< thi
+< castl
+---
+> shall
+> take
+> this
+> castle
+16451c16451
+< forc
+---
+> force
+16456c16456
+< in
+---
+> In
+16458c16458
+< nam
+---
+> name
+16460c16460
+< god
+---
+> God
+16470,16471c16470,16471
+< french
+< guard
+---
+> FRENCH
+> GUARDS
+16474c16474
+< laugh
+---
+> laughing
+16476c16476
+< arth
+---
+> ARTHUR
+16478c16478
+< agh
+---
+> Agh
+16480c16480
+< right
+---
+> Right
+16482,16483c16482,16483
+< that
+< settl
+---
+> That
+> settles
+16486,16487c16486,16487
+< french
+< guard
+---
+> FRENCH
+> GUARD
+16489c16489
+< ye
+---
+> Yes
+16495,16496c16495,16496
+< thi
+< tim
+---
+> this
+> time
+16501c16501
+< approach
+---
+> approaching
+16503c16503
+< mor
+---
+> more
+16506,16507c16506,16507
+< fir
+< arrow
+---
+> fire
+> arrows
+16510c16510
+< top
+---
+> tops
+16512,16513c16512,16513
+< yo
+< head
+---
+> your
+> heads
+16515,16516c16515,16516
+< mak
+< castanet
+---
+> make
+> castanets
+16519,16520c16519,16520
+< yo
+< testic
+---
+> your
+> testicles
+16522a16523
+> Ha
+16524,16525c16525
+< ha
+< haa
+---
+> haaa
+16528c16528
+< arth
+---
+> ARTHUR
+16530c16530
+< walk
+---
+> Walk
+16533,16534c16533,16534
+< just
+< ign
+---
+> Just
+> ignore
+16537,16538c16537,16538
+< french
+< guard
+---
+> FRENCH
+> GUARD
+16540c16540
+< and
+---
+> And
+16544c16544
+< gon
+---
+> gone
+16546c16546
+< illegitim
+---
+> illegitimate
+16548,16549c16548,16549
+< fac
+< bug
+---
+> faced
+> bugger
+16553c16553
+< and
+---
+> And
+16562,16564c16562,16564
+< taunt
+< thi
+< tim
+---
+> taunting
+> this
+> time
+16571c16571
+< noth
+---
+> nothing
+16575c16575
+< engl
+---
+> English
+16580c16580
+< thpppt
+---
+> Thpppt
+16582,16583c16582,16583
+< french
+< guard
+---
+> FRENCH
+> GUARDS
+16586c16586
+< taunt
+---
+> taunting
+16588c16588
+< arth
+---
+> ARTHUR
+16590,16591c16590,16591
+< we
+< shal
+---
+> We
+> shall
+16594c16594
+< ont
+---
+> once
+16596c16596
+< bedev
+---
+> BEDEVERE
+16598c16598
+< ye
+---
+> Yes
+16601c16601
+< lieg
+---
+> liege
+16603c16603
+< arth
+---
+> ARTHUR
+16605c16605
+< stand
+---
+> Stand
+16611,16612c16611,16612
+< excit
+< mus
+---
+> exciting
+> music
+16615,16616c16615,16616
+< mus
+< stop
+---
+> music
+> stops
+16619c16619
+< sil
+---
+> silence
+16621,16622c16621,16622
+< french
+< person
+---
+> French
+> persons
+16624,16625c16624,16625
+< french
+< guard
+---
+> FRENCH
+> GUARDS
+16628c16628
+< taunt
+---
+> taunting
+16631c16631
+< dappy
+---
+> Dappy
+16634c16634
+< arth
+---
+> ARTHUR
+16636c16636
+< today
+---
+> Today
+16642c16642
+< valy
+---
+> valiant
+16644c16644
+< shal
+---
+> shall
+16646c16646
+< aveng
+---
+> avenged
+16648c16648
+< in
+---
+> In
+16650c16650
+< nam
+---
+> name
+16652c16652
+< god
+---
+> God
+16655,16656c16655,16656
+< french
+< guard
+---
+> FRENCH
+> GUARDS
+16658c16658
+< hoo
+---
+> Hoo
+16661c16661
+< ohh
+---
+> Ohh
+16670c16670
+< arth
+---
+> ARTHUR
+16674c16674
+< shal
+---
+> shall
+16682c16682
+< on
+---
+> one
+16685c16685
+< lie
+---
+> lies
+16690,16692c16690,16692
+< holy
+< grail
+< return
+---
+> Holy
+> Grail
+> returns
+16694c16694
+< thos
+---
+> those
+16696c16696
+< god
+---
+> God
+16698c16698
+< chos
+---
+> chosen
+16700,16701c16700,16701
+< french
+< guard
+---
+> FRENCH
+> GUARDS
+16704c16704
+< ha
+---
+> Ha
+16709c16709
+< arth
+---
+> ARTHUR
+16711c16711
+< charg
+---
+> Charge
+16713,16715c16713,16715
+< army
+< of
+< knight
+---
+> ARMY
+> OF
+> KNIGHTS
+16717c16717
+< hooray
+---
+> Hooray
+16720,16721c16720,16721
+< pol
+< sir
+---
+> police
+> siren
+16723c16723
+< hist
+---
+> HISTORIAN
+16725,16726c16725,16726
+< s
+< wif
+---
+> S
+> WIFE
+16728c16728
+< ye
+---
+> Yes
+16730c16730
+< they
+---
+> They
+16734c16734
+< on
+---
+> ones
+16736c16736
+< i
+---
+> I
+16739c16739
+< sur
+---
+> sure
+16741c16741
+< inspect
+---
+> INSPECTOR
+16743c16743
+< com
+---
+> Come
+16746,16747c16746,16747
+< anybody
+< arm
+---
+> Anybody
+> armed
+16752c16752
+< off
+---
+> OFFICER
+16756c16756
+< al
+---
+> All
+16759c16759
+< com
+---
+> Come
+16762c16762
+< back
+---
+> Back
+16764c16764
+< hist
+---
+> HISTORIAN
+16766,16767c16766,16767
+< s
+< wif
+---
+> S
+> WIFE
+16769c16769
+< get
+---
+> Get
+16771c16771
+< on
+---
+> one
+16773c16773
+< off
+---
+> OFFICER
+16777c16777
+< back
+---
+> Back
+16779c16779
+< right
+---
+> Right
+16782c16782
+< just
+---
+> Just
+16784c16784
+< pul
+---
+> pull
+16788c16788
+< com
+---
+> Come
+16791c16791
+< com
+---
+> Come
+16794c16794
+< inspect
+---
+> INSPECTOR
+16796,16797c16796,16797
+< put
+< thi
+---
+> Put
+> this
+16803c16803
+< off
+---
+> OFFICER
+16807c16807
+< clear
+---
+> Clear
+16810c16810
+< com
+---
+> Come
+16813c16813
+< bedev
+---
+> BEDEVERE
+16815c16815
+< with
+---
+> With
+16818c16818
+< inspect
+---
+> INSPECTOR
+16820,16821c16820,16821
+< which
+< on
+---
+> Which
+> one
+16823c16823
+< off
+---
+> OFFICER
+16827c16827
+< oh
+---
+> Oh
+16829,16830c16829,16830
+< thi
+< on
+---
+> this
+> one
+16832c16832
+< inspect
+---
+> INSPECTOR
+16834c16834
+< com
+---
+> Come
+16837c16837
+< put
+---
+> Put
+16843c16843
+< off
+---
+> OFFICER
+16847c16847
+< get
+---
+> Get
+16851c16851
+< off
+---
+> OFFICER
+16855,16856c16855,16856
+< we
+< hav
+---
+> We
+> have
+16858c16858
+< hospit
+---
+> hospital
+16860c16860
+< random
+---
+> RANDOM
+16862c16862
+< ahh
+---
+> Ahh
+16867c16867
+< random
+---
+> RANDOM
+16869c16869
+< ooh
+---
+> Ooh
+16871c16871
+< off
+---
+> OFFICER
+16875c16875
+< com
+---
+> Come
+16878c16878
+< back
+---
+> Back
+16880c16880
+< riiight
+---
+> Riiight
+16883c16883
+< com
+---
+> Come
+16886c16886
+< off
+---
+> OFFICER
+16890c16890
+< run
+---
+> Run
+16893c16893
+< run
+---
+> Run
+16896c16896
+< off
+---
+> OFFICER
+16900c16900
+< pul
+---
+> Pull
+16904c16904
+< my
+---
+> My
+16910c16910
+< offend
+---
+> offensive
+16916c16916
+< off
+---
+> OFFICER
+16920c16920
+< com
+---
+> Come
+16923c16923
+< back
+---
+> Back
+16928c16928
+< back
+---
+> Back
+16930c16930
+< right
+---
+> Right
+16932c16932
+< com
+---
+> Come
+16935c16935
+< inspect
+---
+> INSPECTOR
+16937c16937
+< everyth
+---
+> Everything
+16942c16942
+< off
+---
+> OFFICER
+16946c16946
+< al
+---
+> All
+16951c16951
+< that
+---
+> That
+16956c16956
+< just
+---
+> Just
+16964c16964
+< cameram
+---
+> CAMERAMAN
+16966c16966
+< christ
+---
+> Christ

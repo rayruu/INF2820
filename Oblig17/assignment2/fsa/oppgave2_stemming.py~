@@ -1,0 +1,69 @@
+from nltk import PorterStemmer, LancasterStemmer, SnowballStemmer, corpus
+import os
+
+# for oppgave 2
+def writeFile(inputList, filename):
+    outfile = open(filename, "w")
+    for word in inputList:
+        outfile.write("%s\n" %word)
+    outfile.close()
+    
+def readFile(filename, lines=10):
+    inputfile = open(filename, "r")
+    for i in range(lines):
+        print(inputfile.readln())
+    inputfile.close()
+
+
+# Oppgave 2a
+words = ["split", "splitting", "goldfishes"]
+
+porter = PorterStemmer()
+lancaster = LancasterStemmer()
+
+print("Oppgave 2a")
+print("Tester PorterStemmer med ordene: %s" %words)
+print([porter.stem(word) for word in words])
+
+print("Tester LancasterStemmer med ordene: %s" %words)
+print([lancaster.stem(word) for word in words])
+
+""" Run log:
+$ python oppgave2_stemming.py 
+Tester PorterStemmer med ordene: ['split', 'splitting', 'goldfishes']
+['split', 'split', 'goldfish']
+Tester LancasterStemmer med ordene: ['split', 'splitting', 'goldfishes']
+['split', 'splitting', 'goldf']
+
+
+KOMMENTAR:
+Porter Stemmer er et godt valg hvis vi indekserer tekst og vil
+benytte soek som ett alternativ for ord.
+
+Lancaster kutter bare ordene, og gjoer ikke en bra jobb med det
+"""
+
+#oppgave 2b:
+
+snowball = SnowballStemmer('english')
+grail = corpus.webtext.words('grail.txt')
+
+writeFile(grail, "grail.txt")
+grail_porter = [porter.stem(word) for word  in grail]
+writeFile(grail_porter, "grail_porter.txt")
+grail_lancaster = [lancaster.stem(word) for word in grail]
+writeFile(grail_lancaster, "grail_lancaster.txt")
+
+#benytter diff i terminalen:
+os.system("diff grail_porter.txt grail.txt >porter_difftekst.txt")
+os.system("diff grail_lancaster.txt grail.txt >lancaster_difftekst.txt")
+
+print("Oppgave 2b")
+print("kjorer interne terminalkommandoer for aa sette opp differansetekst og skriver ut seks forskjellige differanser")
+print("PorterStemmer:")
+readFile("porter_difftekst.txt")
+print("LancasterStemer: ")
+readFile("lancaster_difftekst.txt")
+
+#print("Tester LancasterStemmer med ordene: %s" %grail)
+#print([lancaster.stem(word) for word in grail])

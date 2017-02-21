@@ -141,6 +141,7 @@ eksamenstrening. Så kan du bruke JFLAP til å kontrollere løsningen din.
 \item Det er den samme tilstandsmaskinen som vist ovenfor.
 \item L1 = {'ac(a|b)','ab','aab','aaa*b','b','b(a|c)*'}
 \end{enumerate}
+\clearpage
   
 \section*{Oppgave 3: Regulære uttrykk (4 poeng)}
   Vi skal her bruke hva vi vil kalle "rene" regulære uttrykk.  Det er de vi gikk gjennom på forelesningen 
@@ -190,7 +191,7 @@ Test løsningene dine fra oppgave 3 i Python. Dvs. for hver av de tre oppgavene,
 
 \textit{Answer:}
 
-\begin{figure}[tbh]
+\begin{figure}[h!]
     \centering
     \includegraphics[width=\textwidth, keepaspectratio]{testrun.png}
     \caption{Printer ut de regulære uttrykk som tester fire forskjellige strenger hver.}
@@ -231,17 +232,24 @@ hver linje.
 
 \begin{enumerate}
 \item Fant ingen rusk, men lest over teksten. Antar pga navnet *raw* så menes det at vi skal lese inn fila og avventer til videre bearbeiding
-\item Forskjellen på .split() og nltk_tokenize er at fil.split() spitter ordene default ved whitespace. nltk_tokenize bruker Penn Treebank Tokenizer som skiller ord ved hjelp av regulære uttrykk. Den kan derfor skille ut punktum og comma. Demonstrert nedenfor:
+\item Forskjellen på .split() og nltk$\_$tokenize er at fil.split() spitter ordene default ved whitespace. nltk$\_$tokenize bruker Penn Treebank Tokenizer som skiller ord ved hjelp av regulære uttrykk. Den kan derfor skille ut punktum og comma. Demonstrert nedenfor:
+\item endret de til små bokstaver
+\item Bokstavene forekommet 60 ganger i pyt$\_$low
+\item Bokstaven æ forekommet 2 ganger, bokstaven ø forekommet 11 ganger og bokstaven å forekommet 10 ganger
+\item Skrev ut norske ord til Norske.txt  
+\end{enumerate}
+
 
 \begin{figure}[tbh]
     \centering
     \includegraphics[width=\textwidth, keepaspectratio]{oppg5b.png}
-    \caption{Printer ut de regulære uttrykk som tester fire forskjellige strenger hver.}
+    \caption{Skriver ut pyt$\_$words1 og pyt$\_$words2.}
     \label{fig:awesome_image3}
   \end{figure}
-\item 
 
-\section*{Oppgave 6: Regulære uttrykk av bearbeiding av tekst (4 poeng)}
+  \section*{Oppgave 6: Regulære uttrykk av bearbeiding av tekst (4 poeng)}
+
+  Legger ved programmet som erstatter filnavn og tall. Jeg endret ikke ord som INF2820 som hadde bokstaver i seg, bare rene tall. Jeg prøvde meg også på re.sub, men denne fikk jeg ikke til. Fikk hele tiden errors med funksjonen som jeg ikke forstod meg på.
 
 
 

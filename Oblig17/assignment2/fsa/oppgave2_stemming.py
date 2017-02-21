@@ -1,0 +1,80 @@
+from nltk import PorterStemmer, LancasterStemmer, SnowballStemmer, corpus
+import os
+
+# for oppgave 2
+def writeFile(inputList, filename):
+    outfile = open(filename, "w")
+    for word in inputList:
+        outfile.write("%s\n" %word)
+    outfile.close()
+
+
+# Oppgave 2a
+words = ["split", "splitting", "goldfishes"]
+
+porter = PorterStemmer()
+lancaster = LancasterStemmer()
+
+print("Oppgave 2a")
+print("Tester PorterStemmer med ordene: %s" %words)
+print([porter.stem(word) for word in words])
+
+print("Tester LancasterStemmer med ordene: %s" %words)
+print([lancaster.stem(word) for word in words])
+
+""" Run log:
+$ python oppgave2_stemming.py 
+Tester PorterStemmer med ordene: ['split', 'splitting', 'goldfishes']
+['split', 'split', 'goldfish']
+Tester LancasterStemmer med ordene: ['split', 'splitting', 'goldfishes']
+['split', 'splitting', 'goldf']
+
+
+KOMMENTAR:
+Porter Stemmer er et godt valg hvis vi indekserer tekst og vil
+benytte soek som ett alternativ for ord.
+
+Lancaster kutter bare ordene, og gjoer ikke en bra jobb med det
+"""
+
+#oppgave 2b:
+
+snowball = SnowballStemmer('english')
+grail = corpus.webtext.words('grail.txt')
+
+writeFile(grail, "grail.txt")
+grail_porter = [porter.stem(word) for word  in grail]
+writeFile(grail_porter, "grail_porter.txt")
+grail_lancaster = [lancaster.stem(word) for word in grail]
+writeFile(grail_lancaster, "grail_lancaster.txt")
+
+#benytter diff i terminalen:
+os.system("diff grail_porter.txt grail.txt >porter_difftekst.txt")
+os.system("diff grail_lancaster.txt grail.txt >lancaster_difftekst.txt")
+
+print("Oppgave 2b")
+print("kjorer interne terminalkommandoer for aa sette opp differansetekst og finner seks forskjellige differanser som blir kommentert i programmet")
+
+"""
+porterStemer:
+line:    Stemmer       grail.txt
+30c30  < goe     --->     goes
+48c48  < castl   --->     castle
+57c57  < defeat  --->     defeator
+145,146c145,146 < use < coconut ---> using > coconuts 
+184c184 < snow ---> snows
+
+
+lancasterStemmer:
+line:                      stemmer     --->      grail
+29,31c29,31     <     who < goe < ther --->  Who > goes > there
+48c48           <          castl       --->     castle 
+57c57           <           def        --->     defeator 
+52c52           <          king        --->        King 
+145,146c145,146 <      us < coconut    --->   using > coconuts
+
+Jeg tok med forskjeller der begge gjor en liten forskjell saa ved line 29 til 30 vil begge gjore endring. LancasterStemmer endrer bokstav til liten fra stor
+og begge fjerner s fra go, men fjerner ikke e. Begge ser ogsaa castle. Som tyder paa at begge bruker samme type regel der. Porter mener at defeator er defeat
+mens lancaster mener at det er def. Linje 145 endre using til use, som er riktig. Dette feiler lancaster med og endrer det tul us.
+Snows til snow stemmer. Det er generelt mye rart som skjer, men generelt er porter bedre.
+"""

@@ -172,10 +172,54 @@ class NFAFromFile(NFA):
         
 
 if(__name__ == "__main__"):
-	nfa = NFAFromFile('template.nfa')
-	print(nfa)
+    # test sekvenser:
+    words_true = [['tre'],
+                  ['halv', 'fem'],
+                  ['ti','på','sju'],
+                  ['tre', 'over', 'halv', 'åtte'],
+                  ['kvart','over','ni'],
+                  ['kvart','på','ti']]
+    
+    words_false = [['halv'],
+                   ['kvart', 'på', 'halv','ni'],
+                   ['fem','over','kvart','på','ti'],
+                   ['ti','på','halv'],
+                   ['halv','over','to'],
+                   ['halv','på','tolv']]
 
-            
+    nfa = NFAFromFile('oppgave1.nfa')
+
+    print("Tester eksempler fra oppgave 1:")
+    print("Skal være med:")
+    for sentence in words_true:
+        trueOrFalse = nrec(sentence, nfa)
+        print('Input is %s' %(trueOrFalse))
+        
+    print("Skal ikke være med:")
+    for sentence in words_false:
+        trueOrFalse = nrec(sentence, nfa)
+        print('Input is %s' %(trueOrFalse))
+
+
+""" Run log:
+
+$ python nfa_smart.py 
+Tester eksempler fra oppgave 1:
+Skal være med:
+Input is: True
+Input is: True
+Input is: True
+Input is: True
+Input is: True
+Input is: True
+Skal ikke være med:
+Input is: False
+Input is: False
+Input is: False
+Input is: False
+Input is: False
+Input is: False
+"""
 
 
 

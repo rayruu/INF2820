@@ -1,0 +1,7560 @@
+30c30
+< goe
+---
+> goes
+48c48
+< castl
+---
+> castle
+55c55
+< Briton
+---
+> Britons
+57c57
+< defeat
+---
+> defeator
+60c60
+< Saxon
+---
+> Saxons
+83c83
+< thi
+---
+> this
+86c86
+< trusti
+---
+> trusty
+88c88
+< Patsi
+---
+> Patsy
+103c103
+< knight
+---
+> knights
+132c132
+< hors
+---
+> horse
+136c136
+< Ye
+---
+> Yes
+145,146c145,146
+< use
+< coconut
+---
+> using
+> coconuts
+161,162c161,162
+< empti
+< halv
+---
+> empty
+> halves
+173c173
+< togeth
+---
+> together
+182c182
+< sinc
+---
+> since
+184c184
+< snow
+---
+> snows
+187,188c187,188
+< cover
+< thi
+---
+> covered
+> this
+209c209
+< coconut
+---
+> coconuts
+231c231
+< tropic
+---
+> tropical
+246c246
+< thi
+---
+> this
+249c249
+< temper
+---
+> temperate
+257c257
+< fli
+---
+> fly
+264c264
+< hous
+---
+> house
+272c272
+< clime
+---
+> climes
+280c280
+< stranger
+---
+> strangers
+291,293c291,293
+< suggest
+< coconut
+< migrat
+---
+> suggesting
+> coconuts
+> migrate
+304c304
+< carri
+---
+> carried
+314c314
+< carri
+---
+> carrying
+341c341
+< grip
+---
+> grips
+348c348
+< simpl
+---
+> simple
+352c352
+< ratio
+---
+> ratios
+356c356
+< ounc
+---
+> ounce
+360c360
+< carri
+---
+> carry
+406c406
+< veloc
+---
+> velocity
+410c410
+< need
+---
+> needs
+413,415c413,415
+< it
+< wing
+< forti
+---
+> its
+> wings
+> forty
+418,419c418,419
+< time
+< everi
+---
+> times
+> every
+426c426
+< Pleas
+---
+> Please
+442c442
+< interest
+---
+> interested
+451c451
+< carri
+---
+> carried
+468c468
+< mayb
+---
+> maybe
+491c491
+< agre
+---
+> agree
+504c504
+< want
+---
+> wants
+519c519
+< cours
+---
+> course
+523c523
+< swallow
+---
+> swallows
+527c527
+< migratori
+---
+> migratory
+563c563
+< minut
+---
+> minute
+565c565
+< Suppos
+---
+> Supposing
+567,568c567,568
+< swallow
+< carri
+---
+> swallows
+> carried
+570c570
+< togeth
+---
+> together
+595c595
+< simpl
+---
+> simple
+617,618c617,618
+< guid
+< feather
+---
+> guiding
+> feathers
+626c626
+< whi
+---
+> why
+711c711
+< Ninep
+---
+> Ninepence
+753c753
+< CUSTOM
+---
+> CUSTOMER
+764c764
+< Ninep
+---
+> Ninepence
+781c781
+< CUSTOM
+---
+> CUSTOMER
+783c783
+< Noth
+---
+> Nothing
+789c789
+< ninep
+---
+> ninepence
+808c808
+< say
+---
+> says
+815c815
+< CUSTOM
+---
+> CUSTOMER
+817c817
+< Ye
+---
+> Yes
+838c838
+< CUSTOM
+---
+> CUSTOMER
+850c850
+< veri
+---
+> very
+859c859
+< get
+---
+> getting
+862c862
+< CUSTOM
+---
+> CUSTOMER
+899c899
+< regul
+---
+> regulations
+915c915
+< CUSTOM
+---
+> CUSTOMER
+925c925
+< babi
+---
+> baby
+945c945
+< CUSTOM
+---
+> CUSTOMER
+963c963
+< CUSTOM
+---
+> CUSTOMER
+972c972
+< coupl
+---
+> couple
+974c974
+< minut
+---
+> minutes
+1008c1008
+< CUSTOM
+---
+> CUSTOMER
+1038c1038
+< CUSTOM
+---
+> CUSTOMER
+1044,1045c1044,1045
+< fool
+< anyon
+---
+> fooling
+> anyone
+1055c1055
+< someth
+---
+> something
+1064c1064
+< sing
+---
+> singing
+1068c1068
+< happi
+---
+> happy
+1072c1072
+< happi
+---
+> happy
+1077c1077
+< CUSTOM
+---
+> CUSTOMER
+1081,1082c1081,1082
+< thank
+< veri
+---
+> thanks
+> very
+1098c1098
+< CUSTOM
+---
+> CUSTOMER
+1131c1131
+< CUSTOM
+---
+> CUSTOMER
+1133c1133
+< Whi
+---
+> Why
+1169c1169
+< stop
+---
+> stops
+1176c1176
+< DENNI
+---
+> DENNIS
+1184c1184
+< Sorri
+---
+> Sorry
+1191c1191
+< castl
+---
+> castle
+1195c1195
+< DENNI
+---
+> DENNIS
+1200c1200
+< thirti
+---
+> thirty
+1210c1210
+< DENNI
+---
+> DENNIS
+1215c1215
+< thirti
+---
+> thirty
+1239c1239
+< DENNI
+---
+> DENNIS
+1247c1247
+< Denni
+---
+> Dennis
+1260c1260
+< call
+---
+> called
+1262c1262
+< Denni
+---
+> Dennis
+1264c1264
+< DENNI
+---
+> DENNIS
+1286c1286
+< sorri
+---
+> sorry
+1299c1299
+< look
+---
+> looked
+1301c1301
+< DENNI
+---
+> DENNIS
+1310c1310
+< automat
+---
+> automatically
+1325c1325
+< DENNI
+---
+> DENNIS
+1332c1332
+< veri
+---
+> very
+1346c1346
+< exploit
+---
+> exploiting
+1348c1348
+< worker
+---
+> workers
+1352c1352
+< ang
+---
+> anging
+1355c1355
+< outdat
+---
+> outdated
+1359c1359
+< perpetu
+---
+> perpetuates
+1361c1361
+< econom
+---
+> economic
+1364c1364
+< differ
+---
+> differences
+1367c1367
+< societi
+---
+> society
+1374c1374
+< go
+---
+> going
+1377c1377
+< ani
+---
+> any
+1384c1384
+< Denni
+---
+> Dennis
+1390c1390
+< love
+---
+> lovely
+1411c1411
+< ladi
+---
+> lady
+1420c1420
+< Briton
+---
+> Britons
+1425c1425
+< castl
+---
+> castle
+1439c1439
+< Briton
+---
+> Britons
+1446c1446
+< Briton
+---
+> Britons
+1459c1459
+< Briton
+---
+> Britons
+1484,1485c1484,1485
+< autonom
+< collect
+---
+> autonomous
+> collective
+1487c1487
+< DENNI
+---
+> DENNIS
+1492c1492
+< fool
+---
+> fooling
+1498c1498
+< live
+---
+> living
+1506,1507c1506,1507
+< perpetu
+< autocraci
+---
+> perpetuating
+> autocracy
+1511,1512c1511,1512
+< work
+< class
+---
+> working
+> classes
+1522c1522
+< bring
+---
+> bringing
+1528c1528
+< DENNI
+---
+> DENNIS
+1541,1542c1541,1542
+< onli
+< peopl
+---
+> only
+> people
+1549c1549
+< Pleas
+---
+> Please
+1551c1551
+< pleas
+---
+> please
+1553c1553
+< peopl
+---
+> people
+1558c1558
+< hast
+---
+> haste
+1561c1561
+< live
+---
+> lives
+1564c1564
+< castl
+---
+> castle
+1595c1595
+< DENNI
+---
+> DENNIS
+1608c1608
+< commun
+---
+> commune
+1614c1614
+< turn
+---
+> turns
+1621,1622c1621,1622
+< execut
+< offic
+---
+> executive
+> officer
+1629c1629
+< Ye
+---
+> Yes
+1631c1631
+< DENNI
+---
+> DENNIS
+1636c1636
+< decis
+---
+> decision
+1639c1639
+< offic
+---
+> officer
+1643c1643
+< ratifi
+---
+> ratified
+1649,1650c1649,1650
+< weekli
+< meet
+---
+> weekly
+> meeting
+1654c1654
+< Ye
+---
+> Yes
+1659c1659
+< DENNI
+---
+> DENNIS
+1663,1664c1663,1664
+< simpl
+< major
+---
+> simple
+> majority
+1669,1671c1669,1671
+< pure
+< intern
+< affair
+---
+> purely
+> internal
+> affairs
+1678c1678
+< DENNI
+---
+> DENNIS
+1685,1686c1685,1686
+< third
+< major
+---
+> thirds
+> majority
+1713c1713
+< doe
+---
+> does
+1748c1748
+< king
+---
+> kings
+1757c1757
+< becom
+---
+> become
+1764c1764
+< Ladi
+---
+> Lady
+1771c1771
+< angel
+---
+> angels
+1781,1782c1781,1782
+< shimmer
+< samit
+---
+> shimmering
+> samite
+1793c1793
+< signifi
+---
+> signifying
+1795,1796c1795,1796
+< Divin
+< Provid
+---
+> Divine
+> Providence
+1802c1802
+< wa
+---
+> was
+1804c1804
+< carri
+---
+> carry
+1808,1809c1808,1809
+< sing
+< stop
+---
+> singing
+> stops
+1813c1813
+< whi
+---
+> why
+1819c1819
+< DENNI
+---
+> DENNIS
+1823c1823
+< strang
+---
+> strange
+1825c1825
+< lie
+---
+> lying
+1827,1829c1827,1829
+< pond
+< distribut
+< sword
+---
+> ponds
+> distributing
+> swords
+1832c1832
+< basi
+---
+> basis
+1837c1837
+< govern
+---
+> government
+1839,1840c1839,1840
+< Suprem
+< execut
+---
+> Supreme
+> executive
+1842c1842
+< deriv
+---
+> derives
+1845c1845
+< mandat
+---
+> mandate
+1848c1848
+< mass
+---
+> masses
+1853,1855c1853,1855
+< farcic
+< aquat
+< ceremoni
+---
+> farcical
+> aquatic
+> ceremony
+1862c1862
+< DENNI
+---
+> DENNIS
+1874,1875c1874,1875
+< suprem
+< execut
+---
+> supreme
+> executive
+1879c1879
+< caus
+---
+> cause
+1881c1881
+< wateri
+---
+> watery
+1894c1894
+< DENNI
+---
+> DENNIS
+1904c1904
+< say
+---
+> saying
+1906c1906
+< wa
+---
+> was
+1910c1910
+< becaus
+---
+> because
+1912c1912
+< moisten
+---
+> moistened
+1915c1915
+< lob
+---
+> lobbed
+1939c1939
+< DENNI
+---
+> DENNIS
+1947,1948c1947,1948
+< violenc
+< inher
+---
+> violence
+> inherent
+1958c1958
+< DENNI
+---
+> DENNIS
+1966,1967c1966,1967
+< violenc
+< inher
+---
+> violence
+> inherent
+1979,1980c1979,1980
+< be
+< repress
+---
+> being
+> repressed
+1984c1984
+< Bloodi
+---
+> Bloody
+1987c1987
+< DENNI
+---
+> DENNIS
+2023c2023
+< repress
+---
+> repressing
+2044c2044
+< stop
+---
+> stops
+2058c2058
+< stop
+---
+> stops
+2077c2077
+< stop
+---
+> stops
+2101c2101
+< stop
+---
+> stops
+2136c2136
+< kill
+---
+> kills
+2164c2164
+< mani
+---
+> many
+2171c2171
+< paus
+---
+> pause
+2180c2180
+< Briton
+---
+> Britons
+2183c2183
+< paus
+---
+> pause
+2192c2192
+< knight
+---
+> knights
+2206c2206
+< paus
+---
+> pause
+2210c2210
+< prove
+---
+> proved
+2212c2212
+< worthi
+---
+> worthy
+2220c2220
+< paus
+---
+> pause
+2233c2233
+< Patsi
+---
+> Patsy
+2270,2271c2270,2271
+< thi
+< bridg
+---
+> this
+> bridge
+2291c2291
+< Briton
+---
+> Britons
+2295c2295
+< asid
+---
+> aside
+2325c2325
+< chop
+---
+> chops
+2339c2339
+< asid
+---
+> aside
+2341,2342c2341,2342
+< worthi
+< adversari
+---
+> worthy
+> adversary
+2348c2348
+< Ti
+---
+> Tis
+2391c2391
+< wors
+---
+> worse
+2405c2405
+< pansi
+---
+> pansy
+2424c2424
+< chop
+---
+> chops
+2436c2436
+< Victori
+---
+> Victory
+2441c2441
+< kneel
+---
+> kneeling
+2450c2450
+< Thi
+---
+> Thy
+2485c2485
+< inde
+---
+> indeed
+2520c2520
+< arm
+---
+> arms
+2526c2526
+< Ye
+---
+> Yes
+2583c2583
+< chop
+---
+> chops
+2624c2624
+< go
+---
+> going
+2638c2638
+< invinc
+---
+> invincible
+2654,2655c2654,2655
+< alway
+< triumph
+---
+> always
+> triumphs
+2670c2670
+< chop
+---
+> chops
+2700c2700
+< Patsi
+---
+> Patsy
+2712c2712
+< Run
+---
+> Running
+2719c2719
+< bastard
+---
+> bastards
+2729c2729
+< come
+---
+> coming
+2738c2738
+< leg
+---
+> legs
+2743c2743
+< MONK
+---
+> MONKS
+2746c2746
+< chant
+---
+> chanting
+2750c2750
+< domin
+---
+> domine
+2753c2753
+< ei
+---
+> eis
+2761c2761
+< domin
+---
+> domine
+2769c2769
+< ei
+---
+> eis
+2777c2777
+< domin
+---
+> domine
+2785c2785
+< ei
+---
+> eis
+2805c2805
+< MONK
+---
+> MONKS
+2808c2808
+< chant
+---
+> chanting
+2812c2812
+< domin
+---
+> domine
+2892c2892
+< VILLAG
+---
+> VILLAGER
+2920c2920
+< BEDEVER
+---
+> BEDEVERE
+2931c2931
+< VILLAG
+---
+> VILLAGER
+2936c2936
+< look
+---
+> looks
+2948c2948
+< BEDEVER
+---
+> BEDEVERE
+2970c2970
+< BEDEVER
+---
+> BEDEVERE
+2977c2977
+< dress
+---
+> dressed
+2984c2984
+< dress
+---
+> dressed
+2988c2988
+< thi
+---
+> this
+3007c3007
+< thi
+---
+> this
+3018c3018
+< fals
+---
+> false
+3021c3021
+< BEDEVER
+---
+> BEDEVERE
+3025c3025
+< VILLAG
+---
+> VILLAGER
+3037c3037
+< BEDEVER
+---
+> BEDEVERE
+3042c3042
+< VILLAG
+---
+> VILLAGER
+3056c3056
+< VILLAG
+---
+> VILLAGER
+3074c3074
+< BEDEVER
+---
+> BEDEVERE
+3082c3082
+< thi
+---
+> this
+3084c3084
+< VILLAG
+---
+> VILLAGER
+3090c3090
+< VILLAG
+---
+> VILLAGER
+3100c3100
+< VILLAG
+---
+> VILLAGER
+3106c3106
+< VILLAG
+---
+> VILLAGER
+3112c3112
+< VILLAG
+---
+> VILLAGERS
+3121c3121
+< VILLAG
+---
+> VILLAGER
+3125c3125
+< Ye
+---
+> Yes
+3127c3127
+< VILLAG
+---
+> VILLAGER
+3131c3131
+< Ye
+---
+> Yes
+3133c3133
+< VILLAG
+---
+> VILLAGER
+3137c3137
+< Ye
+---
+> Yes
+3144c3144
+< VILLAG
+---
+> VILLAGER
+3151c3151
+< VILLAG
+---
+> VILLAGERS
+3161c3161
+< VILLAG
+---
+> VILLAGER
+3168c3168
+< VILLAG
+---
+> VILLAGER
+3173c3173
+< ha
+---
+> has
+3183c3183
+< BEDEVER
+---
+> BEDEVERE
+3186c3186
+< make
+---
+> makes
+3194c3194
+< VILLAG
+---
+> VILLAGER
+3201c3201
+< turn
+---
+> turned
+3207c3207
+< BEDEVER
+---
+> BEDEVERE
+3212c3212
+< VILLAG
+---
+> VILLAGER
+3220c3220
+< VILLAG
+---
+> VILLAGER
+3228c3228
+< VILLAG
+---
+> VILLAGER
+3245c3245
+< BEDEVER
+---
+> BEDEVERE
+3257c3257
+< way
+---
+> ways
+3259c3259
+< tell
+---
+> telling
+3266c3266
+< VILLAG
+---
+> VILLAGER
+3273c3273
+< VILLAG
+---
+> VILLAGER
+3279c3279
+< VILLAG
+---
+> VILLAGER
+3296c3296
+< BEDEVER
+---
+> BEDEVERE
+3306c3306
+< witch
+---
+> witches
+3308c3308
+< VILLAG
+---
+> VILLAGER
+3314c3314
+< VILLAG
+---
+> VILLAGER
+3331c3331
+< BEDEVER
+---
+> BEDEVERE
+3340c3340
+< witch
+---
+> witches
+3342c3342
+< VILLAG
+---
+> VILLAGER
+3347c3347
+< witch
+---
+> witches
+3349c3349
+< VILLAG
+---
+> VILLAGER
+3355c3355
+< VILLAG
+---
+> VILLAGER
+3361c3361
+< BEDEVER
+---
+> BEDEVERE
+3365c3365
+< whi
+---
+> why
+3367c3367
+< witch
+---
+> witches
+3371c3371
+< paus
+---
+> pause
+3373c3373
+< VILLAG
+---
+> VILLAGER
+3380c3380
+< caus
+---
+> cause
+3389c3389
+< BEDEVER
+---
+> BEDEVERE
+3403c3403
+< BEDEVER
+---
+> BEDEVERE
+3418c3418
+< VILLAG
+---
+> VILLAGER
+3424c3424
+< bridg
+---
+> bridge
+3429c3429
+< BEDEVER
+---
+> BEDEVERE
+3439c3439
+< bridg
+---
+> bridges
+3444c3444
+< VILLAG
+---
+> VILLAGER
+3462c3462
+< BEDEVER
+---
+> BEDEVERE
+3464c3464
+< Doe
+---
+> Does
+3470c3470
+< VILLAG
+---
+> VILLAGER
+3478c3478
+< VILLAG
+---
+> VILLAGER
+3485c3485
+< float
+---
+> floats
+3488c3488
+< float
+---
+> floats
+3490c3490
+< VILLAG
+---
+> VILLAGER
+3511c3511
+< BEDEVER
+---
+> BEDEVERE
+3515c3515
+< float
+---
+> floats
+3519c3519
+< VILLAG
+---
+> VILLAGER
+3525c3525
+< VILLAG
+---
+> VILLAGER
+3529c3529
+< Appl
+---
+> Apples
+3531c3531
+< VILLAG
+---
+> VILLAGER
+3537c3537
+< veri
+---
+> very
+3539c3539
+< rock
+---
+> rocks
+3541c3541
+< VILLAG
+---
+> VILLAGER
+3547c3547
+< VILLAG
+---
+> VILLAGER
+3555c3555
+< gravi
+---
+> gravy
+3557c3557
+< VILLAG
+---
+> VILLAGER
+3561c3561
+< Cherri
+---
+> Cherries
+3563c3563
+< VILLAG
+---
+> VILLAGER
+3569c3569
+< VILLAG
+---
+> VILLAGER
+3573c3573
+< Church
+---
+> Churches
+3575c3575
+< Church
+---
+> Churches
+3577c3577
+< VILLAG
+---
+> VILLAGER
+3594c3594
+< BEDEVER
+---
+> BEDEVERE
+3596c3596
+< Exactli
+---
+> Exactly
+3600c3600
+< logic
+---
+> logically
+3602c3602
+< VILLAG
+---
+> VILLAGER
+3610c3610
+< weigh
+---
+> weighs
+3626c3626
+< BEDEVER
+---
+> BEDEVERE
+3629c3629
+< therefor
+---
+> therefore
+3631c3631
+< VILLAG
+---
+> VILLAGER
+3638c3638
+< VILLAG
+---
+> VILLAGER
+3654c3654
+< VILLAG
+---
+> VILLAGER
+3664c3664
+< thi
+---
+> this
+3672c3672
+< BEDEVER
+---
+> BEDEVERE
+3679c3679
+< scale
+---
+> scales
+3720c3720
+< BEDEVER
+---
+> BEDEVERE
+3724c3724
+< Remov
+---
+> Remove
+3726c3726
+< support
+---
+> supports
+3757c3757
+< VILLAG
+---
+> VILLAGER
+3780c3780
+< BEDEVER
+---
+> BEDEVERE
+3791c3791
+< way
+---
+> ways
+3793c3793
+< scienc
+---
+> science
+3804c3804
+< Briton
+---
+> Britons
+3806c3806
+< BEDEVER
+---
+> BEDEVERE
+3809c3809
+< lieg
+---
+> liege
+3831c3831
+< Tabl
+---
+> Table
+3833c3833
+< BEDEVER
+---
+> BEDEVERE
+3836c3836
+< lieg
+---
+> liege
+3841c3841
+< honor
+---
+> honored
+3850c3850
+< BEDEVER
+---
+> BEDEVERE
+3852c3852
+< Bedever
+---
+> Bedevere
+3855c3855
+< lieg
+---
+> liege
+3864c3864
+< Bedever
+---
+> Bedevere
+3870,3871c3870,3871
+< Tabl
+< NARRAT
+---
+> Table
+> NARRATOR
+3876,3877c3876,3877
+< Bedever
+< wa
+---
+> Bedevere
+> was
+3886c3886
+< knight
+---
+> knights
+3890,3891c3890,3891
+< illustri
+< name
+---
+> illustrious
+> names
+3914c3914
+< quit
+---
+> quite
+3928c3928
+< nearli
+---
+> nearly
+3937c3937
+< nearli
+---
+> nearly
+3942c3942
+< viciou
+---
+> vicious
+3950c3950
+< person
+---
+> personally
+3955c3955
+< Battl
+---
+> Battle
+3962,3963c3962,3963
+< aptli
+< name
+---
+> aptly
+> named
+3967c3967
+< appear
+---
+> appearing
+3971c3971
+< thi
+---
+> this
+3975c3975
+< Togeth
+---
+> Together
+3977c3977
+< form
+---
+> formed
+3981c3981
+< name
+---
+> names
+3983c3983
+< deed
+---
+> deeds
+3990c3990
+< centuri
+---
+> centuries
+3993c3993
+< Knight
+---
+> Knights
+3997c3997
+< Tabl
+---
+> Table
+4007c4007
+< BEDEVER
+---
+> BEDEVERE
+4013c4013
+< lieg
+---
+> liege
+4025c4025
+< shape
+---
+> shaped
+4029c4029
+< Thi
+---
+> This
+4031,4032c4031,4032
+< learn
+< amaz
+---
+> learning
+> amazes
+4036c4036
+< Bedever
+---
+> Bedevere
+4044c4044
+< bladder
+---
+> bladders
+4047c4047
+< employ
+---
+> employed
+4050c4050
+< earthquak
+---
+> earthquakes
+4052c4052
+< BEDEVER
+---
+> BEDEVERE
+4056c4056
+< certainli
+---
+> certainly
+4066c4066
+< lieg
+---
+> liege
+4069c4069
+< trumpet
+---
+> trumpets
+4084c4084
+< PATSi
+---
+> PATSY
+4089c4089
+< onli
+---
+> only
+4097c4097
+< Knight
+---
+> Knights
+4102c4102
+< welcom
+---
+> welcome
+4118c4118
+< mediev
+---
+> medieval
+4121c4121
+< KNIGHT
+---
+> KNIGHTS
+4124c4124
+< sing
+---
+> singing
+4129c4129
+< knight
+---
+> knights
+4133c4133
+< tabl
+---
+> table
+4136c4136
+< danc
+---
+> dance
+4144c4144
+< abl
+---
+> able
+4148c4148
+< routin
+---
+> routines
+4150,4151c4150,4151
+< choru
+< scene
+---
+> chorus
+> scenes
+4154c4154
+< impecc
+---
+> impeccable
+4173c4173
+< danc
+---
+> dancing
+4178c4178
+< knight
+---
+> knights
+4182c4182
+< Tabl
+---
+> Table
+4185c4185
+< show
+---
+> shows
+4187c4187
+< formid
+---
+> formidable
+4190,4191c4190,4191
+< mani
+< time
+---
+> many
+> times
+4196c4196
+< rhyme
+---
+> rhymes
+4199,4200c4199,4200
+< quit
+< unsing
+---
+> quite
+> unsingable
+4221c4221
+< PRISON
+---
+> PRISONER
+4231c4231
+< mediev
+---
+> medieval
+4234c4234
+< KNIGHT
+---
+> KNIGHTS
+4239c4239
+< danc
+---
+> dancing
+4248c4248
+< abl
+---
+> able
+4250,4251c4250,4251
+< Quit
+< indefatig
+---
+> Quite
+> indefatigable
+4255c4255
+< quest
+---
+> quests
+4258c4258
+< vest
+---
+> vests
+4260c4260
+< imperson
+---
+> impersonate
+4262c4262
+< Gabl
+---
+> Gable
+4268c4268
+< busi
+---
+> busy
+4284c4284
+< outdoor
+---
+> outdoors
+4305c4305
+< silli
+---
+> silly
+4308c4308
+< KNIGHT
+---
+> KNIGHTS
+4326c4326
+< angel
+---
+> angels
+4338c4338
+< Briton
+---
+> Britons
+4348,4349c4348,4349
+< sing
+< stop
+---
+> singing
+> stops
+4362,4363c4362,4363
+< peopl
+< grovel
+---
+> people
+> groveling
+4367c4367
+< Sorri
+---
+> Sorry
+4378c4378
+< apologis
+---
+> apologise
+4380c4380
+< Everi
+---
+> Every
+4383c4383
+< tri
+---
+> try
+4387c4387
+< someon
+---
+> someone
+4392,4393c4392,4393
+< sorri
+< thi
+---
+> sorry
+> this
+4397c4397
+< forgiv
+---
+> forgive
+4407c4407
+< worthi
+---
+> worthy
+4415c4415
+< do
+---
+> doing
+4423c4423
+< avert
+---
+> averting
+4425c4425
+< eye
+---
+> eyes
+4443,4444c4443,4444
+< miser
+< Psalm
+---
+> miserable
+> Psalms
+4450c4450
+< depress
+---
+> depressing
+4459c4459
+< Ye
+---
+> Yes
+4472c4472
+< Briton
+---
+> Britons
+4475c4475
+< Knight
+---
+> Knights
+4479c4479
+< Tabl
+---
+> Table
+4488c4488
+< exampl
+---
+> example
+4492c4492
+< time
+---
+> times
+4505c4505
+< Cours
+---
+> Course
+4516c4516
+< angel
+---
+> angels
+4521c4521
+< thi
+---
+> this
+4524c4524
+< Holi
+---
+> Holy
+4536c4536
+< sacr
+---
+> sacred
+4540c4540
+< thi
+---
+> this
+4546c4546
+< purpos
+---
+> purpose
+4554c4554
+< Holi
+---
+> Holy
+4561,4562c4561,4562
+< sing
+< stop
+---
+> singing
+> stops
+4567c4567
+< bless
+---
+> blessing
+4570c4570
+< bless
+---
+> blessing
+4579c4579
+< prais
+---
+> praised
+4603c4603
+< paus
+---
+> pause
+4627c4627
+< Knight
+---
+> Knights
+4631c4631
+< Tabl
+---
+> Table
+4636c4636
+< castl
+---
+> castle
+4638c4638
+< thi
+---
+> this
+4643c4643
+< Thi
+---
+> This
+4646c4646
+< castl
+---
+> castle
+4665c4665
+< charg
+---
+> charged
+4670c4670
+< sacr
+---
+> sacred
+4693c4693
+< Holi
+---
+> Holy
+4717c4717
+< veri
+---
+> very
+4725c4725
+< alreadi
+---
+> already
+4739c4739
+< say
+---
+> says
+4743c4743
+< alreadi
+---
+> already
+4763c4763
+< ye
+---
+> yes
+4768c4768
+< veri
+---
+> very
+4778c4778
+< alreadi
+---
+> already
+4803c4803
+< cours
+---
+> course
+4809c4809
+< type
+---
+> types
+4830c4830
+< Whi
+---
+> Why
+4835,4836c4835,4836
+< thi
+< outrag
+---
+> this
+> outrageous
+4840c4840
+< silli
+---
+> silly
+4850c4850
+< do
+---
+> doing
+4860c4860
+< busi
+---
+> business
+4877c4877
+< castl
+---
+> castle
+4879c4879
+< forc
+---
+> force
+4894c4894
+< dog
+---
+> dogs
+4902c4902
+< son
+---
+> sons
+4905c4905
+< silli
+---
+> silly
+4917c4917
+< call
+---
+> called
+4925c4925
+< silli
+---
+> silly
+4929c4929
+< nnnnnigget
+---
+> nnnnniggets
+4941c4941
+< strang
+---
+> strange
+4969,4971c4969,4971
+< empti
+< head
+< anim
+---
+> empty
+> headed
+> animal
+4980,4981c4980,4981
+< gener
+< direct
+---
+> general
+> direction
+4985c4985
+< wa
+---
+> was
+4993c4993
+< elderberri
+---
+> elderberries
+4999,5000c4999,5000
+< someon
+< els
+---
+> someone
+> else
+5034c5034
+< thi
+---
+> this
+5038c5038
+< chanc
+---
+> chance
+5046c5046
+< reason
+---
+> reasonable
+5054c5054
+< vach
+---
+> vache
+5068c5068
+< vach
+---
+> vache
+5079c5079
+< agre
+---
+> agree
+5082c5082
+< command
+---
+> commands
+5094c5094
+< Jesu
+---
+> Jesus
+5097c5097
+< KNIGHT
+---
+> KNIGHTS
+5112c5112
+< Charg
+---
+> Charge
+5114c5114
+< KNIGHT
+---
+> KNIGHTS
+5116c5116
+< Charg
+---
+> Charge
+5126c5126
+< thi
+---
+> this
+5144c5144
+< thi
+---
+> this
+5157c5157
+< KNIGHT
+---
+> KNIGHTS
+5168c5168
+< GUARD
+---
+> GUARDS
+5171c5171
+< taunt
+---
+> taunting
+5175c5175
+< Fiend
+---
+> Fiends
+5194c5194
+< BEDEVER
+---
+> BEDEVERE
+5281c5281
+< GUARD
+---
+> GUARDS
+5284c5284
+< whisper
+---
+> whispering
+5294c5294
+< boi
+---
+> bois
+5315c5315
+< Hurri
+---
+> Hurry
+5331c5331
+< magn
+---
+> magne
+5349c5349
+< happen
+---
+> happens
+5352c5352
+< BEDEVER
+---
+> BEDEVERE
+5371c5371
+< nightfal
+---
+> nightfall
+5381c5381
+< take
+---
+> taking
+5388c5388
+< surpris
+---
+> surprise
+5391c5391
+< onli
+---
+> only
+5393c5393
+< surpris
+---
+> surprise
+5396,5397c5396,5397
+< total
+< unarm
+---
+> totally
+> unarmed
+5402c5402
+< leap
+---
+> leaps
+5405c5405
+< BEDEVER
+---
+> BEDEVERE
+5437c5437
+< BEDEVER
+---
+> BEDEVERE
+5454,5455c5454,5455
+< thi
+< larg
+---
+> this
+> large
+5470c5470
+< KNIGHT
+---
+> KNIGHTS
+5497c5497
+< GUARD
+---
+> GUARDS
+5518c5518
+< VOIC
+---
+> VOICE
+5520c5520
+< Pictur
+---
+> Picture
+5522c5522
+< School
+---
+> Schools
+5536,5537c5536,5537
+< castl
+< seem
+---
+> castle
+> seems
+5540,5541c5540,5541
+< utterli
+< dishearten
+---
+> utterly
+> disheartened
+5546c5546
+< feroc
+---
+> ferocity
+5550c5550
+< taunt
+---
+> taunting
+5553c5553
+< complet
+---
+> completely
+5555c5555
+< surpris
+---
+> surprise
+5559,5560c5559,5560
+< becam
+< convinc
+---
+> became
+> convinced
+5564,5566c5564,5566
+< strategi
+< wa
+< requir
+---
+> strategy
+> was
+> required
+5572c5572
+< Holi
+---
+> Holy
+5580,5581c5580,5581
+< success
+< conclus
+---
+> successful
+> conclusion
+5585,5587c5585,5587
+< have
+< consult
+< hi
+---
+> having
+> consulted
+> his
+5589c5589
+< knight
+---
+> knights
+5591c5591
+< decid
+---
+> decided
+5595c5595
+< separ
+---
+> separate
+5602c5602
+< individu
+---
+> individually
+5611c5611
+< thi
+---
+> this
+5628c5628
+< kill
+---
+> kills
+5641c5641
+< trumpet
+---
+> trumpets
+5643c5643
+< NARRAT
+---
+> NARRATOR
+5655c5655
+< knight
+---
+> knights
+5658,5659c5658,5659
+< separ
+< way
+---
+> separate
+> ways
+5671c5671
+< Ewe
+---
+> Ewing
+5673c5673
+< accompani
+---
+> accompanied
+5675,5677c5675,5677
+< hi
+< favorit
+< minstrel
+---
+> his
+> favorite
+> minstrels
+5682c5682
+< sing
+---
+> singing
+5684c5684
+< Brave
+---
+> Bravely
+5695c5695
+< wa
+---
+> was
+5707c5707
+< wa
+---
+> was
+5714c5714
+< kill
+---
+> killed
+5716,5717c5716,5717
+< nasti
+< way
+---
+> nasty
+> ways
+5730c5730
+< wa
+---
+> was
+5736c5736
+< scare
+---
+> scared
+5739c5739
+< mash
+---
+> mashed
+5747,5749c5747,5749
+< hi
+< eye
+< goug
+---
+> his
+> eyes
+> gouged
+5753,5754c5753,5754
+< hi
+< elbow
+---
+> his
+> elbows
+5759,5760c5759,5760
+< hi
+< kneecap
+---
+> his
+> kneecaps
+5764,5766c5764,5766
+< hi
+< bodi
+< burn
+---
+> his
+> body
+> burned
+5770,5771c5770,5771
+< hi
+< limb
+---
+> his
+> limbs
+5773c5773
+< hack
+---
+> hacked
+5775c5775
+< mangl
+---
+> mangled
+5781c5781
+< Hi
+---
+> His
+5783c5783
+< smash
+---
+> smashed
+5786c5786
+< hi
+---
+> his
+5792c5792
+< hi
+---
+> his
+5794c5794
+< remov
+---
+> removed
+5796,5798c5796,5798
+< hi
+< bowel
+< unplug
+---
+> his
+> bowels
+> unplugged
+5801,5803c5801,5803
+< hi
+< nostril
+< rape
+---
+> his
+> nostrils
+> raped
+5805c5805
+< hi
+---
+> his
+5807c5807
+< burn
+---
+> burned
+5811c5811
+< hi
+---
+> his
+5835c5835
+< lad
+---
+> lads
+5839c5839
+< Look
+---
+> Looks
+5844c5844
+< dirti
+---
+> dirty
+5848c5848
+< DENNI
+---
+> DENNIS
+5852c5852
+< syndic
+---
+> syndicalism
+5857c5857
+< preserv
+---
+> preserving
+5864c5864
+< Denni
+---
+> Dennis
+5879c5879
+< HEAD
+---
+> HEADS
+5890c5890
+< sing
+---
+> singing
+5917,5918c5917,5918
+< nobodi
+< realli
+---
+> nobody
+> really
+5935c5935
+< pass
+---
+> passing
+5939c5939
+< HEAD
+---
+> HEADS
+5949c5949
+< sing
+---
+> singing
+5966c5966
+< noth
+---
+> nothing
+5968,5969c5968,5969
+< noth
+< realli
+---
+> nothing
+> really
+5997c5997
+< HEAD
+---
+> HEADS
+6013c6013
+< actual
+---
+> actually
+6023c6023
+< Tabl
+---
+> Table
+6026c6026
+< HEAD
+---
+> HEADS
+6036c6036
+< Tabl
+---
+> Table
+6056c6056
+< MIDDL
+---
+> MIDDLE
+6074c6074
+< MIDDL
+---
+> MIDDLE
+6114c6114
+< Perhap
+---
+> Perhaps
+6137c6137
+< hi
+---
+> his
+6151c6151
+< MIDDL
+---
+> MIDDLE
+6154c6154
+< Ye
+---
+> Yes
+6170c6170
+< Yap
+---
+> Yapping
+6176c6176
+< MIDDL
+---
+> MIDDLE
+6182c6182
+< lucki
+---
+> lucky
+6200c6200
+< MIDDL
+---
+> MIDDLE
+6225c6225
+< MIDDL
+---
+> MIDDLE
+6232,6233c6232,6233
+< onli
+< becaus
+---
+> only
+> because
+6247c6247
+< bitch
+---
+> bitching
+6281c6281
+< biscuit
+---
+> biscuits
+6283c6283
+< MIDDL
+---
+> MIDDLE
+6286c6286
+< Ye
+---
+> Yes
+6294c6294
+< biscuit
+---
+> biscuits
+6306c6306
+< biscuit
+---
+> biscuits
+6317c6317
+< HEAD
+---
+> HEADS
+6321c6321
+< MIDDL
+---
+> MIDDLE
+6325c6325
+< bugger
+---
+> buggered
+6333c6333
+< ha
+---
+> has
+6342c6342
+< sing
+---
+> singing
+6357c6357
+< sing
+---
+> singing
+6359c6359
+< Brave
+---
+> Bravely
+6374c6374
+< sing
+---
+> singing
+6378,6380c6378,6380
+< rear
+< it
+< ugli
+---
+> reared
+> its
+> ugly
+6384,6386c6384,6386
+< brave
+< turn
+< hi
+---
+> bravely
+> turned
+> his
+6398c6398
+< sing
+---
+> singing
+6400c6400
+< Ye
+---
+> Yes
+6405c6405
+< turn
+---
+> turned
+6417c6417
+< sing
+---
+> singing
+6420c6420
+< gallantli
+---
+> gallantly
+6422c6422
+< chicken
+---
+> chickened
+6425,6426c6425,6426
+< brave
+< take
+---
+> bravely
+> taking
+6428c6428
+< hi
+---
+> his
+6440c6440
+< sing
+---
+> singing
+6445c6445
+< veri
+---
+> very
+6452c6452
+< lie
+---
+> lies
+6457c6457
+< sing
+---
+> singing
+6472c6472
+< MONK
+---
+> MONKS
+6475c6475
+< chant
+---
+> chanting
+6479c6479
+< domin
+---
+> domine
+6482c6482
+< ei
+---
+> eis
+6486c6486
+< CHARACT
+---
+> CHARACTER
+6497c6497
+< MONK
+---
+> MONKS
+6500c6500
+< chant
+---
+> chanting
+6504c6504
+< domin
+---
+> domine
+6508c6508
+< CHARACT
+---
+> CHARACTERS
+6510c6510
+< Wayi
+---
+> Wayy
+6520c6520
+< wayi
+---
+> wayy
+6539c6539
+< MONK
+---
+> MONKS
+6542c6542
+< chant
+---
+> chanting
+6546c6546
+< ei
+---
+> eis
+6550c6550
+< CHARACT
+---
+> CHARACTER
+6552c6552
+< Wayi
+---
+> Wayy
+6557c6557
+< Wayi
+---
+> Wayy
+6562c6562
+< VOIC
+---
+> VOICE
+6565c6565
+< whisper
+---
+> whispering
+6567c6567
+< Forgiv
+---
+> Forgive
+6570c6570
+< ask
+---
+> asking
+6573c6573
+< CHARACT
+---
+> CHARACTER
+6582c6582
+< trumpet
+---
+> trumpets
+6584c6584
+< NARRAT
+---
+> NARRATOR
+6608,6609c6608,6609
+< angel
+< sing
+---
+> angels
+> singing
+6666c6666
+< GIRL
+---
+> GIRLS
+6672,6673c6672,6673
+< Welcom
+< gentl
+---
+> Welcome
+> gentle
+6677c6677
+< Welcom
+---
+> Welcome
+6680c6680
+< Castl
+---
+> Castle
+6686c6686
+< Castl
+---
+> Castle
+6691c6691
+< Ye
+---
+> Yes
+6700c6700
+< veri
+---
+> very
+6718c6718
+< everi
+---
+> every
+6720c6720
+< everi
+---
+> every
+6728c6728
+< keeper
+---
+> keepers
+6731c6731
+< Holi
+---
+> Holy
+6755c6755
+< tire
+---
+> tired
+6761c6761
+< awhil
+---
+> awhile
+6771c6771
+< Ye
+---
+> Yes
+6778c6778
+< Prepar
+---
+> Prepare
+6814c6814
+< varletess
+---
+> varletesses
+6817c6817
+< bed
+---
+> beds
+6825c6825
+< veri
+---
+> very
+6827c6827
+< veri
+---
+> very
+6849c6849
+< handsom
+---
+> handsome
+6858c6858
+< Chast
+---
+> Chaste
+6878c6878
+< pleas
+---
+> please
+6897c6897
+< suffer
+---
+> suffered
+6902c6902
+< deliri
+---
+> delirious
+6920c6920
+< thi
+---
+> this
+6932c6932
+< ungal
+---
+> ungallant
+6935c6935
+< refus
+---
+> refuse
+6937c6937
+< hospit
+---
+> hospitality
+6960c6960
+< veri
+---
+> very
+6964c6964
+< compar
+---
+> compared
+6966c6966
+< your
+---
+> yours
+6974c6974
+< blond
+---
+> blondes
+6976c6976
+< brunett
+---
+> brunettes
+6993,6994c6993,6994
+< thi
+< castl
+---
+> this
+> castle
+7007c7007
+< lone
+---
+> lonely
+7010c7010
+< bath
+---
+> bathing
+7012c7012
+< dress
+---
+> dressing
+7014c7014
+< undress
+---
+> undressing
+7016,7017c7016,7017
+< make
+< excit
+---
+> making
+> exciting
+7024c7024
+< use
+---
+> used
+7026,7027c7026,7027
+< handsom
+< knight
+---
+> handsome
+> knights
+7047c7047
+< wound
+---
+> wounded
+7062c7062
+< noth
+---
+> nothing
+7072,7073c7072,7073
+< doctor
+< immedi
+---
+> doctors
+> immediately
+7079c7079
+< pleas
+---
+> please
+7093c7093
+< seem
+---
+> seems
+7097c7097
+< troubl
+---
+> trouble
+7104c7104
+< doctor
+---
+> doctors
+7114,7115c7114,7115
+< medic
+< train
+---
+> medical
+> training
+7117c7117
+< ye
+---
+> yes
+7135c7135
+< tri
+---
+> try
+7145c7145
+< Practic
+---
+> Practice
+7151c7151
+< Tri
+---
+> Try
+7163,7164c7163,7164
+< absolut
+< necessari
+---
+> absolutely
+> necessary
+7170c7170
+< examin
+---
+> examine
+7178c7178
+< noth
+---
+> nothing
+7185c7185
+< Pleas
+---
+> Please
+7189c7189
+< doctor
+---
+> doctors
+7195c7195
+< Thi
+---
+> This
+7203c7203
+< chastiti
+---
+> chastity
+7213c7213
+< onc
+---
+> once
+7256c7256
+< GIRL
+---
+> GIRLS
+7264c7264
+< GIRL
+---
+> GIRLS
+7325c7325
+< ident
+---
+> identical
+7337c7337
+< excus
+---
+> excuse
+7347c7347
+< go
+---
+> going
+7363,7364c7363,7364
+< thi
+< castl
+---
+> this
+> castle
+7392c7392
+< wick
+---
+> wicked
+7396c7396
+< naughti
+---
+> naughty
+7400c7400
+< ha
+---
+> has
+7402c7402
+< set
+---
+> setting
+7413c7413
+< rememb
+---
+> remembered
+7418c7418
+< shape
+---
+> shaped
+7431c7431
+< thi
+---
+> this
+7448c7448
+< wick
+---
+> wicked
+7452c7452
+< naughti
+---
+> naughty
+7466c7466
+< penalti
+---
+> penalty
+7471c7471
+< thi
+---
+> this
+7481c7481
+< worri
+---
+> worried
+7484c7484
+< boy
+---
+> boys
+7486c7486
+< write
+---
+> writing
+7505,7506c7505,7506
+< previou
+< scene
+---
+> previous
+> scenes
+7516,7517c7516,7517
+< our
+< wa
+---
+> ours
+> was
+7519c7519
+< visual
+---
+> visually
+7521c7521
+< DENNI
+---
+> DENNIS
+7527,7529c7527,7529
+< our
+< wa
+< commit
+---
+> ours
+> was
+> committed
+7539,7540c7539,7540
+< pussi
+< joke
+---
+> pussy
+> jokes
+7552c7552
+< ENCHANT
+---
+> ENCHANTER
+7554c7554
+< Ye
+---
+> Yes
+7561c7561
+< ARMi
+---
+> ARMY
+7563c7563
+< KNIGHT
+---
+> KNIGHTS
+7565c7565
+< Ye
+---
+> Yes
+7578,7579c7578,7579
+< enjoy
+< thi
+---
+> enjoying
+> this
+7596c7596
+< wick
+---
+> wicked
+7598c7598
+< wick
+---
+> wicked
+7606c7606
+< naughti
+---
+> naughty
+7614c7614
+< penalti
+---
+> penalty
+7619c7619
+< Castl
+---
+> Castle
+7626c7626
+< punish
+---
+> punishment
+7628c7628
+< set
+---
+> setting
+7633c7633
+< shape
+---
+> shaped
+7648c7648
+< GIRL
+---
+> GIRLS
+7651c7651
+< spank
+---
+> spanking
+7654c7654
+< spank
+---
+> spanking
+7668c7668
+< spank
+---
+> spanked
+7686c7686
+< AMAZ
+---
+> AMAZING
+7697c7697
+< LOVE
+---
+> LOVELY
+7704c7704
+< Ye
+---
+> Yes
+7706c7706
+< ye
+---
+> yes
+7715c7715
+< spank
+---
+> spanking
+7717c7717
+< GIRL
+---
+> GIRLS
+7720c7720
+< spank
+---
+> spanking
+7723c7723
+< spank
+---
+> spanking
+7727c7727
+< go
+---
+> going
+7731c7731
+< spank
+---
+> spanking
+7739c7739
+< spank
+---
+> spanking
+7745c7745
+< GIRL
+---
+> GIRLS
+7791c7791
+< Whi
+---
+> Why
+7811c7811
+< Silenc
+---
+> Silence
+7837c7837
+< escap
+---
+> escape
+7853c7853
+< GIRL
+---
+> GIRLS
+7866,7867c7866,7867
+< tackl
+< thi
+---
+> tackle
+> this
+7869c7869
+< singl
+---
+> single
+7871c7871
+< hand
+---
+> handed
+7875c7875
+< Ye
+---
+> Yes
+7879c7879
+< tackl
+---
+> tackle
+7881c7881
+< singl
+---
+> single
+7883c7883
+< hand
+---
+> handed
+7885c7885
+< GIRL
+---
+> GIRLS
+7887c7887
+< Ye
+---
+> Yes
+7891c7891
+< tackl
+---
+> tackle
+7893c7893
+< singl
+---
+> single
+7895c7895
+< hand
+---
+> handed
+7911c7911
+< Realli
+---
+> Really
+7913c7913
+< Honestli
+---
+> Honestly
+7921,7922c7921,7922
+< handl
+< thi
+---
+> handle
+> this
+7924c7924
+< easili
+---
+> easily
+7930c7930
+< ye
+---
+> yes
+7934c7934
+< handl
+---
+> handle
+7936c7936
+< easili
+---
+> easily
+7938c7938
+< GIRL
+---
+> GIRLS
+7940c7940
+< Ye
+---
+> Yes
+7944c7944
+< handl
+---
+> handle
+7946c7946
+< easili
+---
+> easily
+7958c7958
+< Pleas
+---
+> Please
+7968c7968
+< onli
+---
+> only
+7970c7970
+< hundr
+---
+> hundred
+7974c7974
+< fifti
+---
+> fifty
+7980c7980
+< Ye
+---
+> Yes
+7982c7982
+< ye
+---
+> yes
+7988c7988
+< easili
+---
+> easily
+7995c7995
+< chanc
+---
+> chance
+7997c7997
+< GIRL
+---
+> GIRLS
+8004c8004
+< chanc
+---
+> chance
+8010c8010
+< easili
+---
+> easily
+8045c8045
+< wa
+---
+> was
+8049c8049
+< Ye
+---
+> Yes
+8056c8056
+< terribl
+---
+> terrible
+8082c8082
+< peril
+---
+> perilous
+8092c8092
+< duti
+---
+> duty
+8097c8097
+< sampl
+---
+> sample
+8116c8116
+< Holi
+---
+> Holy
+8131c8131
+< littl
+---
+> little
+8143c8143
+< unhealthi
+---
+> unhealthy
+8161c8161
+< NARRAT
+---
+> NARRATOR
+8166c8166
+< save
+---
+> saved
+8172c8172
+< temptat
+---
+> temptation
+8183c8183
+< Meanwhil
+---
+> Meanwhile
+8189c8189
+< Bedever
+---
+> Bedevere
+8202,8203c8202,8203
+< discov
+< someth
+---
+> discovered
+> something
+8217c8217
+< obvious
+---
+> obviously
+8228c8228
+< swallow
+---
+> swallows
+8230c8230
+< flight
+---
+> flights
+8235c8235
+< realli
+---
+> really
+8253c8253
+< bird
+---
+> birds
+8255c8255
+< walk
+---
+> walking
+8257c8257
+< drag
+---
+> dragging
+8266c8266
+< NARRAT
+---
+> NARRATOR
+8275c8275
+< twenti
+---
+> twenty
+8282c8282
+< smash
+---
+> smashing
+8286,8287c8286,8287
+< love
+< act
+---
+> lovely
+> acting
+8292c8292
+< discov
+---
+> discovers
+8304,8305c8304,8305
+< ani
+< swallow
+---
+> any
+> swallows
+8314c8314
+< starl
+---
+> starling
+8341,8342c8341,8342
+< thi
+< enchant
+---
+> this
+> enchanter
+8349c8349
+< ha
+---
+> has
+8382c8382
+< doe
+---
+> does
+8401c8401
+< doe
+---
+> does
+8415c8415
+< know
+---
+> knows
+8425,8426c8425,8426
+< ha
+< enter
+---
+> has
+> entered
+8451c8451
+< lie
+---
+> lies
+8453c8453
+< Gorg
+---
+> Gorge
+8455c8455
+< Etern
+---
+> Eternal
+8461c8461
+< ha
+---
+> has
+8463c8463
+< cross
+---
+> crossed
+8482c8482
+< Bridg
+---
+> Bridge
+8489c8489
+< Bridg
+---
+> Bridge
+8494c8494
+< lead
+---
+> leads
+8523c8523
+< spooki
+---
+> spooky
+8528c8528
+< stop
+---
+> stops
+8537c8537
+< KNIGHT
+---
+> KNIGHTS
+8563c8563
+< Knight
+---
+> Knights
+8580c8580
+< Knight
+---
+> Knights
+8592c8592
+< BEDEVER
+---
+> BEDEVERE
+8604c8604
+< keeper
+---
+> keepers
+8607,8608c8607,8608
+< sacr
+< word
+---
+> sacred
+> words
+8642c8642
+< Knight
+---
+> Knights
+8650c8650
+< sacrific
+---
+> sacrifice
+8654c8654
+< Knight
+---
+> Knights
+8661,8662c8661,8662
+< simpl
+< travel
+---
+> simple
+> travellers
+8666c8666
+< enchant
+---
+> enchanter
+8668c8668
+< live
+---
+> lives
+8671c8671
+< wood
+---
+> woods
+8678c8678
+< KNIGHT
+---
+> KNIGHTS
+8719c8719
+< appeas
+---
+> appease
+8739c8739
+< shrubberi
+---
+> shrubbery
+8742c8742
+< dramat
+---
+> dramatic
+8750c8750
+< KNIGHT
+---
+> KNIGHTS
+8764c8764
+< PARTi
+---
+> PARTY
+8772c8772
+< Pleas
+---
+> Please
+8774c8774
+< pleas
+---
+> please
+8784c8784
+< shrubberi
+---
+> shrubbery
+8795c8795
+< shrubberi
+---
+> shrubbery
+8797c8797
+< els
+---
+> else
+8803c8803
+< thi
+---
+> this
+8805c8805
+< aliv
+---
+> alive
+8810c8810
+< Knight
+---
+> Knights
+8826c8826
+< shrubberi
+---
+> shrubbery
+8833c8833
+< look
+---
+> looks
+8839c8839
+< cours
+---
+> course
+8847c8847
+< expens
+---
+> expensive
+8851c8851
+< Ye
+---
+> Yes
+8860c8860
+< trumpet
+---
+> trumpets
+8863c8863
+< CHARACT
+---
+> CHARACTER
+8888,8890c8888,8890
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+8896,8898c8896,8898
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+8904,8906c8904,8906
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+8912,8914c8912,8914
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+8920,8922c8920,8922
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+8928,8930c8928,8930
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+8936,8938c8936,8938
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+8944,8946c8944,8946
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+8957,8959c8957,8959
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+8975c8975
+< Ayi
+---
+> Ayy
+8987c8987
+< Ayi
+---
+> Ayy
+8992c8992
+< CHARACT
+---
+> CHARACTER
+9010c9010
+< CHARACT
+---
+> CHARACTER
+9048,9050c9048,9050
+< mumbl
+< mumbl
+< mumbl
+---
+> mumble
+> mumble
+> mumble
+9053c9053
+< bell
+---
+> bells
+9056c9056
+< CHARACT
+---
+> CHARACTER
+9060c9060
+< Bloodi
+---
+> Bloody
+9065c9065
+< NARRAT
+---
+> NARRATOR
+9081c9081
+< thi
+---
+> this
+9084c9084
+< your
+---
+> yours
+9086c9086
+< PRINC
+---
+> PRINCE
+9092c9092
+< curtain
+---
+> curtains
+9100c9100
+< curtain
+---
+> curtains
+9110c9110
+< stretch
+---
+> stretched
+9114c9114
+< hill
+---
+> hills
+9116c9116
+< valley
+---
+> valleys
+9118c9118
+< thi
+---
+> this
+9121c9121
+< Thi
+---
+> This
+9157c9157
+< ani
+---
+> any
+9169c9169
+< thi
+---
+> this
+9173c9173
+< noth
+---
+> nothing
+9177c9177
+< start
+---
+> started
+9182,9183c9182,9183
+< wa
+< wa
+---
+> was
+> was
+9187c9187
+< king
+---
+> kings
+9190c9190
+< wa
+---
+> was
+9195c9195
+< castl
+---
+> castle
+9242c9242
+< burn
+---
+> burned
+9259c9259
+< stay
+---
+> stayed
+9277c9277
+< castl
+---
+> castle
+9280c9280
+< island
+---
+> islands
+9290c9290
+< ani
+---
+> any
+9331c9331
+< go
+---
+> going
+9347,9348c9347,9348
+< twenti
+< minut
+---
+> twenty
+> minutes
+9352,9353c9352,9353
+< get
+< marri
+---
+> getting
+> married
+9359c9359
+< own
+---
+> owns
+9362c9362
+< tract
+---
+> tracts
+9385c9385
+< Alic
+---
+> Alice
+9400c9400
+< bloodi
+---
+> bloody
+9442c9442
+< beauti
+---
+> beautiful
+9455c9455
+< tract
+---
+> tracts
+9474c9474
+< marri
+---
+> marry
+9487c9487
+< someth
+---
+> something
+9504c9504
+< marri
+---
+> marrying
+9506c9506
+< Lucki
+---
+> Lucky
+9514c9514
+< use
+---
+> used
+9522c9522
+< Guard
+---
+> Guards
+9527c9527
+< Princ
+---
+> Prince
+9531,9532c9531,9532
+< leav
+< thi
+---
+> leave
+> this
+9547c9547
+< leav
+---
+> leave
+9617c9617
+< leav
+---
+> leave
+9653c9653
+< anyth
+---
+> anything
+9660c9660
+< enter
+---
+> entering
+9670c9670
+< Leav
+---
+> Leaving
+9678c9678
+< Leav
+---
+> Leaving
+9682c9682
+< Ye
+---
+> Yes
+9739c9739
+< Ye
+---
+> Yes
+9766,9767c9766,9767
+< quit
+< simpl
+---
+> quite
+> simple
+9790c9790
+< leav
+---
+> leave
+9813c9813
+< rememb
+---
+> remember
+9819c9819
+< leav
+---
+> leave
+9852c9852
+< ye
+---
+> yes
+9862c9862
+< obvious
+---
+> obviously
+9869c9869
+< leav
+---
+> leave
+9900,9901c9900,9901
+< anyon
+< els
+---
+> anyone
+> else
+9908,9909c9908,9909
+< anyon
+< els
+---
+> anyone
+> else
+9978c9978
+< leav
+---
+> leave
+9995c9995
+< leav
+---
+> leave
+10002c10002
+< Princ
+---
+> Prince
+10006c10006
+< Ye
+---
+> Yes
+10015c10015
+< leav
+---
+> leave
+10023c10023
+< ye
+---
+> yes
+10026c10026
+< cours
+---
+> course
+10050c10050
+< seem
+---
+> seemed
+10085c10085
+< quit
+---
+> quite
+10089c10089
+< problem
+---
+> problems
+10098c10098
+< go
+---
+> going
+10107c10107
+< come
+---
+> coming
+10131c10131
+< leav
+---
+> leave
+10153c10153
+< nois
+---
+> noise
+10168c10168
+< sing
+---
+> singing
+10192,10194c10192,10194
+< scribbl
+< scribbl
+< scribbl
+---
+> scribble
+> scribble
+> scribble
+10209c10209
+< Concord
+---
+> Concorde
+10211c10211
+< CONCORD
+---
+> CONCORDE
+10232c10232
+< Steadi
+---
+> Steady
+10246c10246
+< Concord
+---
+> Concorde
+10251c10251
+< CONCORD
+---
+> CONCORDE
+10253c10253
+< Messag
+---
+> Message
+10264c10264
+< Concord
+---
+> Concorde
+10266c10266
+< Concord
+---
+> Concorde
+10275,10276c10275,10276
+< find
+< thi
+---
+> finds
+> this
+10282c10282
+< imprison
+---
+> imprisoned
+10288c10288
+< wish
+---
+> wishes
+10291c10291
+< marri
+---
+> marry
+10296c10296
+< Pleas
+---
+> Please
+10298c10298
+< pleas
+---
+> please
+10300c10300
+< pleas
+---
+> please
+10303c10303
+< rescu
+---
+> rescue
+10314c10314
+< Castl
+---
+> Castle
+10323c10323
+< cri
+---
+> cry
+10327c10327
+< Thi
+---
+> This
+10333c10333
+< lead
+---
+> leads
+10337c10337
+< Holi
+---
+> Holy
+10343c10343
+< Concord
+---
+> Concorde
+10349c10349
+< die
+---
+> died
+10353c10353
+< CONCORD
+---
+> CONCORDE
+10365c10365
+< quit
+---
+> quite
+10379,10380c10379,10380
+< mortal
+< wound
+---
+> mortally
+> wounded
+10384c10384
+< CONCORD
+---
+> CONCORDE
+10409c10409
+< CONCORD
+---
+> CONCORDE
+10411c10411
+< Actual
+---
+> Actually
+10434c10434
+< Concord
+---
+> Concorde
+10448c10448
+< accomplish
+---
+> accomplished
+10450c10450
+< dare
+---
+> daring
+10453c10453
+< rescu
+---
+> rescue
+10462c10462
+< CONCORD
+---
+> CONCORDE
+10472c10472
+< CONCORD
+---
+> CONCORDE
+10480c10480
+< actual
+---
+> actually
+10486c10486
+< Farewel
+---
+> Farewell
+10489c10489
+< Concord
+---
+> Concorde
+10491c10491
+< CONCORD
+---
+> CONCORDE
+10517,10518c10517,10518
+< insid
+< castl
+---
+> inside
+> castle
+10521c10521
+< LUCKi
+---
+> LUCKY
+10523c10523
+< GIRL
+---
+> GIRLS
+10526,10528c10526,10528
+< giggl
+< giggl
+< giggl
+---
+> giggle
+> giggle
+> giggle
+10531,10532c10531,10532
+< outsid
+< castl
+---
+> outside
+> castle
+10537c10537
+< Morn
+---
+> Morning
+10539c10539
+< SENTRi
+---
+> SENTRY
+10544c10544
+< Morn
+---
+> Morning
+10546c10546
+< SENTRi
+---
+> SENTRY
+10552c10552
+< SENTRi
+---
+> SENTRY
+10566c10566
+< SENTRi
+---
+> SENTRY
+10581c10581
+< LUCKi
+---
+> LUCKY
+10583c10583
+< GIRL
+---
+> GIRLS
+10586,10588c10586,10588
+< giggl
+< giggl
+< giggl
+---
+> giggle
+> giggle
+> giggle
+10597c10597
+< GUEST
+---
+> GUESTS
+10610c10610
+< thi
+---
+> this
+10639c10639
+< allow
+---
+> allowed
+10655c10655
+< humbl
+---
+> humble
+10674,10675c10674,10675
+< terribl
+< sorri
+---
+> terribly
+> sorry
+10706c10706
+< rescu
+---
+> rescue
+10729c10729
+< someon
+---
+> someone
+10735c10735
+< somewher
+---
+> somewhere
+10755c10755
+< someon
+---
+> someone
+10808c10808
+< rescu
+---
+> rescue
+10823c10823
+< conclus
+---
+> conclusions
+10832c10832
+< guard
+---
+> guards
+10840c10840
+< ye
+---
+> yes
+10842c10842
+< Sorri
+---
+> Sorry
+10848,10849c10848,10849
+< fifti
+< pound
+---
+> fifty
+> pounds
+10859,10860c10859,10860
+< aw
+< sorri
+---
+> awfully
+> sorry
+10865c10865
+< realli
+---
+> really
+10868c10868
+< everyth
+---
+> everything
+10890c10890
+< readi
+---
+> ready
+10895c10895
+< kill
+---
+> killed
+10897,10898c10897,10898
+< wed
+< guest
+---
+> wedding
+> guests
+10919c10919
+< wa
+---
+> was
+10921c10921
+< ladi
+---
+> lady
+10932c10932
+< Hurri
+---
+> Hurry
+10937c10937
+< Hurri
+---
+> Hurry
+10945,10946c10945,10946
+< onli
+< kill
+---
+> only
+> killed
+10963c10963
+< realli
+---
+> really
+10984c10984
+< hi
+---
+> his
+11002c11002
+< kick
+---
+> kicked
+11009c11009
+< Thi
+---
+> This
+11011c11011
+< go
+---
+> going
+11016c11016
+< fortun
+---
+> fortune
+11027c11027
+< wa
+---
+> was
+11034c11034
+< ride
+---
+> riding
+11042c11042
+< thi
+---
+> this
+11062c11062
+< Hurri
+---
+> Hurry
+11083c11083
+< Veri
+---
+> Very
+11085c11085
+< castl
+---
+> castle
+11091c11091
+< veri
+---
+> very
+11094c11094
+< countri
+---
+> country
+11103c11103
+< Hurri
+---
+> Hurry
+11108c11108
+< readi
+---
+> ready
+11137c11137
+< aw
+---
+> awfully
+11147c11147
+< readi
+---
+> ready
+11159c11159
+< understand
+---
+> understanding
+11186c11186
+< thi
+---
+> this
+11190c11190
+< sometim
+---
+> sometimes
+11199c11199
+< carri
+---
+> carried
+11209c11209
+< worri
+---
+> worry
+11223c11223
+< GUEST
+---
+> GUESTS
+11226c11226
+< cri
+---
+> crying
+11232c11232
+< thi
+---
+> this
+11241c11241
+< go
+---
+> going
+11245,11246c11245,11246
+< thi
+< knock
+---
+> this
+> knocked
+11257c11257
+< live
+---
+> living
+11270c11270
+< bloodi
+---
+> bloody
+11307c11307
+< Pleas
+---
+> Please
+11311c11311
+< Sorri
+---
+> Sorry
+11313c11313
+< Sorri
+---
+> Sorry
+11324c11324
+< carri
+---
+> carried
+11330c11330
+< realli
+---
+> really
+11332,11333c11332,11333
+< aw
+< sorri
+---
+> awfully
+> sorry
+11335c11335
+< Sorri
+---
+> Sorry
+11337c11337
+< Sorri
+---
+> Sorry
+11339c11339
+< everyon
+---
+> everyone
+11348c11348
+< kill
+---
+> killed
+11353c11353
+< GUEST
+---
+> GUESTS
+11356c11356
+< yell
+---
+> yelling
+11366c11366
+< Pleas
+---
+> Please
+11371c11371
+< Thi
+---
+> This
+11382c11382
+< veri
+---
+> very
+11385c11385
+< influenti
+---
+> influential
+11402c11402
+< kill
+---
+> killed
+11404c11404
+< aunti
+---
+> auntie
+11406c11406
+< GUEST
+---
+> GUESTS
+11409c11409
+< yell
+---
+> yelling
+11413c11413
+< Pleas
+---
+> Please
+11415c11415
+< Pleas
+---
+> Please
+11417c11417
+< Thi
+---
+> This
+11419c11419
+< suppos
+---
+> supposed
+11423,11424c11423,11424
+< happi
+< occas
+---
+> happy
+> occasion
+11432c11432
+< argu
+---
+> argue
+11435c11435
+< kill
+---
+> killed
+11443c11443
+< wit
+---
+> witness
+11449c11449
+< peopl
+---
+> people
+11452c11452
+< joy
+---
+> joyful
+11456c11456
+< holi
+---
+> holy
+11459c11459
+< Unfortun
+---
+> Unfortunately
+11469c11469
+< ha
+---
+> has
+11473c11473
+< hi
+---
+> his
+11476c11476
+< GUEST
+---
+> GUESTS
+11505c11505
+< gain
+---
+> gained
+11516c11516
+< sinc
+---
+> since
+11532c11532
+< quit
+---
+> quite
+11537c11537
+< Sinc
+---
+> Since
+11541c11541
+< wound
+---
+> wounding
+11553c11553
+< get
+---
+> getting
+11560c11560
+< sinc
+---
+> since
+11569c11569
+< seem
+---
+> seemed
+11572c11572
+< recov
+---
+> recover
+11574c11574
+< suddenli
+---
+> suddenly
+11577c11577
+< ici
+---
+> icy
+11600c11600
+< die
+---
+> died
+11607,11608c11607,11608
+< hi
+< onli
+---
+> his
+> only
+11621c11621
+< veri
+---
+> very
+11625,11627c11625,11627
+< legal
+< bind
+< sens
+---
+> legally
+> binding
+> sense
+11654c11654
+< danger
+---
+> dangerous
+11673c11673
+< Princ
+---
+> Prince
+11675c11675
+< GUEST
+---
+> GUESTS
+11681c11681
+< Princ
+---
+> Prince
+11683c11683
+< CONCORD
+---
+> CONCORDE
+11689c11689
+< quit
+---
+> quite
+11719,11720c11719,11720
+< wa
+< save
+---
+> was
+> saved
+11724c11724
+< minut
+---
+> minute
+11758c11758
+< GUEST
+---
+> GUESTS
+11761c11761
+< sing
+---
+> singing
+11766c11766
+< go
+---
+> going
+11773c11773
+< go
+---
+> going
+11783c11783
+< GUEST
+---
+> GUESTS
+11786c11786
+< sing
+---
+> singing
+11791c11791
+< go
+---
+> going
+11801c11801
+< GUEST
+---
+> GUESTS
+11804c11804
+< sing
+---
+> singing
+11809c11809
+< go
+---
+> going
+11819c11819
+< GUEST
+---
+> GUESTS
+11822c11822
+< sing
+---
+> singing
+11827c11827
+< go
+---
+> going
+11838c11838
+< GUEST
+---
+> GUESTS
+11841c11841
+< sing
+---
+> singing
+11846c11846
+< go
+---
+> going
+11853c11853
+< go
+---
+> going
+11860c11860
+< go
+---
+> going
+11867c11867
+< go
+---
+> going
+11872c11872
+< CONCORD
+---
+> CONCORDE
+11874c11874
+< Quickli
+---
+> Quickly
+11878c11878
+< GUEST
+---
+> GUESTS
+11881c11881
+< sing
+---
+> singing
+11886c11886
+< go
+---
+> going
+11891c11891
+< CONCORD
+---
+> CONCORDE
+11894c11894
+< thi
+---
+> this
+11897c11897
+< GUEST
+---
+> GUESTS
+11900c11900
+< sing
+---
+> singing
+11905c11905
+< go
+---
+> going
+11912c11912
+< go
+---
+> going
+11930c11930
+< GUEST
+---
+> GUESTS
+11933c11933
+< sing
+---
+> singing
+11938c11938
+< go
+---
+> going
+11942c11942
+< hi
+---
+> his
+11944c11944
+< escap
+---
+> escape
+11950c11950
+< escap
+---
+> escape
+11956c11956
+< GUEST
+---
+> GUESTS
+11959c11959
+< sing
+---
+> singing
+11971c11971
+< CONCORD
+---
+> CONCORDE
+11973c11973
+< Dramat
+---
+> Dramatically
+11979c11979
+< Dramat
+---
+> Dramatically
+11981c11981
+< GUEST
+---
+> GUESTS
+11984c11984
+< sing
+---
+> singing
+12006c12006
+< GUEST
+---
+> GUESTS
+12009c12009
+< sing
+---
+> singing
+12013,12014c12013,12014
+< wonder
+< escap
+---
+> wonderful
+> escape
+12018c12018
+< Excus
+---
+> Excuse
+12026c12026
+< somebodi
+---
+> somebody
+12032c12032
+< pleas
+---
+> please
+12069c12069
+< stop
+---
+> stops
+12073c12073
+< anywher
+---
+> anywhere
+12075c12075
+< thi
+---
+> this
+12082c12082
+< shrubberi
+---
+> shrubbery
+12085c12085
+< dramat
+---
+> dramatic
+12098c12098
+< Knight
+---
+> Knights
+12115c12115
+< shrubberi
+---
+> shrubberies
+12131c12131
+< shrubberi
+---
+> shrubbery
+12157c12157
+< Veri
+---
+> Very
+12166c12166
+< voluntarili
+---
+> voluntarily
+12178c12178
+< shrubberi
+---
+> shrubberies
+12189c12189
+< BEDEVER
+---
+> BEDEVERE
+12203c12203
+< BEDEVER
+---
+> BEDEVERE
+12223c12223
+< BEDEVER
+---
+> BEDEVERE
+12240c12240
+< do
+---
+> doing
+12242c12242
+< properli
+---
+> properly
+12246c12246
+< BEDEVER
+---
+> BEDEVERE
+12252c12252
+< BEDEVER
+---
+> BEDEVERE
+12276c12276
+< BEDEVER
+---
+> BEDEVERE
+12284c12284
+< BEDEVER
+---
+> BEDEVERE
+12296c12296
+< BEDEVER
+---
+> BEDEVERE
+12304c12304
+< BEDEVER
+---
+> BEDEVERE
+12312c12312
+< BEDEVER
+---
+> BEDEVERE
+12322c12322
+< say
+---
+> saying
+12335c12335
+< ye
+---
+> yes
+12343c12343
+< time
+---
+> times
+12347,12348c12347,12348
+< pass
+< ruffian
+---
+> passing
+> ruffians
+12357c12357
+< ladi
+---
+> ladies
+12362c12362
+< pestil
+---
+> pestilence
+12364c12364
+< thi
+---
+> this
+12367c12367
+< Noth
+---
+> Nothing
+12369c12369
+< sacr
+---
+> sacred
+12374c12374
+< arrang
+---
+> arrange
+12377c12377
+< shrubberi
+---
+> shrubberies
+12380,12381c12380,12381
+< consider
+< econom
+---
+> considerable
+> economic
+12384c12384
+< thi
+---
+> this
+12387c12387
+< histori
+---
+> history
+12395c12395
+< shrubberi
+---
+> shrubberies
+12399c12399
+< Ye
+---
+> Yes
+12401c12401
+< Shrubberi
+---
+> Shrubberies
+12419c12419
+< arrang
+---
+> arrange
+12425c12425
+< shrubberi
+---
+> shrubberies
+12427c12427
+< BEDEVER
+---
+> BEDEVERE
+12448c12448
+< Knight
+---
+> Knights
+12457c12457
+< shrubberi
+---
+> shrubbery
+12471c12471
+< shrubberi
+---
+> shrubbery
+12476,12477c12476,12477
+< laurel
+< particularli
+---
+> laurels
+> particularly
+12502c12502
+< Knight
+---
+> Knights
+12508c12508
+< KNIGHT
+---
+> KNIGHTS
+12525c12525
+< Knight
+---
+> Knights
+12529c12529
+< Ecki
+---
+> Ecky
+12531c12531
+< ecki
+---
+> ecky
+12533c12533
+< ecki
+---
+> ecky
+12535c12535
+< ecki
+---
+> ecky
+12541c12541
+< bo
+---
+> boing
+12558c12558
+< Therefor
+---
+> Therefore
+12571c12571
+< thi
+---
+> this
+12575c12575
+< Knight
+---
+> Knights
+12578c12578
+< Knight
+---
+> Knights
+12582c12582
+< Recent
+---
+> Recently
+12590c12590
+< Firstli
+---
+> Firstly
+12596,12597c12596,12597
+< anoth
+< shrubberi
+---
+> another
+> shrubbery
+12600c12600
+< dramat
+---
+> dramatic
+12606,12607c12606,12607
+< anoth
+< shrubberi
+---
+> another
+> shrubbery
+12623c12623
+< shrubberi
+---
+> shrubbery
+12630,12632c12630,12632
+< besid
+< thi
+< shrubberi
+---
+> beside
+> this
+> shrubbery
+12634,12635c12634,12635
+< onli
+< slightli
+---
+> only
+> slightly
+12647c12647
+< littl
+---
+> little
+12649c12649
+< run
+---
+> running
+12652c12652
+< middl
+---
+> middle
+12654c12654
+< KNIGHT
+---
+> KNIGHTS
+12692c12692
+< shrubberi
+---
+> shrubbery
+12708c12708
+< her
+---
+> herring
+12711c12711
+< dramat
+---
+> dramatic
+12728c12728
+< pleas
+---
+> please
+12738c12738
+< her
+---
+> herring
+12747c12747
+< KNIGHT
+---
+> KNIGHTS
+12781c12781
+< suffic
+---
+> suffice
+12788c12788
+< word
+---
+> words
+12790c12790
+< Knight
+---
+> Knights
+12816c12816
+< KNIGHT
+---
+> KNIGHTS
+12837c12837
+< KNIGHT
+---
+> KNIGHTS
+12863c12863
+< vari
+---
+> vary
+12868c12868
+< say
+---
+> saying
+12872c12872
+< KNIGHT
+---
+> KNIGHTS
+12886c12886
+< BEDEVER
+---
+> BEDEVERE
+12889c12889
+< lieg
+---
+> liege
+12900c12900
+< sing
+---
+> singing
+12902c12902
+< Pack
+---
+> Packing
+12906c12906
+< pack
+---
+> packing
+12911c12911
+< sneak
+---
+> sneaking
+12914c12914
+< bugger
+---
+> buggering
+12918c12918
+< chicken
+---
+> chickening
+12921c12921
+< piss
+---
+> pissing
+12925c12925
+< Ye
+---
+> Yes
+12927c12927
+< brave
+---
+> bravely
+12930c12930
+< throw
+---
+> throwing
+12933c12933
+< spong
+---
+> sponge
+12943c12943
+< lieg
+---
+> liege
+12966c12966
+< Sure
+---
+> Surely
+12977c12977
+< Holi
+---
+> Holy
+12983c12983
+< sing
+---
+> singing
+12987c12987
+< sneak
+---
+> sneaking
+12990c12990
+< bugger
+---
+> buggering
+13017c13017
+< KNIGHT
+---
+> KNIGHTS
+13026,13027c13026,13027
+< wa
+< look
+---
+> was
+> looking
+13031c13031
+< KNIGHT
+---
+> KNIGHTS
+13045c13045
+< thi
+---
+> this
+13056c13056
+< thi
+---
+> this
+13059c13059
+< KNIGHT
+---
+> KNIGHTS
+13071c13071
+< say
+---
+> saying
+13085c13085
+< KNIGHT
+---
+> KNIGHTS
+13106c13106
+< Patsi
+---
+> Patsy
+13148c13148
+< KNIGHT
+---
+> KNIGHTS
+13153c13153
+< NARRAT
+---
+> NARRATOR
+13160c13160
+< Bedever
+---
+> Bedevere
+13172c13172
+< enchant
+---
+> enchanter
+13182c13182
+< twenti
+---
+> twenty
+13197c13197
+< wa
+---
+> was
+13199c13199
+< rejoic
+---
+> rejoicing
+13201c13201
+< KNIGHT
+---
+> KNIGHTS
+13210c13210
+< NARRAT
+---
+> NARRATOR
+13221c13221
+< forc
+---
+> forced
+13227c13227
+< minstrel
+---
+> minstrels
+13234c13234
+< pitch
+---
+> pitched
+13241c13241
+< NARRAT
+---
+> NARRATOR
+13245c13245
+< wa
+---
+> was
+13247c13247
+< rejoic
+---
+> rejoicing
+13249c13249
+< KNIGHT
+---
+> KNIGHTS
+13253c13253
+< NARRAT
+---
+> NARRATOR
+13257c13257
+< pass
+---
+> passed
+13260c13260
+< CHARACT
+---
+> CHARACTER
+13263c13263
+< shiver
+---
+> shivering
+13265c13265
+< NARRAT
+---
+> NARRATOR
+13268c13268
+< chang
+---
+> changed
+13273c13273
+< CHARACT
+---
+> CHARACTER
+13279c13279
+< NARRAT
+---
+> NARRATOR
+13282c13282
+< chang
+---
+> changed
+13287c13287
+< CHARACT
+---
+> CHARACTER
+13293c13293
+< NARRAT
+---
+> NARRATOR
+13296c13296
+< chang
+---
+> changed
+13302c13302
+< CHARACT
+---
+> CHARACTER
+13306c13306
+< NARRAT
+---
+> NARRATOR
+13324c13324
+< CHARACT
+---
+> CHARACTER
+13335c13335
+< NARRAT
+---
+> NARRATOR
+13356c13356
+< stop
+---
+> stops
+13361c13361
+< KNIGHT
+---
+> KNIGHTS
+13376c13376
+< Knight
+---
+> Knights
+13414c13414
+< ENCHANT
+---
+> ENCHANTER
+13420c13420
+< enchant
+---
+> enchanter
+13444c13444
+< Greet
+---
+> Greetings
+13448c13448
+< Enchant
+---
+> Enchanter
+13452c13452
+< Greet
+---
+> Greetings
+13475c13475
+< Holi
+---
+> Holy
+13497c13497
+< Quit
+---
+> Quite
+13514c13514
+< Ye
+---
+> Yes
+13523c13523
+< look
+---
+> looking
+13526c13526
+< Holi
+---
+> Holy
+13535c13535
+< Holi
+---
+> Holy
+13538c13538
+< KNIGHT
+---
+> KNIGHTS
+13542c13542
+< Ye
+---
+> Yes
+13577c13577
+< look
+---
+> looking
+13581c13581
+< BEDEVER
+---
+> BEDEVERE
+13583c13583
+< Ye
+---
+> Yes
+13600c13600
+< BEDEVER
+---
+> BEDEVERE
+13611c13611
+< Age
+---
+> Ages
+13613c13613
+< BEDEVER
+---
+> BEDEVERE
+13627c13627
+< anyth
+---
+> anything
+13642c13642
+< veri
+---
+> very
+13644c13644
+< help
+---
+> helpful
+13671,13672c13671,13672
+< wast
+< ani
+---
+> waste
+> any
+13686c13686
+< suppos
+---
+> suppose
+13745c13745
+< Ye
+---
+> Yes
+13757c13757
+< ye
+---
+> yes
+13761c13761
+< Ye
+---
+> Yes
+13767c13767
+< KNIGHT
+---
+> KNIGHTS
+13776c13776
+< Ye
+---
+> Yes
+13808c13808
+< KNIGHT
+---
+> KNIGHTS
+13828c13828
+< busi
+---
+> busy
+13835c13835
+< Ye
+---
+> Yes
+13843c13843
+< Holi
+---
+> Holy
+13846c13846
+< KNIGHT
+---
+> KNIGHTS
+13861c13861
+< lie
+---
+> lies
+13872c13872
+< carv
+---
+> carved
+13875c13875
+< rune
+---
+> runes
+13878,13879c13878,13879
+< veri
+< live
+---
+> very
+> living
+13884c13884
+< word
+---
+> words
+13887c13887
+< Bedwer
+---
+> Bedwere
+13889c13889
+< Rhege
+---
+> Rheged
+13899c13899
+< rest
+---
+> resting
+13904c13904
+< Holi
+---
+> Holy
+13913c13913
+< thi
+---
+> this
+13926c13926
+< onli
+---
+> only
+13936c13936
+< entranc
+---
+> entrance
+13938c13938
+< thi
+---
+> this
+13941c13941
+< guard
+---
+> guarded
+13944c13944
+< creatur
+---
+> creature
+13954c13954
+< ha
+---
+> has
+13959c13959
+< live
+---
+> lived
+13961c13961
+< Bone
+---
+> Bones
+13964c13964
+< fifti
+---
+> fifty
+13969c13969
+< it
+---
+> its
+13975c13975
+< knight
+---
+> knights
+13982c13982
+< courag
+---
+> courage
+13993c13993
+< await
+---
+> awaits
+13997c13997
+< nasti
+---
+> nasty
+14001c14001
+< pointi
+---
+> pointy
+14008,14009c14008,14009
+< eccentr
+< perform
+---
+> eccentric
+> performance
+14019,14020c14019,14020
+< whinni
+< whinni
+---
+> whinny
+> whinny
+14027c14027
+< nervou
+---
+> nervous
+14038c14038
+< leav
+---
+> leave
+14042c14042
+< carri
+---
+> carry
+14047c14047
+< Di
+---
+> Dis
+14065c14065
+< cover
+---
+> covered
+14079c14079
+< cover
+---
+> covered
+14087c14087
+< dramat
+---
+> dramatic
+14126c14126
+< silli
+---
+> silly
+14139c14139
+< work
+---
+> worked
+14150c14150
+< ordinari
+---
+> ordinary
+14171c14171
+< temper
+---
+> tempered
+14176c14176
+< eye
+---
+> eyes
+14185c14185
+< soil
+---
+> soiled
+14189c14189
+< wa
+---
+> was
+14191c14191
+< scare
+---
+> scared
+14203c14203
+< viciou
+---
+> vicious
+14218c14218
+< stuf
+---
+> stuffed
+14241,14242c14241,14242
+< mangi
+< scot
+---
+> mangy
+> scots
+14250c14250
+< warn
+---
+> warning
+14261c14261
+< nibbl
+---
+> nibble
+14285c14285
+< bone
+---
+> bones
+14292c14292
+< Bor
+---
+> Bors
+14295c14295
+< hi
+---
+> his
+14299c14299
+< BOR
+---
+> BORS
+14303,14304c14303,14304
+< Silli
+< littl
+---
+> Silly
+> little
+14322c14322
+< BOR
+---
+> BORS
+14327c14327
+< dramat
+---
+> dramatic
+14335c14335
+< Jesu
+---
+> Jesus
+14341c14341
+< warn
+---
+> warned
+14354c14354
+< warn
+---
+> warned
+14386,14387c14386,14387
+< littl
+< bunni
+---
+> little
+> bunny
+14399c14399
+< alway
+---
+> always
+14404c14404
+< alway
+---
+> always
+14433c14433
+< KNIGHT
+---
+> KNIGHTS
+14435c14435
+< Charg
+---
+> Charge
+14442c14442
+< KNIGHT
+---
+> KNIGHTS
+14458c14458
+< KNIGHT
+---
+> KNIGHTS
+14488c14488
+< mani
+---
+> many
+14504c14504
+< Bor
+---
+> Bors
+14530c14530
+< anoth
+---
+> another
+14538c14538
+< dynamit
+---
+> dynamite
+14546c14546
+< confus
+---
+> confuse
+14563c14563
+< chang
+---
+> change
+14576c14576
+< becom
+---
+> become
+14584c14584
+< mistak
+---
+> mistake
+14602c14602
+< bow
+---
+> bows
+14613c14613
+< Holi
+---
+> Holy
+14615c14615
+< Grenad
+---
+> Grenade
+14619c14619
+< Ye
+---
+> Yes
+14622c14622
+< cours
+---
+> course
+14625c14625
+< Holi
+---
+> Holy
+14627c14627
+< Grenad
+---
+> Grenade
+14632c14632
+< Ti
+---
+> Tis
+14636,14637c14636,14637
+< sacr
+< relic
+---
+> sacred
+> relics
+14640c14640
+< carri
+---
+> carries
+14650c14650
+< Holi
+---
+> Holy
+14652c14652
+< Grenad
+---
+> Grenade
+14654c14654
+< MONK
+---
+> MONKS
+14657c14657
+< chant
+---
+> chanting
+14661c14661
+< domin
+---
+> domine
+14664c14664
+< ei
+---
+> eis
+14669c14669
+< domin
+---
+> domine
+14671c14671
+< donaei
+---
+> donaeis
+14676c14676
+< domin
+---
+> domine
+14679c14679
+< ei
+---
+> eis
+14684c14684
+< domin
+---
+> domine
+14692c14692
+< doe
+---
+> does
+14698c14698
+< doe
+---
+> does
+14709c14709
+< lieg
+---
+> liege
+14717c14717
+< Armament
+---
+> Armaments
+14722c14722
+< Armament
+---
+> Armaments
+14727c14727
+< vers
+---
+> verses
+14730c14730
+< Twenti
+---
+> Twenty
+14740c14740
+< rais
+---
+> raised
+14743c14743
+< grenad
+---
+> grenade
+14748c14748
+< say
+---
+> saying
+14754,14755c14754,14755
+< thi
+< thi
+---
+> this
+> thy
+14757c14757
+< grenad
+---
+> grenade
+14765c14765
+< enemi
+---
+> enemies
+14767,14768c14767,14768
+< tini
+< bit
+---
+> tiny
+> bits
+14771,14772c14771,14772
+< thi
+< merci
+---
+> thy
+> mercy
+14782c14782
+< peopl
+---
+> people
+14787c14787
+< lamb
+---
+> lambs
+14789c14789
+< sloth
+---
+> sloths
+14793c14793
+< anchovi
+---
+> anchovies
+14795c14795
+< orangutan
+---
+> orangutans
+14798c14798
+< cereal
+---
+> cereals
+14801c14801
+< bat
+---
+> bats
+14803c14803
+< larg
+---
+> large
+14822c14822
+< say
+---
+> saying
+14831c14831
+< Holi
+---
+> Holy
+14862c14862
+< count
+---
+> counting
+14879c14879
+< except
+---
+> excepting
+14892c14892
+< Onc
+---
+> Once
+14897c14897
+< be
+---
+> being
+14903c14903
+< reach
+---
+> reached
+14908,14909c14908,14909
+< thi
+< Holi
+---
+> thy
+> Holy
+14911c14911
+< Grenad
+---
+> Grenade
+14914,14915c14914,14915
+< toward
+< thi
+---
+> towards
+> thy
+14920,14921c14920,14921
+< be
+< naughti
+---
+> being
+> naughty
+14934c14934
+< KNIGHT
+---
+> KNIGHTS
+14959c14959
+< angel
+---
+> angels
+14977c14977
+< doe
+---
+> does
+14984c14984
+< languag
+---
+> language
+15003c15003
+< Arama
+---
+> Aramaic
+15008c15008
+< cours
+---
+> course
+15017c15017
+< Cours
+---
+> Course
+15022c15022
+< doe
+---
+> does
+15029c15029
+< read
+---
+> reads
+15038c15038
+< word
+---
+> words
+15055c15055
+< Holi
+---
+> Holy
+15059c15059
+< Castl
+---
+> Castle
+15071c15071
+< Castl
+---
+> Castle
+15075c15075
+< BEDEVER
+---
+> BEDEVERE
+15086c15086
+< die
+---
+> died
+15088c15088
+< carv
+---
+> carving
+15107c15107
+< say
+---
+> says
+15115,15116c15115,15116
+< wa
+< die
+---
+> was
+> dying
+15124c15124
+< carv
+---
+> carve
+15145c15145
+< carv
+---
+> carved
+15152c15152
+< Perhap
+---
+> Perhaps
+15154,15155c15154,15155
+< wa
+< dictat
+---
+> was
+> dictating
+15166c15166
+< doe
+---
+> does
+15169,15170c15169,15170
+< anyth
+< els
+---
+> anything
+> else
+15189c15189
+< BEDEVER
+---
+> BEDEVERE
+15193c15193
+< suppos
+---
+> suppose
+15197c15197
+< Camaaaaaargu
+---
+> Camaaaaaargue
+15206c15206
+< BEDEVER
+---
+> BEDEVERE
+15208c15208
+< Franc
+---
+> France
+15221c15221
+< Aauuuv
+---
+> Aauuuves
+15223c15223
+< Cornwal
+---
+> Cornwall
+15233c15233
+< Ive
+---
+> Ives
+15239c15239
+< ye
+---
+> yes
+15242c15242
+< Iiiiv
+---
+> Iiiives
+15244c15244
+< KNIGHT
+---
+> KNIGHTS
+15246c15246
+< Iiiiiv
+---
+> Iiiiives
+15248c15248
+< BEDEVER
+---
+> BEDEVERE
+15270c15270
+< BEDEVER
+---
+> BEDEVERE
+15288c15288
+< surpris
+---
+> surprise
+15304c15304
+< BEDEVER
+---
+> BEDEVERE
+15306c15306
+< Ye
+---
+> Yes
+15323c15323
+< dramat
+---
+> dramatic
+15335c15335
+< legendari
+---
+> legendary
+15346c15346
+< eat
+---
+> eats
+15350c15350
+< BEDEVER
+---
+> BEDEVERE
+15367c15367
+< KNIGHT
+---
+> KNIGHTS
+15388c15388
+< run
+---
+> running
+15413c15413
+< BEDEVER
+---
+> BEDEVERE
+15424c15424
+< KNIGHT
+---
+> KNIGHTS
+15428c15428
+< NARRAT
+---
+> NARRATOR
+15432c15432
+< horrend
+---
+> horrendous
+15435c15435
+< lung
+---
+> lunged
+15438c15438
+< escap
+---
+> escape
+15442,15444c15442,15444
+< hi
+< knight
+< seem
+---
+> his
+> knights
+> seemed
+15448c15448
+< suddenli
+---
+> suddenly
+15451,15452c15451,15452
+< anim
+< suffer
+---
+> animator
+> suffered
+15458c15458
+< ANIM
+---
+> ANIMATOR
+15465c15465
+< NARRAT
+---
+> NARRATOR
+15470c15470
+< wa
+---
+> was
+15477c15477
+< Holi
+---
+> Holy
+15480c15480
+< continu
+---
+> continue
+15486c15486
+< gurgl
+---
+> gurgle
+15497c15497
+< Bridg
+---
+> Bridge
+15519c15519
+< twenti
+---
+> twenty
+15523c15523
+< BEDEVER
+---
+> BEDEVERE
+15528c15528
+< do
+---
+> doing
+15539c15539
+< Bridg
+---
+> Bridge
+15544c15544
+< ask
+---
+> asks
+15546c15546
+< travel
+---
+> traveller
+15548c15548
+< question
+---
+> questions
+15553c15553
+< question
+---
+> questions
+15558c15558
+< question
+---
+> questions
+15562c15562
+< answer
+---
+> answers
+15565c15565
+< question
+---
+> questions
+15570c15570
+< question
+---
+> questions
+15575c15575
+< question
+---
+> questions
+15579c15579
+< safeti
+---
+> safety
+15599c15599
+< Gorg
+---
+> Gorge
+15601c15601
+< Etern
+---
+> Eternal
+15619c15619
+< go
+---
+> going
+15623c15623
+< question
+---
+> questions
+15632c15632
+< Ye
+---
+> Yes
+15655c15655
+< Whi
+---
+> Why
+15664c15664
+< Ye
+---
+> Yes
+15671c15671
+< lieg
+---
+> liege
+15677c15677
+< singl
+---
+> single
+15679c15679
+< hand
+---
+> handed
+15715c15715
+< question
+---
+> questions
+15720c15720
+< question
+---
+> questions
+15725c15725
+< question
+---
+> questions
+15745c15745
+< lieg
+---
+> liege
+15761c15761
+< BRIDGEKEEP
+---
+> BRIDGEKEEPER
+15769c15769
+< Bridg
+---
+> Bridge
+15776c15776
+< question
+---
+> questions
+15791c15791
+< question
+---
+> questions
+15793c15793
+< bridgekeep
+---
+> bridgekeeper
+15800c15800
+< BRIDGEKEEP
+---
+> BRIDGEKEEPER
+15817c15817
+< BRIDGEKEEP
+---
+> BRIDGEKEEPER
+15829c15829
+< Holi
+---
+> Holy
+15832c15832
+< BRIDGEKEEP
+---
+> BRIDGEKEEPER
+15837c15837
+< favorit
+---
+> favorite
+15844c15844
+< BRIDGEKEEP
+---
+> BRIDGEKEEPER
+15861c15861
+< veri
+---
+> very
+15869c15869
+< easi
+---
+> easy
+15871c15871
+< BRIDGEKEEP
+---
+> BRIDGEKEEPER
+15878c15878
+< Bridg
+---
+> Bridge
+15885c15885
+< question
+---
+> questions
+15900c15900
+< question
+---
+> questions
+15902c15902
+< bridgekeep
+---
+> bridgekeeper
+15910c15910
+< BRIDGEKEEP
+---
+> BRIDGEKEEPER
+15924c15924
+< BRIDGEKEEP
+---
+> BRIDGEKEEPER
+15936c15936
+< Holi
+---
+> Holy
+15939c15939
+< BRIDGEKEEP
+---
+> BRIDGEKEEPER
+15944c15944
+< capit
+---
+> capital
+15959c15959
+< BRIDGEKEEP
+---
+> BRIDGEKEEPER
+15975c15975
+< BRIDGEKEEP
+---
+> BRIDGEKEEPER
+15989c15989
+< BRIDGEKEEP
+---
+> BRIDGEKEEPER
+15994c15994
+< favorit
+---
+> favorite
+16006c16006
+< BRIDGEKEEP
+---
+> BRIDGEKEEPER
+16028c16028
+< Briton
+---
+> Britons
+16030c16030
+< BRIDGEKEEP
+---
+> BRIDGEKEEPER
+16042c16042
+< Holi
+---
+> Holy
+16045c16045
+< BRIDGEKEEP
+---
+> BRIDGEKEEPER
+16053c16053
+< veloc
+---
+> velocity
+16072c16072
+< BRIDGEKEEP
+---
+> BRIDGEKEEPER
+16087c16087
+< BEDEVER
+---
+> BEDEVERE
+16095c16095
+< swallow
+---
+> swallows
+16106c16106
+< thing
+---
+> things
+16118c16118
+< suspens
+---
+> suspenseful
+16123,16124c16123,16124
+< suddenli
+< stop
+---
+> suddenly
+> stops
+16127c16127
+< intermiss
+---
+> intermission
+16130c16130
+< suspens
+---
+> suspenseful
+16132c16132
+< resum
+---
+> resumes
+16145c16145
+< BEDEVER
+---
+> BEDEVERE
+16156c16156
+< polic
+---
+> police
+16161c16161
+< BEDEVER
+---
+> BEDEVERE
+16168c16168
+< angel
+---
+> angels
+16172,16173c16172,16173
+< sing
+< stop
+---
+> singing
+> stops
+16176c16176
+< ether
+---
+> ethereal
+16182c16182
+< Castl
+---
+> Castle
+16194c16194
+< prais
+---
+> praised
+16196c16196
+< Almighti
+---
+> Almighty
+16205c16205
+< vouchsaf
+---
+> vouchsafed
+16210c16210
+< holi
+---
+> holy
+16218c16218
+< Jesu
+---
+> Jesus
+16229c16229
+< dappi
+---
+> dappy
+16233c16233
+< nigget
+---
+> niggets
+16240c16240
+< ha
+---
+> has
+16254c16254
+< fellow
+---
+> fellows
+16266,16267c16266,16267
+< profan
+< thi
+---
+> profane
+> this
+16271c16271
+< presenc
+---
+> presence
+16282c16282
+< Knight
+---
+> Knights
+16289c16289
+< door
+---
+> doors
+16291,16293c16291,16293
+< thi
+< sacr
+< castl
+---
+> this
+> sacred
+> castle
+16299,16300c16299,16300
+< ha
+< guid
+---
+> has
+> guided
+16324c16324
+< direct
+---
+> direction
+16326c16326
+< son
+---
+> sons
+16347,16348c16347,16348
+< silli
+< knee
+---
+> silly
+> knees
+16351c16351
+< run
+---
+> running
+16353c16353
+< advanc
+---
+> advancing
+16359,16360c16359,16360
+< privat
+< part
+---
+> private
+> parts
+16363c16363
+< aunti
+---
+> aunties
+16366c16366
+< cheesi
+---
+> cheesy
+16371c16371
+< electr
+---
+> electric
+16375c16375
+< biter
+---
+> biters
+16388c16388
+< entranc
+---
+> entrance
+16390,16392c16390,16392
+< thi
+< sacr
+< castl
+---
+> this
+> sacred
+> castle
+16398c16398
+< chanc
+---
+> chance
+16403,16404c16403,16404
+< wet
+< type
+---
+> wetting
+> types
+16409c16409
+< pimpl
+---
+> pimples
+16417c16417
+< open
+---
+> opening
+16420c16420
+< silli
+---
+> silly
+16424c16424
+< tini
+---
+> tiny
+16426,16427c16426,16427
+< brain
+< wiper
+---
+> brained
+> wipers
+16430c16430
+< peopl
+---
+> people
+16433c16433
+< bottom
+---
+> bottoms
+16442c16442
+< thi
+---
+> this
+16448,16449c16448,16449
+< thi
+< castl
+---
+> this
+> castle
+16451c16451
+< forc
+---
+> force
+16463c16463
+< glori
+---
+> glory
+16471c16471
+< GUARD
+---
+> GUARDS
+16474c16474
+< laugh
+---
+> laughing
+16483c16483
+< settl
+---
+> settles
+16489c16489
+< Ye
+---
+> Yes
+16495c16495
+< thi
+---
+> this
+16501,16502c16501,16502
+< approach
+< ani
+---
+> approaching
+> any
+16507c16507
+< arrow
+---
+> arrows
+16510c16510
+< top
+---
+> tops
+16513c16513
+< head
+---
+> heads
+16516c16516
+< castanet
+---
+> castanets
+16520,16521c16520,16521
+< testicl
+< alreadi
+---
+> testicles
+> already
+16534c16534
+< ignor
+---
+> ignore
+16546c16546
+< illegitim
+---
+> illegitimate
+16548c16548
+< face
+---
+> faced
+16561,16563c16561,16563
+< nasti
+< taunt
+< thi
+---
+> nasty
+> taunting
+> this
+16571c16571
+< noth
+---
+> nothing
+16574c16574
+< dappi
+---
+> dappy
+16578c16578
+< nnnigget
+---
+> nnniggets
+16583c16583
+< GUARD
+---
+> GUARDS
+16586c16586
+< taunt
+---
+> taunting
+16594c16594
+< onc
+---
+> once
+16596c16596
+< BEDEVER
+---
+> BEDEVERE
+16598c16598
+< Ye
+---
+> Yes
+16601c16601
+< lieg
+---
+> liege
+16611c16611
+< excit
+---
+> exciting
+16616c16616
+< stop
+---
+> stops
+16619c16619
+< silenc
+---
+> silence
+16622c16622
+< person
+---
+> persons
+16625c16625
+< GUARD
+---
+> GUARDS
+16628c16628
+< taunt
+---
+> taunting
+16631c16631
+< Dappi
+---
+> Dappy
+16640c16640
+< mani
+---
+> many
+16646c16646
+< aveng
+---
+> avenged
+16656c16656
+< GUARD
+---
+> GUARDS
+16685c16685
+< lie
+---
+> lies
+16690c16690
+< Holi
+---
+> Holy
+16692c16692
+< return
+---
+> returns
+16697c16697
+< ha
+---
+> has
+16701c16701
+< GUARD
+---
+> GUARDS
+16711c16711
+< Charg
+---
+> Charge
+16713c16713
+< ARMi
+---
+> ARMY
+16715c16715
+< KNIGHT
+---
+> KNIGHTS
+16720c16720
+< polic
+---
+> police
+16728c16728
+< Ye
+---
+> Yes
+16734c16734
+< one
+---
+> ones
+16746,16747c16746,16747
+< Anybodi
+< arm
+---
+> Anybody
+> armed
+16752c16752
+< OFFIC
+---
+> OFFICER
+16773c16773
+< OFFIC
+---
+> OFFICER
+16797c16797
+< thi
+---
+> this
+16803c16803
+< OFFIC
+---
+> OFFICER
+16813c16813
+< BEDEVER
+---
+> BEDEVERE
+16823c16823
+< OFFIC
+---
+> OFFICER
+16829c16829
+< thi
+---
+> this
+16843c16843
+< OFFIC
+---
+> OFFICER
+16851c16851
+< OFFIC
+---
+> OFFICER
+16858c16858
+< hospit
+---
+> hospital
+16871c16871
+< OFFIC
+---
+> OFFICER
+16886c16886
+< OFFIC
+---
+> OFFICER
+16896c16896
+< OFFIC
+---
+> OFFICER
+16910c16910
+< offens
+---
+> offensive
+16916c16916
+< OFFIC
+---
+> OFFICER
+16937c16937
+< Everyth
+---
+> Everything
+16942c16942
+< OFFIC
+---
+> OFFICER
+16949c16949
+< sonni
+---
+> sonny
