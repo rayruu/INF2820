@@ -1,0 +1,25 @@
+START:
+0
+
+FINAL:
+1, 2, 10
+
+EDGES:
+0  TALL   1
+0  halv   3
+0  kvart  4
+1  #      4
+3  TALL   1
+1  på     7
+1  på     8
+7  halv   9
+8  halv   9
+9  TALL   10
+4  på     5
+4  over   6
+5  TALL   2
+6  TALL   2
+
+ABRS:
+TALL: 'en', 'to', 'tre', 'fire', 'fem','seks',
+      'syv', 'åtta', 'ni', 'ti', 'elleve', 'tolv'

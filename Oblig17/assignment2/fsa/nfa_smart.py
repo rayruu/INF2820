@@ -171,7 +171,9 @@ class NFAFromFile(NFA):
         # Always close the file!
         
 
-
+if(__name__ == "__main__"):
+	nfa = NFAFromFile('template.nfa')
+	print(nfa)
 
             
 
